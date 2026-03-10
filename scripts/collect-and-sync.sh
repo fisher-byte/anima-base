@@ -11,9 +11,9 @@ echo "========================================" >> "$LOG_FILE"
 echo "🚀 Collection Run: $(date '+%Y-%m-%d %H:%M:%S')" >> "$LOG_FILE"
 echo "========================================" >> "$LOG_FILE"
 
-# 检查GitHub连接
+# 检查GitHub连接（使用更短的超时）
 echo "📡 Checking GitHub connection..." >> "$LOG_FILE"
-if curl -s --max-time 10 https://github.com > /dev/null 2>&1; then
+if timeout 5 bash -c 'curl -s --max-time 3 https://github.com > /dev/null 2>&1' 2>/dev/null; then
     echo "✅ GitHub is reachable" >> "$LOG_FILE"
     
     # 尝试推送
