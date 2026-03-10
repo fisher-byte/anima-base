@@ -4,7 +4,7 @@ person: Lenny Rachitsky
 title: Lenny Rachitsky - 经典语录合集
 date: 2026-03-10
 source: multiple
- tags: [product-management, leadership, career, quotes]
+tags: [product-management, leadership, career, quotes]
 language: en
 ---
 
