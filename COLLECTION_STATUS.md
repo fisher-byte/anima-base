@@ -125,7 +125,7 @@
 |------|------|-----------|
 | Jackie Bavaro | product | 建 profile.md |
 | ~~John Cutler~~ | ~~product~~ | ✅ 已完成 |
-| Brandon Chu | product | 建 profile.md |
+| ~~Brandon Chu~~ | ~~product~~ | ✅ 已完成 |
 | Elena Verna | growth | 建 profile.md |
 | Chamath Palihapitiya | growth | 建 profile.md |
 | Dave Gerhardt | marketing | 建 profile.md |
