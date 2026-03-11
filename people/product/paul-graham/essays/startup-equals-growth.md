@@ -4,6 +4,7 @@ person: paul-graham
 title: Startup = Growth
 date: 2012-09
 source: https://paulgraham.com/growth.html
+original_file: ../../../files/articles/paul-graham/2012-09-startup-equals-growth.html
 status: published
 verification_status: reviewed
 tags: [startups, growth, metrics, entrepreneurship]

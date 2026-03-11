@@ -4,6 +4,7 @@ person: paul-graham
 title: How to Do Great Work
 date: 2023-07
 source: https://paulgraham.com/greatwork.html
+original_file: ../../../files/articles/paul-graham/2023-07-how-to-do-great-work.html
 status: published
 verification_status: reviewed
 tags: [career, excellence, creativity, ambition]

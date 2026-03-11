@@ -4,6 +4,7 @@ person: paul-graham
 title: Relentlessly Resourceful
 date: 2009-03
 source: https://paulgraham.com/relres.html
+original_file: ../../../files/articles/paul-graham/2006-09-relentlessly-resourceful.html
 status: published
 verification_status: reviewed
 tags: [founders, character, startups, determination]

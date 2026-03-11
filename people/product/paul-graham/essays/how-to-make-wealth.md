@@ -4,6 +4,7 @@ person: paul-graham
 title: How to Make Wealth
 date: 2004-05
 source: https://paulgraham.com/wealth.html
+original_file: ../../../files/articles/paul-graham/2004-09-how-to-make-wealth.html
 status: published
 verification_status: reviewed
 tags: [wealth, startups, entrepreneurship, economics]

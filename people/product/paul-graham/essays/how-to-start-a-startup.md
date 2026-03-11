@@ -4,6 +4,7 @@ person: paul-graham
 title: How to Start a Startup
 date: 2005-03
 source: https://paulgraham.com/start.html
+original_file: ../../../files/articles/paul-graham/2005-03-how-to-start-a-startup.html
 status: published
 verification_status: reviewed
 tags: [startups, founders, entrepreneurship, y-combinator]

@@ -4,6 +4,7 @@ person: paul-graham
 title: Superlinear Returns
 date: 2023-10
 source: https://paulgraham.com/superlinear.html
+original_file: ../../../files/articles/paul-graham/2023-10-superlinear-returns.html
 status: published
 verification_status: reviewed
 tags: [success, career, economics, compound-growth]

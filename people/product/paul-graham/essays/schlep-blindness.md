@@ -4,6 +4,7 @@ person: paul-graham
 title: Schlep Blindness
 date: 2012-01
 source: https://paulgraham.com/schlep.html
+original_file: ../../../files/articles/paul-graham/2012-01-schlep-blindness.html
 status: published
 verification_status: reviewed
 tags: [startups, ideas, psychology, entrepreneurship]

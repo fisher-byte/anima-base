@@ -4,6 +4,7 @@ person: paul-graham
 title: Startups in 13 Sentences
 date: 2009-02
 source: https://paulgraham.com/13sentences.html
+original_file: ../../../files/articles/paul-graham/2009-02-startups-in-13-sentences.html
 status: published
 verification_status: reviewed
 tags: [startups, advice, founders, entrepreneurship]

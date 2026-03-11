@@ -4,6 +4,7 @@ person: paul-graham
 title: Mean People Fail
 date: 2014-11
 source: https://paulgraham.com/mean.html
+original_file: ../../../files/articles/paul-graham/2005-02-mean-people-fail.html
 status: published
 verification_status: reviewed
 tags: [startups, character, success, culture]

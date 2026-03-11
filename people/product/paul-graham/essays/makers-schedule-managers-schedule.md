@@ -4,6 +4,7 @@ person: paul-graham
 title: Maker's Schedule, Manager's Schedule
 date: 2009-07
 source: https://paulgraham.com/makersschedule.html
+original_file: ../../../files/articles/paul-graham/2009-07-makers-schedule-managers-schedule.html
 status: published
 verification_status: reviewed
 tags: [productivity, time-management, programming, meetings]

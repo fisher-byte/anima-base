@@ -4,6 +4,7 @@ person: paul-graham
 title: Be Good
 date: 2008-04
 source: https://paulgraham.com/good.html
+original_file: ../../../files/articles/paul-graham/2004-11-be-good.html
 status: published
 verification_status: reviewed
 tags: [startups, values, ethics, y-combinator]

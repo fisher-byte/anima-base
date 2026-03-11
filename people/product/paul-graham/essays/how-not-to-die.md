@@ -4,6 +4,7 @@ person: paul-graham
 title: How Not to Die
 date: 2007-08
 source: https://paulgraham.com/die.html
+original_file: ../../../files/articles/paul-graham/2007-08-how-not-to-die.html
 status: published
 verification_status: reviewed
 tags: [startups, survival, persistence, founders]

@@ -4,6 +4,7 @@ person: paul-graham
 title: How to Get Startup Ideas
 date: 2012-11
 source: https://paulgraham.com/startupideas.html
+original_file: ../../../files/articles/paul-graham/2012-11-how-to-get-startup-ideas.html
 status: published
 verification_status: reviewed
 tags: [startups, ideas, product-market-fit, entrepreneurship]

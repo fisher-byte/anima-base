@@ -4,6 +4,7 @@ person: paul-graham
 title: How to Disagree
 date: 2008-03
 source: https://paulgraham.com/disagree.html
+original_file: ../../../files/articles/paul-graham/2008-03-how-to-disagree.html
 status: published
 verification_status: reviewed
 tags: [argumentation, communication, critical-thinking]

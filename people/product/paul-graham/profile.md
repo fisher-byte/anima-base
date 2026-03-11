@@ -70,8 +70,6 @@ language: en
 
 > "Live in the future, then build what's missing."
 
-> "If you're not embarrassed by the first version of your product, you've launched too late."
-
 ## 著作
 
 ### Hackers & Painters (2004)

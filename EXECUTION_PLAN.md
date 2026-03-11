@@ -93,8 +93,9 @@
 2. 读取 EXECUTION_PLAN.md 查看待处理任务队列
 3. 执行队列中下一个待完成任务：
    - 通过网络搜索收集该人物的所有公开资源
+   - **重要：下载并保存原文文件到 media/ 或 files/ 目录**
    - 创建对应类型的内容文件（frameworks/podcasts/articles/books）
-   - 每个文件包含：YAML frontmatter + 核心内容 + 来源链接
+   - 每个文件包含：YAML frontmatter + 核心内容 + 原文链接
 4. 更新 COLLECTION_STATUS.md 对应人物的数字
 5. 记录本次执行到 TASK_LOG.md
 6. 提交到GitHub，格式：feat(collection): add {人物名} {内容类型}
@@ -102,6 +103,34 @@
 执行顺序：严格按照 EXECUTION_PLAN 中的 Phase 1 → 2 → 3 → 4
 """
 ```
+
+### 原文保存规范（强制执行）
+
+**根据 FILE_STORAGE_POLICY.md，必须执行双轨制：**
+
+#### 1. 播客内容
+- 下载 MP3 → `media/audio/{person}/podcast/{date}-show-name.mp3`
+- 保存转录 TXT → `media/audio/{person}/podcast/{date}-show-name-transcript.txt`
+- 索引文件包含原文链接
+
+#### 2. 文章内容
+- 保存 HTML → `files/articles/{person}/{date}-title.html`
+- 保存 PDF（如有）→ `files/pdf/{person}/articles/{date}-title.pdf`
+- 索引文件包含原文链接
+
+#### 3. 书籍内容
+- 保存 EPUB → `media/ebook/{title}.epub`
+- 保存 PDF → `files/pdf/{person}/books/{title}.pdf`
+
+#### 4. 索引文件原文链接模板
+```markdown
+**原文链接**: [查看HTML](../../../files/articles/{person}/{date}-title.html)
+**PDF版本**: [下载PDF](../../../files/pdf/{person}/articles/{date}-title.pdf)
+**音频文件**: [下载MP3](../../../media/audio/{person}/podcast/{date}-show-name.mp3)
+**完整转录**: [查看TXT](../../../media/audio/{person}/podcast/{date}-show-name-transcript.txt)
+```
+
+**重要：禁止只保存摘要，必须保存原文文件！**
 
 ### 跳过任务条件
 如果遇到以下情况，跳过当前人物并记录原因：
@@ -136,6 +165,7 @@
    title: 文档标题
    date: YYYY-MM-DD
    source: 原始来源URL
+   original_file: 原文文件路径（相对路径）
    status: published/draft
    verification_status: reviewed/needs-review
    ---
@@ -147,10 +177,17 @@
    - 文章文档：摘要 + 核心观点 + 实践建议
    - 书籍摘要：章节概览 + 核心思想 + 适用场景
 
-3. **来源验证**
+3. **原文文件**（必须保存）
+   - 播客：保存 MP3 和转录到 `media/audio/{person}/podcast/`
+   - 文章：保存 HTML 到 `files/articles/{person}/` 或 PDF 到 `files/pdf/{person}/articles/`
+   - 书籍：保存 EPUB 到 `media/ebook/` 或 PDF 到 `files/pdf/{person}/books/`
+   - 在索引文件中添加原文链接
+
+4. **来源验证**
    - 所有框架和数字必须来自原始来源
    - 标注来源链接
    - 避免AI幻觉
+   - 原文文件是验证来源的关键依据
 
 ### 提交规范
 

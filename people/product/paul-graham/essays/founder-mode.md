@@ -4,6 +4,7 @@ person: paul-graham
 title: Founder Mode
 date: 2024-09
 source: https://paulgraham.com/foundermode.html
+original_file: ../../../files/articles/paul-graham/2024-09-founder-mode.html
 status: published
 verification_status: reviewed
 tags: [founders, management, leadership, scaling]

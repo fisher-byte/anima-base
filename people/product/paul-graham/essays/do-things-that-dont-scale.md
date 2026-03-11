@@ -4,6 +4,7 @@ person: paul-graham
 title: Do Things That Don't Scale
 date: 2013-07
 source: https://paulgraham.com/ds.html
+original_file: ../../../files/articles/paul-graham/2013-07-do-things-that-dont-scale.html
 status: published
 verification_status: reviewed
 tags: [startups, growth, user-acquisition, y-combinator]
