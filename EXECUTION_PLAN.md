@@ -1,173 +1,208 @@
-# Anima Base - 究极执行计划
+# 执行计划 — Anima Base 内容扩充
 
-## 🎯 使命宣言
-打造人类知识宝库，全面收集各领域领袖的所有资料，达到 Lenny's Podcast Transcripts 的详细程度。
-
-## 📋 任务清单
-
-### Phase 1: 核心人物深度建设（进行中）
-
-#### Lenny Rachitsky [进行中]
-- [x] Profile 档案
-- [x] Quotes 语录合集
-- [x] Podcast 转录模板（3集）
-- [x] Article 文章模板（3篇）
-- [ ] 收集完整播客转录（通过YouTube字幕）
-- [ ] 收集所有新闻稿文章
-- [ ] 收集Twitter精华
-- [ ] 收集演讲视频
-
-#### Brian Chesky [待开始]
-- [x] Profile 档案
-- [ ] Quotes 语录合集
-- [ ] Podcast 转录（Lenny's Podcast + 其他）
-- [ ] 演讲/访谈视频
-- [ ] Airbnb相关文章
-
-#### Shreyas Doshi [待开始]
-- [x] Profile 档案
-- [ ] Quotes 语录合集
-- [ ] Twitter 精华整理
-- [ ] 播客访谈
-- [ ] 文章合集
-
-#### Marty Cagan [待开始]
-- [x] Profile 档案
-- [ ] 《Inspired》全书详细摘要
-- [ ] 《Empowered》全书详细摘要
-- [ ] 《Transformed》全书详细摘要
-- [ ] SVPG 博客文章全集
-- [ ] 演讲视频转录
-
-### Phase 2: 内容采集渠道建设
-
-#### YouTube内容采集
-- [ ] 安装 yt-dlp
-- [ ] 配置字幕下载脚本
-- [ ] 批量下载Lenny's Podcast字幕
-- [ ] 批量下载其他播客字幕
-
-#### 播客音频转录
-- [ ] 配置OpenAI Whisper API
-- [ ] 音频下载脚本
-- [ ] 批量转录流程
-- [ ] 人工校对流程
-
-#### RSS文章采集
-- [ ] 扩展RSS订阅源至50+
-- [ ] 自动化文章抓取
-- [ ] 去重与质量筛选
-- [ ] 全文保存
-
-#### Twitter内容采集
-- [ ] Twitter API v2配置
-- [ ] 目标人物推文抓取
-- [ ] 精华推文筛选
-- [ ] 线程整理
-
-#### 书籍内容采集
-- [ ] Z-Library下载配置
-- [ ] 自动摘要生成
-- [ ] 章节详细笔记
-- [ ] 核心语录提取
-
-### Phase 3: 自动化工作流
-
-#### 每日自动执行
-- [x] GitHub同步（每15分钟）
-- [ ] RSS检查与采集
-- [ ] Twitter更新检查
-- [ ] YouTube新视频检查
-- [ ] 索引更新
-
-#### 每周深度采集
-- [ ] 新播客转录
-- [ ] 新文章收集
-- [ ] 内容质量审查
-- [ ] 缺失内容补充
-
-#### 月度全面审查
-- [ ] 人物档案完整性检查
-- [ ] 内容来源更新
-- [ ] 质量报告生成
-- [ ] 下月计划制定
-
-## 🛠️ 工具清单
-
-### 必备工具
-| 工具 | 用途 | 状态 |
-|------|------|------|
-| yt-dlp | YouTube视频/字幕下载 | 待安装 |
-| Whisper API | 音频转录 | 待配置 |
-| feedparser | RSS解析 | 已安装 |
-| playwright | 浏览器自动化 | 已可用 |
-| GitHub API | 自动同步 | 已配置 |
-
-### 待开发脚本
-- [ ] youtube_subtitle_downloader.py
-- [ ] podcast_transcriber.py
-- [ ] rss_article_collector.py
-- [ ] twitter_curator.py
-- [ ] book_downloader.py
-- [ ] content_quality_checker.py
-
-## 📊 质量指标
-
-### 每个人物档案标准
-- [ ] Profile: ≥2000字完整档案
-- [ ] Quotes: ≥50条分类语录
-- [ ] Podcasts: ≥5集完整转录
-- [ ] Articles: ≥10篇全文
-- [ ] Books: 所有著作详细摘要
-- [ ] Talks: 所有演讲视频转录
-
-### 内容完整性
-- [ ] 100%内容有来源链接
-- [ ] 100%有时间戳
-- [ ] 100%保留原始内容
-- [ ] 自动生成主题索引
-
-## 🔄 执行频率
-
-| 任务 | 频率 | 下次执行 |
-|------|------|----------|
-| GitHub同步 | 每15分钟 | 自动 |
-| RSS检查 | 每小时 | 待设置 |
-| Twitter采集 | 每日 | 待设置 |
-| YouTube检查 | 每日 | 待设置 |
-| 深度内容采集 | 每周日 | 待设置 |
-| 质量审查 | 每月1号 | 待设置 |
-
-## 📈 进度追踪
-
-### 当前状态（2026-03-11）
-- 人物档案: 10人
-- 播客转录模板: 3集
-- 文章模板: 3篇
-- 语录合集: 1份
-- GitHub推送: ✅ 成功
-
-### 本周目标
-- [ ] 完成Lenny Rachitsky完整档案
-- [ ] 完成Brian Chesky完整档案
-- [ ] 完成3个人物的播客转录
-- [ ] 安装并配置yt-dlp
-
-### 本月目标
-- [ ] 完成所有10个种子人物档案
-- [ ] 建立完整的内容采集流水线
-- [ ] 实现自动化内容更新
-- [ ] 达到100个完整转录/文章
-
-## 🚀 立即执行
-
-1. **安装yt-dlp**
-2. **下载YouTube字幕**
-3. **收集RSS文章**
-4. **扩展人物档案**
+> 本计划指导定时任务持续执行，分阶段完成全部人物的内容扩充。
+>
+> 最后更新：2026-03-11
 
 ---
 
-**项目地址**: https://github.com/fisher-byte/anima-base
-**本地路径**: /root/.openclaw/workspace/anima-base
-**注意**: GitHub Token已保存在USER.md中，不在此文件重复记录
+## 当前进度回顾
+
+**已完成（2026-03-11）：**
+- ✅ Brian Chesky 语录集（50+ 条）
+- ✅ Marty Cagan 书籍摘要（Inspired/Empowered/Transformed）
+- ✅ 11位专家空档案启动（Jackie Bavaro、John Cutler、Brandon Chu、Elena Verna、Chamath Palihapitiya、Dave Gerhardt、Rand Fishkin、Satya Nadella、Reed Hastings、Andy Grove、Paul Graham）
+
+**待处理优先级队列：**
+- P0: Shreyas Doshi Twitter精华（API配置待定）
+- P1: Julie Zhuo、Teresa Torres、Paul Graham、April Dunford、Ben Horowitz、Ray Dalio
+- P2: 上述11位已建目录但需完善profile的人物
+
+---
+
+## 持续执行策略
+
+### 执行原则
+1. **每次一个人物**：单次执行专注于完成一个人物的一种内容类型
+2. **由易到难**：优先处理不需要复杂API的任务（播客、文章、框架）
+3. **可追溯**：每次执行记录人物、内容类型、完成度
+4. **自动提交**：每个任务完成后自动提交到GitHub
+
+### 任务队列（按执行顺序）
+
+#### Phase 1: P1 现有内容扩充（7人）
+
+每轮处理一个人物的指定内容类型：
+
+| 轮次 | 人物 | 内容类型 | 目标量 |
+|------|------|----------|--------|
+| 1 | paul-graham | essays | 补充15+篇精选文章 |
+| 2 | april-dunford | frameworks | Obviously Awesome完整框架 |
+| 3 | ben-horowitz | books | The Hard Thing About Hard Things摘要 |
+| 4 | ray-dalio | frameworks | Principles核心框架 |
+| 5 | julie-zhuo | podcasts | 整理10+个播客洞察 |
+| 6 | teresa-torres | podcasts | 整理10+个播客洞察 |
+| 7 | julie-zhuo | frameworks | 补充5+个框架文档 |
+| 8 | teresa-torres | frameworks | 补充5+个框架文档 |
+
+#### Phase 2: P2 空档案完善（11人）
+
+每轮完成一个人物的完整profile：
+
+| 轮次 | 人物 | 任务 |
+|------|------|------|
+| 9 | jackie-bavaro | 完整profile + 初步内容 |
+| 10 | john-cutler | 完整profile + 初步内容 |
+| 11 | brandon-chu | 完整profile + 初步内容 |
+| 12 | elena-verna | 完整profile + 初步内容 |
+| 13 | chamath-palihapitiya | 完整profile + 初步内容 |
+| 14 | dave-gerhardt | 完整profile + 初步内容 |
+| 15 | rand-fishkin | 完整profile + 初步内容 |
+| 16 | satya-nadella | 完整profile + 初步内容 |
+| 17 | reed-hastings | 完整profile + 初步内容 |
+| 18 | andy-grove | 完整profile + 初步内容 |
+
+#### Phase 3: P0 延后任务
+
+- Shreyas Doshi Twitter精华（等待API配置或手动导入）
+- Lenny Rachitsky 更多框架（基于281集转录提炼，可并行进行）
+
+#### Phase 4: P3 新增人物
+
+- naval-ravikant、gustaf-alstromer、amanda-natividad 等
+
+---
+
+## 定时任务配置
+
+### 执行频率
+- **当前配置**：每小时执行（0 * * * *）
+- **建议配置**：每2小时执行（0 */2 * * *）
+  - 避免过度消耗token
+  - 给每次执行充足时间完成一个完整人物任务
+  - 每天约12次执行，可完成更多进度
+
+### 单次任务流程
+
+```python
+# 定时任务提示词模板
+"""
+每次执行时：
+
+1. 读取 COLLECTION_STATUS.md 了解当前进度
+2. 读取 EXECUTION_PLAN.md 查看待处理任务队列
+3. 执行队列中下一个待完成任务：
+   - 通过网络搜索收集该人物的所有公开资源
+   - 创建对应类型的内容文件（frameworks/podcasts/articles/books）
+   - 每个文件包含：YAML frontmatter + 核心内容 + 来源链接
+4. 更新 COLLECTION_STATUS.md 对应人物的数字
+5. 记录本次执行到 TASK_LOG.md
+6. 提交到GitHub，格式：feat(collection): add {人物名} {内容类型}
+
+执行顺序：严格按照 EXECUTION_PLAN 中的 Phase 1 → 2 → 3 → 4
+"""
+```
+
+### 跳过任务条件
+如果遇到以下情况，跳过当前人物并记录原因：
+- 人物资料极其稀少，搜索无结果
+- 需要API认证但未配置（如Twitter）
+- 遇到技术障碍无法解决
+
+---
+
+## 任务追踪
+
+每次执行后，在 `TASK_LOG.md` 中记录：
+
+```markdown
+| 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit |
+|----------|------|----------|------|--------|--------|
+| 2026-03-11 18:00 | paul-graham | essays | ✅ | 16 | abc123 |
+```
+
+---
+
+## 质量标准
+
+### 内容文件规范
+
+所有新建文件必须包含：
+1. **YAML frontmatter**（完整）
+   ```yaml
+   ---
+   type: article/framework/podcast/book
+   person: person-name
+   title: 文档标题
+   date: YYYY-MM-DD
+   source: 原始来源URL
+   status: published/draft
+   verification_status: reviewed/needs-review
+   ---
+   ```
+
+2. **核心内容**
+   - 框架文档：框架说明 + 应用场景 + 实施步骤
+   - 播客文档：嘉宾 + 核心洞察（5-10点） + 时间戳
+   - 文章文档：摘要 + 核心观点 + 实践建议
+   - 书籍摘要：章节概览 + 核心思想 + 适用场景
+
+3. **来源验证**
+   - 所有框架和数字必须来自原始来源
+   - 标注来源链接
+   - 避免AI幻觉
+
+### 提交规范
+
+```bash
+git add .
+git commit -m "feat(collection): add {人物名} {内容类型} ({数量})"
+git push
+```
+
+---
+
+## 监控与调整
+
+### 进度监控
+- 每周检查 `COLLECTION_STATUS.md` 完成度
+- 每10次执行检查 `TASK_LOG.md` 执行情况
+
+### 必要调整
+- 如果某个人物连续跳过2次，考虑移至队列末尾
+- 如果某类内容类型耗时过长，考虑拆分任务
+- 根据token消耗调整执行频率
+
+---
+
+## 附录：快速参考
+
+### 人物路径对照表
+
+| 人物 | 目录路径 |
+|------|----------|
+| paul-graham | `people/product/paul-graham/` |
+| april-dunford | `people/product/april-dunford/` |
+| ben-horowitz | `people/leadership/ben-horowitz/` |
+| ray-dalio | `people/leadership/ray-dalio/` |
+| julie-zhuo | `people/product/julie-zhuo/` |
+| teresa-torres | `people/product/teresa-torres/` |
+| jackie-bavaro | `people/product/jackie-bavaro/` |
+| john-cutler | `people/product/john-cutler/` |
+| brandon-chu | `people/product/brandon-chu/` |
+| elena-verna | `people/growth/elena-verna/` |
+| chamath-palihapitiya | `people/growth/chamath-palihapitiya/` |
+| dave-gerhardt | `people/marketing/dave-gerhardt/` |
+| rand-fishkin | `people/marketing/rand-fishkin/` |
+| satya-nadella | `people/leadership/satya-nadella/` |
+| reed-hastings | `people/leadership/reed-hastings/` |
+| andy-grove | `people/leadership/andy-grove/` |
+
+### 质量检查清单
+
+- [ ] YAML frontmatter 完整
+- [ ] 文件名符合命名规范（lowercase-with-hyphens）
+- [ ] 来源链接已标注
+- [ ] verification_status 已设置
+- [ ] 无明显的AI幻觉内容
+- [ ] 内容达到最低标准要求
