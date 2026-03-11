@@ -76,7 +76,7 @@
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Ben Horowitz | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P1 | 需补 Hard Thing 书籍摘要 |
-| Ray Dalio | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 需补 Principles 框架 |
+| Ray Dalio | ✅ | ✅ | 0 | 0 | 2 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架已完成 |
 | Satya Nadella | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 有 profile，需补充内容 |
 | Reed Hastings | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 有 profile，需补充内容 |
 | Andy Grove | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P3 | 有 profile，需补充内容 |

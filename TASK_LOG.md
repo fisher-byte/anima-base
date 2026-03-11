@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-11 22:20 | ray-dalio | frameworks | ✅ | 2 | - | 新增5 Step Process + Idea Meritocracy |
 | 2026-03-11 22:10 | ben-horowitz | books | ✅ | 1 | - | 新增The Hard Thing About Hard Things书籍摘要 |
 | 2026-03-11 22:00 | april-dunford | frameworks | ✅ | 5 | - | 新增Positioning Canvas + Sales Pitch + 更新原文链接 |
 | 2026-03-11 20:15 | paul-graham | essays | ✅ | 5 | 18a43dc | 新增5篇：Writes/Life is Short/Identity/Black Swan/Need to Read |
