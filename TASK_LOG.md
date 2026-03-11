@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-11 20:15 | paul-graham | essays | ✅ | 5 | 18a43dc | 新增5篇：Writes/Life is Short/Identity/Black Swan/Need to Read |
 | 2026-03-11 19:35 | - | 质量增强 | ✅ | 13 | f630a72 | 添加原文链接到播客 + 强化质量标准 |
 | 2026-03-11 19:30 | paul-graham | essays | ✅ | 34 | 85bfbc6 | 修正：添加16篇原文HTML + 更新原文链接 + 修正错误语录 |
 | 2026-03-11 19:30 | paul-graham | essays | ✅ | 18 | 605cd19 | 完整profile + 17篇essays摘要 + README索引 |
