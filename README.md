@@ -36,7 +36,7 @@
 
 | 人物 | 职位 | Profile | 播客 | 文章 | 框架 |
 |------|------|:-------:|:----:|:----:|:----:|
-| [Lenny Rachitsky](./people/product/lenny-rachitsky/profile.md) | Lenny's Podcast 创始人 | ✅ | 3 | — | 1 |
+| [Lenny Rachitsky](./people/product/lenny-rachitsky/profile.md) | Lenny's Podcast 创始人 | ✅ | 290 | — | 1 |
 | [Brian Chesky](./people/product/brian-chesky/profile.md) | Airbnb CEO | ✅ | 10 | 1 | 15 |
 | [Marty Cagan](./people/product/marty-cagan/profile.md) | SVPG 合伙人 | ✅ | 6 | 1 | 12 |
 | [Shreyas Doshi](./people/product/shreyas-doshi/profile.md) | 产品领导力教练 | ✅ | 2 | 1 | 8 |
@@ -103,8 +103,8 @@
 |------|:----:|:----:|
 | 人物目录 | 28 | 30+ |
 | 有完整 Profile | 18 | 28 |
-| 播客文档（本库） | 46 集 | 350+ |
-| Lenny 播客（外部引用） | 281 集 | 完整覆盖 |
+| 播客文档（本库） | 336 集 | 350+ |
+| Lenny 播客（已导入） | 290 集 | 完整 |
 | 文章文档 | 11 篇 | 920+ |
 | 框架文档 | 45 篇 | 350+ |
 
@@ -160,7 +160,7 @@ anima-base/
 
 | Expert | Role | Profile | Podcasts | Articles | Frameworks |
 |--------|------|:-------:|:--------:|:--------:|:----------:|
-| [Lenny Rachitsky](./people/product/lenny-rachitsky/profile.md) | Founder, Lenny's Podcast | ✅ | 3 | — | 1 |
+| [Lenny Rachitsky](./people/product/lenny-rachitsky/profile.md) | Founder, Lenny's Podcast | ✅ | 290 | — | 1 |
 | [Brian Chesky](./people/product/brian-chesky/profile.md) | CEO, Airbnb | ✅ | 10 | 1 | 15 |
 | [Marty Cagan](./people/product/marty-cagan/profile.md) | Partner, SVPG | ✅ | 6 | 1 | 12 |
 | [Shreyas Doshi](./people/product/shreyas-doshi/profile.md) | Product Leadership Coach | ✅ | 2 | 1 | 8 |
@@ -227,8 +227,8 @@ anima-base/
 |--------|:-------:|:------:|
 | Expert directories | 28 | 30+ |
 | Complete profiles | 18 | 28 |
-| Podcast docs (this repo) | 46 episodes | 350+ |
-| Lenny podcasts (external ref) | 281 episodes | full coverage |
+| Podcast docs (this repo) | 336 episodes | 350+ |
+| Lenny podcasts (imported) | 290 episodes | complete |
 | Article docs | 11 | 920+ |
 | Framework docs | 45 | 350+ |
 
