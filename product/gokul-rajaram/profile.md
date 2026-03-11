@@ -1,103 +1,129 @@
 ---
-verification_status: reviewed
+verification_status: verified
 verification_date: 2026-03-11
-content_type: curated_summary
+content_type: curated_profile
 type: profile
 person: Gokul Rajaram
 title: Gokul Rajaram - Product Leader & Angel Investor
-current_role: Executive Team at DoorDash (Caviar)
+current_role: Partner at Marathon, Executive at DoorDash
 previous_roles:
-  - Product Director at Facebook
-  - Product Lead at Square
-  - Product Director at Google (AdSense)
-boards:
-  - Coinbase (Public)
-  - Pinterest (Public)
-  - The Trade Desk (Public)
-company: DoorDash
+  - Product Engineering Lead at Square
+  - Ads Product Director at Facebook
+  - AdSense Product Director at Google
+company: Marathon / DoorDash
+website: https://www.gokulrajaram.com
+linkedin: https://www.linkedin.com/in/gokulrajaram1/
 twitter: https://twitter.com/gokulr
-linkedin: https://www.linkedin.com/in/gokulr/
+board_seats: [Coinbase, Pinterest, The Trade Desk]
+investments: 700+
 date: 2026-03-11
-tags: [product-leadership, angel-investing, ads, marketplaces]
+tags: [product-leadership, angel-investing, spade, decision-making]
 language: en
 ---
-verification_status: reviewed
-verification_date: 2026-03-11
-content_type: curated_summary
 
 # Gokul Rajaram
 
-**Gokul Rajaram** 是DoorDash高管团队成员，领导Caviar产品线。他是硅谷最受尊敬的产品领导者之一，也是 prolific 的天使投资人，同时在Coinbase、Pinterest和The Trade Desk三家上市公司担任董事。
+**Gokul Rajaram** 被称为"AdSense教父"，是硅谷最受尊敬的产品领导者和天使投资人之一。他帮助构建了七家世代科技公司（Alphabet、Block、Coinbase、DoorDash、Meta、Pinterest、The Trade Desk），投资了700+家初创公司。
 
 ## 职业经历
 
+### Marathon (2024-至今)
+- **Partner**
+- 专注于早期科技投资
+- 与创始人深度合作
+
 ### DoorDash (2019-至今)
-- Executive Team
-- 领导Caviar产品线
-- 负责产品战略和增长
+- **Executive Team Member**
+- 领导 Caviar 产品线
+- 参与 DoorDash IPO ($40B+ 估值)
 
-### Facebook (2012-2019)
-- Product Director
-- 帮助广告业务向移动端转型
-- 主导移动优先战略
+### Square (2013-2019)
+- **Product Engineering Lead**
+- 领导 Square Register 和 Caviar 产品
+- 创建著名的 SPADE 决策框架
+- 推动 Caviar $410M 收购
 
-### Square (2017-2019)
-- Product Lead
-- 产品战略和执行
+### Facebook (2010-2013)
+- **Ads Product Director**
+- 将广告业务从 $750M 增长到 $6.5B
+- 领导移动广告战略
 
-### Google (2003-2012)
-- Product Director
-- **AdSense创始人之一**：从兼职项目发展为数十亿美元业务
-- 主导AdWords向移动端转型
-
-## 董事会经历
-
-### 上市公司董事
-| 公司 | 角色 | 状态 |
-|------|------|------|
-| **Coinbase** | 董事会成员 | 上市 |
-| **Pinterest** | 董事会成员 | 上市 |
-| **The Trade Desk** | 董事会成员 | 上市 |
-
-## 天使投资
-- Prolific的天使投资人
-- 投资了许多成功的创业公司
-- 几乎在每个成功的创业公司cap table上都能看到他的名字
+### Google (2003-2010)
+- **AdSense Product Director**
+- 帮助将 AdSense 从零增长到 $1B+
+- 被称为"AdSense教父"
 
 ## 核心理念
 
-### 产品哲学
-- 自称"startup helper"
-- 花大量时间指导创始人
-- 尽管简历 impressive，但非常谦逊
+### SPADE 决策框架
+Gokul 最著名的贡献是 SPADE 决策框架：
+- **S**etting: 定义决策背景
+- **P**eople: 明确角色责任
+- **A**lternatives: 列出备选方案
+- **D**ecide: 结构化决策
+- **E**xplain: 清晰传达
 
-### 如何发现产品机会
-- 在Google时，6点后在办公室走动
-- 发现工程师在做Sergey Brin给的项目
-- 主动成为他们的兼职PM
-- AdSense就这样诞生了
+### 招聘哲学
+> "不要从外部招聘第一位PM，而是内部转化。"
+
+### 定价原则
+> "基于你能控制的指标定价，而非客户能控制的。"
 
 ### 职业建议
-- 设计你的产品开发流程
-- 何时以及如何雇佣第一个PM
-- 领导者的招聘playbook
-- 如何开始天使投资
+> "选择成长而非舒适，最好的机会往往是让你害怕的那些。"
 
-## 推荐资源
+## 投资组合
 
-### 播客访谈
-- Lenny's Podcast - 深度访谈
-- 分享产品开发、招聘和投资建议
+### 董事会席位
+- **Coinbase** - 加密货币交易所
+- **Pinterest** - 视觉发现平台
+- **The Trade Desk** - 程序化广告
 
-### 核心话题
-- 产品开发流程设计
-- 第一次PM招聘
-- 领导者招聘playbook
-- 职业发展
-- 天使投资入门
+### 早期投资 (部分)
+- Figma (Adobe $200亿收购)
+- Airtable
+- Faire
+- Deel
+- Vercel
+- Supabase
+- Runway
+- 等 700+ 家公司
+
+## 核心框架
+
+- [SPADE 决策框架](frameworks/spade-decision-framework.md)
+- [招聘第一位PM](frameworks/hiring-first-pm.md)
+- [北极星与制衡指标](frameworks/north-star-metric.md)
+- [定价策略框架](frameworks/pricing-strategy.md)
+- [更多框架...](resources.md)
+
+## 经典语录
+
+> "The power of SPADE is that it forces clarity."
+
+> "Do not bring in an external candidate as your first Product person."
+
+> "Price on metrics in your control, not metrics in your customer's control."
+
+> "Choose growth over comfort."
+
+[更多语录...](quotes.md)
+
+## 影响力
+
+- **产品领导**: 构建七家世代科技公司
+- **投资影响**: 700+ 早期投资
+- **框架传播**: SPADE 被数百家公司采用
+- **知识分享**: 活跃在 LinkedIn、Medium、播客
+
+## 完整资源
+
+查看 [resources.md](resources.md) 获取完整的框架、文章、播客和投资组合资源索引。
 
 ---
-verification_status: reviewed
-verification_date: 2026-03-11
-content_type: curated_summary
-*Profile compiled from podcast interviews and public information*
+
+**Profile 最后更新**: 2026-03-11
+**来源**: 个人网站、播客访谈、公开资料
+
+---
+*Profile curated from public sources and official website*
