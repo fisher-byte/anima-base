@@ -43,7 +43,7 @@
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 0 | 0 | P0 | 需补充 Inspired/Empowered 书籍摘要 |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 0 | P0 | Twitter精华(100+条)需API设置(待处理) |
 | Gokul Rajaram | ✅ | ✅ | 4 | 1 | 9 | 0 | 0 | 0 | P1 | 框架已较全，需补播客 |
-| Julie Zhuo | ✅ | ✅ | 12 | 0 | 0 | 0 | 0 | 0 | P1 | ✅ 播客洞察完成 (12篇) |
+| Julie Zhuo | ✅ | ✅ | 12 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 播客(12)+框架(5) 完成 |
 | Teresa Torres | ✅ | ✅ | 11 | 0 | 0 | 0 | 0 | 0 | P1 | ✅ 播客洞察完成 (11篇含自主播客) |
 | Jackie Bavaro | ✅ | — | 1 | 0 | 0 | 0 | 0 | 0 | P2 | 无 profile，需补充 |
 | John Cutler | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录，待启动 |
