@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Marty Cagan
 title: Marty Cagan - Product Management Guru
@@ -14,6 +17,9 @@ date: 2026-03-10
 tags: [product-management, product-discovery, svpg, product-teams]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Marty Cagan
 
@@ -69,4 +75,7 @@ language: en
 3. **Transformed** (2023) - 产品运营和转型
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from SVPG website, books, and conference talks*

@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Seth Godin
 title: Seth Godin - Marketing Visionary
@@ -12,6 +15,9 @@ date: 2026-03-10
 tags: [marketing, permission-marketing, tribes, entrepreneurship]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Seth Godin
 
@@ -68,4 +74,7 @@ language: en
 5. **The Practice** (2020) - 创造性工作
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from books, blog posts, and talks*

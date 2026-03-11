@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Lenny Rachitsky
 title: Lenny Rachitsky - Product Management Expert
@@ -13,6 +16,9 @@ date: 2026-03-10
 tags: [product-management, newsletter, podcast, silicon-valley]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Lenny Rachitsky
 
@@ -76,4 +82,7 @@ language: en
 - 被引用次数: 无数
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from multiple sources including podcasts, newsletters, and interviews*

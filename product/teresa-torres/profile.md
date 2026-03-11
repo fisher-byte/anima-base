@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Teresa Torres
 title: Teresa Torres - Continuous Discovery Expert
@@ -12,6 +15,9 @@ date: 2026-03-11
 tags: [product-discovery, user-research, continuous-discovery, customer-interviews]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Teresa Torres
 
@@ -75,4 +81,7 @@ language: en
 - Product Discovery 认证项目
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from book, blog, and training materials*

@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Casey Winters
 title: Casey Winters - Growth Expert & CPO
@@ -15,6 +18,9 @@ date: 2026-03-11
 tags: [growth, product-management, marketplaces, consumer-products]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Casey Winters
 
@@ -85,4 +91,7 @@ Pinterest、Airbnb、Pocket、Eventbrite、Tinder、Thumbtack、Canva、GrubHub
 - 增长策略建议
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from podcast interviews and public talks*

@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Brian Chesky
 title: Brian Chesky - Airbnb CEO & Co-founder
@@ -12,6 +15,9 @@ date: 2026-03-10
 tags: [product-design, founder, airbnb, hospitality, creativity]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Brian Chesky
 
@@ -68,4 +74,7 @@ language: en
 - Brian 在斯坦福大学的创业讲座
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from multiple interviews, podcasts, and public talks*

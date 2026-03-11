@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Ann Handley
 title: Ann Handley - Chief Content Officer
@@ -12,6 +15,9 @@ date: 2026-03-11
 tags: [content-marketing, writing, b2b-marketing, storytelling]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Ann Handley
 
@@ -66,4 +72,7 @@ language: en
    - 如何讲述你的品牌故事
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from books, blog, and speaking engagements*

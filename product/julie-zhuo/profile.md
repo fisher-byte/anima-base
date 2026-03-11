@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Julie Zhuo
 title: Julie Zhuo - Product Design Leader & Author
@@ -15,6 +18,9 @@ date: 2026-03-11
 tags: [product-design, management, facebook, leadership, author]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Julie Zhuo
 
@@ -79,4 +85,7 @@ language: en
 - The Knowledge Project
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from book, blog, and various interviews*

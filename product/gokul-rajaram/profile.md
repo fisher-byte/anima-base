@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Gokul Rajaram
 title: Gokul Rajaram - Product Leader & Angel Investor
@@ -18,6 +21,9 @@ date: 2026-03-11
 tags: [product-leadership, angel-investing, ads, marketplaces]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Gokul Rajaram
 
@@ -91,4 +97,7 @@ language: en
 - 天使投资入门
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from podcast interviews and public information*

@@ -1,8 +1,15 @@
-# Anima Base - 完整知识库系统
+# Anima Base - 产品与增长领域精英洞察集
 
 ![Status](https://img.shields.io/badge/status-active-success)
-![Profiles](https://img.shields.io/badge/profiles-10-blue)
+![Profiles](https://img.shields.io/badge/profiles-17-blue)
+![Verified](https://img.shields.io/badge/verified-reviewed-green)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--03--11-lightgrey)
+
+> 🎯 **本项目精选产品、营销、增长、领导力领域顶尖人物的核心思想**  
+> 通过结构化策展与框架提炼，帮助从业者快速学习行业智慧。
+> 
+> ⚠️ **内容说明**: 本项目内容为策展性质（核心洞察提炼+框架总结），非原文完整副本。  
+> 重要决策请参考原始来源链接。经过2026-03-11审查，已移除AI幻觉内容。
 
 ## 📚 目录导航
 
@@ -56,19 +63,26 @@
 
 ## 📊 统计数据
 
-- 人物档案: 10
+- 人物档案 (people/): 10
+- Profile文件 (*/profile.md): 17
+- 播客转录: 9
 - 主题索引: 3
-- 内容文件: 14+
-- 覆盖领域: 5
+- 覆盖领域: 5 (产品/营销/增长/领导力/创业)
 
 ## 📝 文档规范
 
 每个内容文件包含：
 - ✅ YAML Frontmatter（来源、日期、标签）
-- ✅ 完整内容（非仅摘要）
+- ✅ 核心洞察与框架总结（非逐字转录）
+- ✅ 验证状态标记（verification_status）
 - ✅ 目录结构
 - ✅ 原始来源链接
 - ✅ 采集元数据
+
+**内容类型说明**:
+- `curated_summary`: 策展摘要 - 提炼核心观点和框架
+- `full_transcript`: 完整转录 - 播客等内容的完整文本
+- `verified`: 已验证 - 经过事实核查的内容
 
 ---
 

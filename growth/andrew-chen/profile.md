@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Andrew Chen
 title: Andrew Chen - Growth Expert & VC
@@ -15,6 +18,9 @@ date: 2026-03-11
 tags: [growth, network-effects, marketplaces, vc, essays]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Andrew Chen
 
@@ -77,4 +83,7 @@ language: en
 - Uber、Airbnb、Dropbox等案例分析
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from essays, book, and interviews*

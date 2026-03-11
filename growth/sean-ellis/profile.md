@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Sean Ellis
 title: Sean Ellis - Godfather of Growth Hacking
@@ -17,6 +20,9 @@ date: 2026-03-10
 tags: [growth-hacking, growth-metrics, product-market-fit]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Sean Ellis
 
@@ -82,4 +88,7 @@ language: en
 - 年度增长会议
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from interviews, book, and conference talks*

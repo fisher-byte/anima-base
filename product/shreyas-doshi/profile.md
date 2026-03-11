@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Shreyas Doshi
 title: Shreyas Doshi - Product Leader & Coach
@@ -15,6 +18,9 @@ date: 2026-03-10
 tags: [product-management, leadership, coaching, communication]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Shreyas Doshi
 
@@ -70,4 +76,7 @@ language: en
 - 各种会议演讲视频
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from Twitter, podcasts, and public talks*

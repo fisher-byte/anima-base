@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: April Dunford
 title: April Dunford - Positioning Expert
@@ -15,6 +18,9 @@ date: 2026-03-10
 tags: [positioning, messaging, b2b-marketing, go-to-market]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # April Dunford
 
@@ -72,4 +78,7 @@ language: en
 - YouTube: 大量免费定位工作坊视频
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from book, workshops, and interviews*

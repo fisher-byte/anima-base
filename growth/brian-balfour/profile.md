@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Brian Balfour
 title: Brian Balfour - Growth Expert & Reforge Founder
@@ -15,6 +18,9 @@ date: 2026-03-10
 tags: [growth-framework, retention, acquisition, reforge]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Brian Balfour
 
@@ -78,4 +84,7 @@ language: en
 - 大量免费的增长文章和视频
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from Reforge content, blog posts, and interviews*

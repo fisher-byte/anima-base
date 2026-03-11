@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Ben Horowitz
 title: Ben Horowitz - VC & Leadership Author
@@ -15,6 +18,9 @@ date: 2026-03-10
 tags: [leadership, entrepreneurship, venture-capital, startup-culture]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Ben Horowitz
 
@@ -82,4 +88,7 @@ language: en
 - 各种创业会议演讲
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from books, a16z content, and talks*

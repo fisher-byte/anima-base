@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: Ray Dalio
 title: Ray Dalio - Investor & Principles Author
@@ -12,6 +15,9 @@ date: 2026-03-11
 tags: [principles, investing, decision-making, radical-transparency]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # Ray Dalio
 
@@ -62,4 +68,7 @@ language: en
    - 投资决策框架
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from books, interviews, and Principles.com*

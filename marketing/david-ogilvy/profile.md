@@ -1,4 +1,7 @@
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 type: profile
 person: David Ogilvy
 title: David Ogilvy - Father of Advertising
@@ -11,6 +14,9 @@ date: 2026-03-10
 tags: [advertising, copywriting, classics, creative]
 language: en
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 
 # David Ogilvy
 
@@ -69,4 +75,7 @@ language: en
 2. **Ogilvy on Advertising** (1983) - 广告原则与案例
 
 ---
+verification_status: reviewed
+verification_date: 2026-03-11
+content_type: curated_summary
 *Profile compiled from books and advertising history archives*
