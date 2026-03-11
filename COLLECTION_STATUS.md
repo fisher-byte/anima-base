@@ -248,9 +248,8 @@ P3 - 新增人物：
 | 2026-03-11 | 创建空档案: Chamath Palihapitiya | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Dave Gerhardt | ✅ 已完成 |
 | 2026-03-11 | 完成P1: April Dunford frameworks (5篇 + 原文) | ✅ 已完成 |
+| 2026-03-11 | 完成P1: Ben Horowitz book summary (The Hard Thing) | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Rand Fishkin | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Satya Nadella | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Reed Hastings | ✅ 已完成 |
-| 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
-| 2026-03-11 | 创建空档案: Paul Graham | ✅ 已完成 |
-
+| 2026-03-11 | 创建空档案: Andy Grove |                                                                                
