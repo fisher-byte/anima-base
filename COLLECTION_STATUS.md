@@ -6,13 +6,24 @@
 
 ---
 
+## 外部数据源
+
+本库与以下外部仓库联动，作为内容来源和参考：
+
+| 外部仓库 | 内容 | 规模 | 关系 |
+|----------|------|:----:|------|
+| [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) | Lenny's Podcast 完整转录 | 281 集 | 本库 Lenny 框架提炼的原始来源；Anima AI Lenny Space 的数据基础 |
+
+---
+
 ## 全局统计
 
 | 指标 | 当前值 | 目标值 | 完成度 |
 |------|:------:|:------:|:------:|
 | 人物目录（已建立） | 28 | 30 | 93% |
 | 有完整 Profile | 18 | 28 | 64% |
-| 播客文档（集数） | 46 | 695 | 7% |
+| 播客文档——本库策展版 | 46 | 350 | 13% |
+| Lenny 播客——外部完整转录 | 281（引用） | 281 | 100% |
 | 文章文档 | 11 | 920 | 1% |
 | 框架文档 | 45 | 350 | 13% |
 | 书籍摘要 | 0 | 23 | 0% |
@@ -27,7 +38,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Lenny Rachitsky | ✅ | ✅ | 3 | 0 | 1 | 1 | 0 | 0 | P0 | Lenny Space 核心来源，需扩充至全量320+集 |
+| Lenny Rachitsky | ✅ | ✅ | 3 | 0 | 1 | 1 | 0 | 0 | P0 | 完整转录见外部仓库（281集）；本库需从中提炼框架文档至20+篇 |
 | Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 0 | 0 | 0 | P0 | 框架最丰富，需补 quotes |
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 0 | 0 | P0 | 需补充 Inspired/Empowered 书籍摘要 |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 0 | 0 | 0 | P0 | 需补 Twitter 精华（100+条） |
@@ -155,7 +166,8 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [ ] lenny-rachitsky: podcasts 扩充至 20+ 集
+  [ ] lenny-rachitsky: 基于外部281集转录，提炼框架文档至20篇（当前1篇）
+      参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
   [ ] brian-chesky: 补充 quotes.md (50+ 条)
   [ ] marty-cagan: 补充 books/ (Inspired 摘要)
   [ ] shreyas-doshi: 补充 twitter/ 精华
