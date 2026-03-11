@@ -41,7 +41,7 @@
 | Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 1 | 1 | 0 | 0 | P0 | 290集转录已导入（ChatPRD来源）；需从中提炼框架文档至20+篇 |
 | Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 0 | 0 | 0 | P0 | 框架最丰富，需补 quotes |
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 0 | 0 | P0 | 需补充 Inspired/Empowered 书籍摘要 |
-| Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 0 | 0 | 0 | P0 | 需补 Twitter 精华（100+条） |
+| Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 0 | P0 | Twitter精华(100+条)需API设置(待处理) |
 | Gokul Rajaram | ✅ | ✅ | 4 | 1 | 9 | 0 | 0 | 0 | P1 | 框架已较全，需补播客 |
 | Julie Zhuo | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile，待全面扩充 |
 | Teresa Torres | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile，待全面扩充 |
@@ -238,3 +238,18 @@ P3 - 新增人物：
 ---
 
 > **注意**：本文件由人工和 Agent 协同维护。每次 Agent 完成一批收集任务后，必须更新对应人物的数字统计，并在更新日志中记录操作。
+
+| 2026-03-11 | 完成P0缺口: Brian Chesky语录集(50+条) | ✅ 已完成 |
+| 2026-03-11 | 完成P0缺口: Marty Cagan书籍摘要(Inspired/Empowered/Transformed) | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Jackie Bavaro | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: John Cutler | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Brandon Chu | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Elena Verna | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Chamath Palihapitiya | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Dave Gerhardt | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Rand Fishkin | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Satya Nadella | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Reed Hastings | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Paul Graham | ✅ 已完成 |
+

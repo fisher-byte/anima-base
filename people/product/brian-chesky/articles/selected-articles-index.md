@@ -1,14 +1,26 @@
 ---
 person: Brian Chesky
 last_updated: 2026-03-11
-total_articles: 25+
+total_articles: 30+
 verification_status: verified
 content_type: article_index
 ---
 
 # Brian Chesky 精选文章索引
 
-> 收录Brian Chesky最重要的访谈、专栏和深度报道
+> 收录Brian Chesky最重要的访谈、专栏和深度报道，含30+篇精选内容
+
+---
+
+## 📊 概览
+
+| 指标 | 数量 |
+|-----|-----|
+| 总文章数 | 30+ |
+| 必读Top 10 | 10篇 |
+| 主题分类 | 6个 |
+| 原创内容 | 5篇 |
+| 学术案例 | 3个 |
 
 ---
 
