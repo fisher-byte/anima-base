@@ -34,7 +34,7 @@ class ContentMiner:
                                    transcript_content, view_count="", channel=""):
         """创建播客转录文件 - 参考Lenny's Podcast格式"""
         
-        person_dir = self.base_dir / "product" / self.slugify(person) / "podcasts"
+        person_dir = self.base_dir / "people" / "product" / self.slugify(person) / "podcasts"
         person_dir.mkdir(parents=True, exist_ok=True)
         
         # 从YouTube URL提取video_id

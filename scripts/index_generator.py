@@ -61,9 +61,9 @@ class IndexGenerator:
         """扫描所有内容文件"""
         content_items = []
         
-        # 扫描各个领域目录
-        for category in ["product", "marketing", "growth", "leadership"]:
-            category_dir = self.base_dir / category
+        # 扫描people/目录下的各个领域目录
+        for category in ["product", "marketing", "growth", "leadership", "startup"]:
+            category_dir = self.base_dir / "people" / category
             if not category_dir.exists():
                 continue
                 
@@ -175,16 +175,16 @@ class IndexGenerator:
         for item in all_items:
             by_category[item['category']].append(item)
         
-        for category in ['product', 'marketing', 'growth', 'leadership']:
+        for category in ['product', 'marketing', 'growth', 'leadership', 'startup']:
             if category in by_category:
                 items = by_category[category]
                 people = set(item['person'] for item in items)
                 content += f"### {category.title()} ({len(people)} people, {len(items)} items)\n\n"
-                
+
                 for person in sorted(people):
                     person_items = [i for i in items if i['person'] == person]
-                    content += f"- [{person}](../{category}/{person}/) - {len(person_items)} items\n"
-                
+                    content += f"- [{person}](../people/{category}/{person}/) - {len(person_items)} items\n"
+
                 content += "\n"
         
         # 总体统计
