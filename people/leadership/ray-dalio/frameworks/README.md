@@ -1,58 +1,106 @@
 ---
 type: index
 person: ray-dalio
-title: Ray Dalio 框架索引
+title: Ray Dalio Frameworks — 核心框架索引
 date: 2026-03-11
 status: published
 ---
 
-# Ray Dalio 框架索引
+# Ray Dalio — 核心框架
 
-Ray Dalio 是桥水基金创始人，全球最成功的对冲基金经理之一。他的《Principles: Life and Work》系统化了成功的生活和工作原则，帮助个人和组织建立"思想功绩制"。
+> "Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life."
+> — Ray Dalio
 
-## 核心框架
+Ray Dalio 是 Bridgewater Associates（全球最大对冲基金）的创始人，也是系统化原则思维的倡导者。他的框架涵盖个人成长、组织管理和宏观经济三大领域。
 
-### Principles 方法论
+---
 
-|| 框架 | 描述 | 文件 |
-|------|------|------|
-| **5 Step Process** | 达成目标的 5 步流程 | [5-step-process.md](5-step-process.md) |
-| **Idea Meritocracy** | 思想功绩制核心框架 | [idea-meritocracy.md](idea-meritocracy.md) |
+## 框架列表
 
-## 快速参考
+### 🎯 个人成长
 
-### 5 步流程速查
+| 框架 | 核心思想 | 文档 |
+|------|----------|------|
+| **Pain + Reflection = Progress** | 痛苦是进步的信号，反思将痛苦转化为成长 | [查看](./pain-plus-reflection.md) |
+| **5 Step Process** | 达成任何目标的系统化五步流程 | [查看](./5-step-process.md) |
 
-1. **Goals** — 明确你想要什么
-2. **Problems** — 识别阻碍因素
-3. **Diagnose** — 诊断根本原因
-4. **Plan** — 设计解决方案
-5. **Push** — 执行并迭代
+### 🏢 组织管理
 
-### 思想功绩制三支柱
+| 框架 | 核心思想 | 文档 |
+|------|----------|------|
+| **Idea Meritocracy** | 通过极端真实+透明+可信度加权建立最优决策系统 | [查看](./idea-meritocracy.md) |
+| **Radical Truth & Transparency** | 透明和真实是高效组织的基石 | [查看](./radical-transparency.md) |
 
-1. **Radical Truth** — 极度真相
-2. **Radical Transparency** — 极度透明
-3. **Believability-Weighted** — 可信度加权决策
+### 📈 宏观经济
 
-## 推荐阅读顺序
+| 框架 | 核心思想 | 文档 |
+|------|----------|------|
+| **Economic Machine** | 经济如机器运作：交易、信用与债务周期 | [查看](./economic-machine.md) |
 
-1. **入门**: [5 Step Process](5-step-process.md) — 学习个人目标达成方法
-2. **深入**: [Idea Meritocracy](idea-meritocracy.md) — 理解组织文化和管理框架
+---
 
-## 外部资源
+## 核心公式
 
-- [Principles.com - 官方网站](https://www.principles.com/)
-- [Principles: Life and Work - Amazon](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
-- [Bridgewater Associates](https://www.bridgewater.com/)
-- [Ray Dalio LinkedIn](https://www.linkedin.com/in/raydalio/)
+```
+Pain + Reflection = Progress
 
-## 核心语录
+Idea Meritocracy = Radical Truth + Radical Transparency + Believability-Weighted Decision Making
 
-> "Never allow an idea meritocracy to slip into anarchy."
+经济 = 所有交易的总和 = 货币支出 + 信用支出
+```
 
-> "It's more important to do big things well than to do small things perfectly."
+---
 
-> "The most important gift you can give someone is the power to be successful."
+## 框架关系图
 
-> "Meaningful work and meaningful relationships" are the foundation of a good life.
+```
+                    ┌─────────────────────┐
+                    │   Principles 原则    │
+                    │   (基础哲学)          │
+                    └──────────┬──────────┘
+                               │
+           ┌───────────────────┼───────────────────┐
+           │                   │                   │
+           ▼                   ▼                   ▼
+    ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+    │  个人成长    │     │  组织管理    │     │  宏观经济    │
+    │             │     │             │     │             │
+    │ Pain+Reflect│     │ Idea Merit. │     │  Economic   │
+    │ 5 Steps     │     │ Rad. Trans. │     │  Machine    │
+    └─────────────┘     └─────────────┘     └─────────────┘
+```
+
+---
+
+## 学习路径
+
+### 入门
+1. **Pain + Reflection = Progress** — 理解个人成长的基本公式
+2. **5 Step Process** — 掌握目标达成的系统方法
+
+### 进阶
+3. **Radical Truth & Transparency** — 理解高效组织的文化基础
+4. **Idea Meritocracy** — 学习最优决策系统的构建
+
+### 高阶
+5. **Economic Machine** — 掌握宏观经济运作原理
+
+---
+
+## 推荐资源
+
+### 书籍
+- **Principles: Life and Work** (2017) — 个人和工作原则全书
+- **Principles for Dealing with the Changing World Order** (2021) — 大国兴衰与历史周期
+
+### 视频
+- [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) — 30分钟经济入门
+- [Principles for Success](https://www.youtube.com/watch?v=B9XGUpQZY38) — 动画版原则精华
+
+### 网站
+- [Principles.com](https://www.principles.com/) — 官方原则库
+- [Bridgewater Research](https://www.bridgewater.com/research-and-insights) — 宏观研究
+
+---
+
+*索引更新于 2026-03-11 | 共 5 个框架*

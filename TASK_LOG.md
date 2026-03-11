@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-11 22:35 | ray-dalio | frameworks | ✅ | 5 | - | 补充4框架：Pain+Reflection/Idea Meritocracy/Radical Trans/Economic Machine + README |
 | 2026-03-11 22:20 | ray-dalio | frameworks | ✅ | 2 | - | 新增5 Step Process + Idea Meritocracy |
 | 2026-03-11 22:10 | ben-horowitz | books | ✅ | 1 | - | 新增The Hard Thing About Hard Things书籍摘要 |
 | 2026-03-11 22:00 | april-dunford | frameworks | ✅ | 5 | - | 新增Positioning Canvas + Sales Pitch + 更新原文链接 |
@@ -24,16 +25,16 @@
 
 ## 统计信息
 
-- **总执行次数**：4
-- **成功次数**：4
+- **总执行次数**：6
+- **成功次数**：6
 - **跳过次数**：0
 - **失败次数**：0
-- **总文件创建数**：43
+- **总文件创建数**：51
 
 ---
 
 ## 下次执行
 
-- **计划人物**：april-dunford
-- **计划内容类型**：frameworks
-- **预计目标**：Obviously Awesome完整框架
+- **计划人物**：julie-zhuo
+- **计划内容类型**：podcasts
+- **预计目标**：整理10+个播客洞察 (Phase 1 轮次 5)
