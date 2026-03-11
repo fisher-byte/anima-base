@@ -181,3 +181,5 @@ Unique Attributes → Value (for customers)
   - [A Quickstart Guide to Positioning](https://www.aprildunford.com/post/a-quickstart-guide-to-positioning)
   - [April Dunford's Positioning Framework Guide](https://www.kathirvel.com/guide-april-dunford-positioning-framework/)
   - [Heinz Marketing Book Summary](https://www.heinzmarketing.com/blog/five-components-of-effective-positioning-an-obviously-awesome-book-summary-part-2/)
+
+**原文链接**: [查看HTML](../../../files/articles/april-dunford/2021-03-15-a-quickstart-guide-to-positioning.html)

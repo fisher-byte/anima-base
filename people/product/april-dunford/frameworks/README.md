@@ -19,12 +19,13 @@ April Dunford 是产品定位领域的权威专家，其 "Obviously Awesome" 方
 | **5 组件框架** | 定位的 5 个核心组件及其关系 | [obviously-awesome-5-components.md](obviously-awesome-5-components.md) |
 | **10 步流程** | 完整的定位工作坊执行流程 | [10-step-positioning-process.md](10-step-positioning-process.md) |
 | **市场类别策略** | 三种市场类别选择策略 | [market-category-strategies.md](market-category-strategies.md) |
+| **Positioning Canvas** | 定位画布模板与工作表 | [positioning-canvas.md](positioning-canvas.md) |
 
 ### 销售赋能框架
 
 | 框架 | 描述 | 文件 |
 |------|------|------|
-| **Sales Pitch 结构** | 基于定位的销售话术框架 | 即将添加 |
+| **Sales Pitch 框架** | 基于定位的销售话术框架 | [sales-pitch-framework.md](sales-pitch-framework.md) |
 
 ## 快速参考
 

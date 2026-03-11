@@ -65,7 +65,7 @@
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Seth Godin | ✅ | ✅ | 0 | 3 | 0 | 0 | 0 | 0 | P1 | 有文章，需补框架和播客 |
-| April Dunford | ✅ | ✅ | 0 | 1 | 3 | 0 | 0 | 0 | P1 | ✅ Obviously Awesome 框架已完成 |
+| April Dunford | ✅ | ✅ | 0 | 1 | 5 | 0 | 0 | 0 | P1 | ✅ Obviously Awesome 框架已完成 (5篇) |
 | Ann Handley | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
 | Dave Gerhardt | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录 |
@@ -247,6 +247,7 @@ P3 - 新增人物：
 | 2026-03-11 | 创建空档案: Elena Verna | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Chamath Palihapitiya | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Dave Gerhardt | ✅ 已完成 |
+| 2026-03-11 | 完成P1: April Dunford frameworks (5篇 + 原文) | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Rand Fishkin | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Satya Nadella | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Reed Hastings | ✅ 已完成 |

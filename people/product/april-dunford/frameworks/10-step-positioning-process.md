@@ -283,3 +283,5 @@ For [目标客户] who [痛点], [产品] is a [类别] that [价值]. Unlike [�
   - [10 Step Positioning Process - Heinz Marketing](https://www.heinzmarketing.com/blog/10-step-positioning-process-an-obviously-awesome-book-summary-part-3/)
   - [How We Used April Dunford's Method - Userlist](https://userlist.com/blog/positioning-overhaul/)
   - [Obviously Awesome with April Dunford - Brian Rhea Podcast](https://brianrhea.com/podcast/obviously-awesome-how-to-position-your-product-with-april-dunford/)
+
+**原文链接**: [查看HTML](../../../files/articles/april-dunford/2023-10-27-10-step-positioning-process.html)

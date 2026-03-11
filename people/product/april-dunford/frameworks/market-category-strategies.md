@@ -229,3 +229,5 @@ tags:
   - [A Quickstart Guide to Positioning](https://www.aprildunford.com/post/a-quickstart-guide-to-positioning)
   - [5 Obviously Awesome Takeaways](https://businessofsoftware.org/2019/06/5-obviously-awesome-takeaways-from-april-dunfords-new-positioning-book/)
   - [How to nail your product positioning - Lenny's Podcast](https://www.youtube.com/watch?v=hdjlCLb9Hl8)
+
+**原文链接**: [查看HTML](../../../files/articles/april-dunford/2021-03-15-a-quickstart-guide-to-positioning.html)
