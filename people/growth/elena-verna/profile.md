@@ -191,16 +191,31 @@ tags: [growth, plg, reforge, dropbox, growth-hacking]
 
 ## 学习资源
 
-### 必读内容
+### 本库内容
+
+**框架文档**: [frameworks/](./frameworks/)
+- [PLG Decision Framework](./frameworks/plg-decision-framework.md) - 是否采用 PLG
+- [Product-Led Sales](./frameworks/product-led-sales.md) - 何时叠加销售
+- [B2B Activation](./frameworks/b2b-activation.md) - 正确衡量激活
+- [Growth Hiring Rules](./frameworks/growth-hiring-rules.md) - 增长招聘指南
+- [Growth Loops](./frameworks/growth-loops.md) - 增长循环设计
+- [Paid vs Free Features](./frameworks/paid-vs-free-features.md) - 功能定价决策
+
+**播客洞察**: [podcasts/](./podcasts/)
+- [The New AI Growth Playbook](./podcasts/lenny-podcast-lovable-ai-growth.md) - Lovable 增长故事
+- [Why PLG is the Future](./podcasts/lenny-podcast-why-plg-is-future.md) - PLG 深度解读
+- [Product-Led Sales Guide](./podcasts/lenny-podcast-product-led-sales.md) - PLS 完整指南
+
+### 外部资源
 1. **Reforge PLG课程** - 产品导向增长的标准
 2. **3 Types of Growth Roles** - 增长组织设计框架
 3. **Substack Newsletter** - elenaverna.com 最新思考
 
 ### 学习路径
-1. **入门**: 理解PLG核心概念
-2. **框架**: 学习增长角色和指标
-3. **实践**: 在你的组织中应用PLG策略
-4. **优化**: 持续增长实验和改进
+1. **入门**: 理解PLG核心概念 → [PLG Decision Framework](./frameworks/plg-decision-framework.md)
+2. **框架**: 学习增长角色和指标 → [Growth Hiring Rules](./frameworks/growth-hiring-rules.md)
+3. **实践**: 在你的组织中应用PLG策略 → [B2B Activation](./frameworks/b2b-activation.md)
+4. **优化**: 持续增长实验和改进 → [Growth Loops](./frameworks/growth-loops.md)
 
 ---
 
@@ -215,4 +230,4 @@ tags: [growth, plg, reforge, dropbox, growth-hacking]
 ---
 
 *Profile compiled from public sources, Reforge, and career materials*
-*Last updated: 2026-03-11*
+*Last updated: 2026-03-12*

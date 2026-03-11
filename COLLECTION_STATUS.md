@@ -57,7 +57,7 @@
 | Brian Balfour | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile |
 | Andrew Chen | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile，需补 a16z 文章 |
 | Casey Winters | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P2 | |
-| Elena Verna | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 有 profile，需补充内容 |
+| Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
 | Chamath Palihapitiya | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P3 | 空目录 |
 
 ### Marketing（营销）
@@ -126,7 +126,7 @@
 | Jackie Bavaro | product | 建 profile.md |
 | ~~John Cutler~~ | ~~product~~ | ✅ 已完成 |
 | ~~Brandon Chu~~ | ~~product~~ | ✅ 已完成 |
-| Elena Verna | growth | 建 profile.md |
+| ~~Elena Verna~~ | ~~growth~~ | ✅ 已完成 |
 | Chamath Palihapitiya | growth | 建 profile.md |
 | Dave Gerhardt | marketing | 建 profile.md |
 | Rand Fishkin | marketing | 建 profile.md |
