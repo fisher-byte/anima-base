@@ -40,6 +40,19 @@
 |------|------|----------|
 | [Be Good](be-good.md) | 2008-04 | 做好事是好生意 |
 | [How to Disagree](how-to-disagree.md) | 2008-03 | 反驳的层级 |
+| [Keep Your Identity Small](keep-your-identity-small.md) | 2009-02 | 身份认同越少越聪明 |
+| [Life is Short](life-is-short.md) | 2016-01 | 生命确实短暂 |
+
+### 写作与思考
+| 文章 | 日期 | 核心概念 |
+|------|------|----------|
+| [The Need to Read](the-need-to-read.md) | 2022-11 | 阅读→写作→思考 |
+| [Writes and Write-Nots](writes-and-write-nots.md) | 2024-10 | AI时代的写作分化 |
+
+### 投资洞察
+| 文章 | 日期 | 核心概念 |
+|------|------|----------|
+| [Black Swan Farming](black-swan-farming.md) | 2012-09 | 最好的想法看起来像坏想法 |
 
 ## 推荐阅读顺序
 
