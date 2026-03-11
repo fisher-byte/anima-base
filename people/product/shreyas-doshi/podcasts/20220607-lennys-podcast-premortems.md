@@ -10,6 +10,9 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [pre-mortem, lno, strategy, execution]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=episode-id
+  spotify: https://open.spotify.com/episode/episode-id
 ---
 
 # Pre-mortems, LNO Framework, and More | Shreyas Doshi

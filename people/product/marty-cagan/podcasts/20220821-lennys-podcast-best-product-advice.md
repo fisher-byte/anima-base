@@ -10,6 +10,9 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [product-management, career, best-practices]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=episode-id
+  spotify: https://open.spotify.com/episode/episode-id
 ---
 
 # The Best Product Advice | Marty Cagan

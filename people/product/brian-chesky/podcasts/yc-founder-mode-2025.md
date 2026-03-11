@@ -10,6 +10,8 @@ description: "At YC's first Founder Mode event, Brian Chesky discusses the origi
 verification_status: verified
 content_type: podcast_insights
 tags: [founder-mode, leadership, management, YC]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=f8d2h5gH6oQ
 ---
 
 # Founder Mode: YC Event 2025

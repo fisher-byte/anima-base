@@ -10,6 +10,9 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [transformed, product-operating-model, transformation]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=jk2ZUP_dM2k
+  event: https://www.meetup.com/lean-product/
 ---
 
 # Transformed Launch | Marty Cagan at Lean Product Meetup

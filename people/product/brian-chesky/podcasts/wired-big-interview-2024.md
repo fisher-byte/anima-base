@@ -10,6 +10,9 @@ description: "Brian discusses Airbnb's biggest reinvention and the future of tra
 verification_status: verified
 content_type: podcast_insights
 tags: [future, innovation, AI, travel]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=qk5v7rZ9x8o
+  original: https://www.wired.com/video/watch/brian-chesky-airbnb-ceo-big-interview
 ---
 
 # WIRED Big Interview 2024: Big Things Coming

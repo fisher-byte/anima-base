@@ -8,6 +8,8 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [founder-mode, steve-jobs, leadership, management]
+original_urls:
+  verge: https://www.theverge.com/2024/12/10/24242405/brian-chesky-airbnb-interview-decoder
 ---
 
 # Decoder: Brian Chesky on Founder Mode

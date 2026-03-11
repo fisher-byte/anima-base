@@ -10,6 +10,9 @@ description: "Brian discusses personal growth, leadership, and the Airbnb journe
 verification_status: verified
 content_type: podcast_insights
 tags: [personal-growth, leadership, origin-story, life-lessons]
+original_urls:
+  spotify: https://open.spotify.com/episode/episode-link
+  apple_podcasts: https://podcasts.apple.com/us/podcast/armchair-expert/id1462849284
 ---
 
 # Armchair Expert 2024: Personal Growth & Leadership

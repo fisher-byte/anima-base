@@ -41,6 +41,31 @@ Anima Base是一个**知识策展项目**，而非档案馆或百科全书。
 - [ ] 在YAML frontmatter中列出主要来源
 - [ ] 为核心框架/理论添加来源链接
 - [ ] 重要语录标注出处（优先级高）
+- [ ] **新增：所有内容必须有 `original_file` 或 `original_urls` 字段**
+- [ ] **新增：原文文件已下载到 `files/` 或 `media/` 目录**
+
+#### 原文保存要求（强制执行）
+
+**根据 FILE_STORAGE_POLICY.md，必须执行双轨制：**
+
+1. **文章内容**
+   - [ ] 保存 HTML → `files/articles/{person}/{date}-title.html`
+   - [ ] 保存 PDF（如有）→ `files/pdf/{person}/articles/{date}-title.pdf`
+   - [ ] 索引文件包含 `original_file` 字段指向原文
+
+2. **播客内容**
+   - [ ] 下载 MP3 → `media/audio/{person}/podcast/{date}-show-name.mp3`
+   - [ ] 保存转录 TXT → `media/audio/{person}/podcast/{date}-show-name-transcript.txt`
+   - [ ] 索引文件包含 `original_urls` 字段（youtube, spotify等）
+
+3. **书籍内容**
+   - [ ] 保存 EPUB → `media/ebook/{title}.epub`
+   - [ ] 保存 PDF → `files/pdf/{person}/books/{title}.pdf`
+
+#### 禁止行为
+- [ ] 禁止只保存摘要，必须保存原文文件
+- [ ] 禁止使用2-3KB的索引文件替代原文
+- [ ] 原文含量需达到 90% 以上（原文文件大小与索引文件大小比）
 
 #### 来源优先级
 1. **高优先级** (必须有来源):

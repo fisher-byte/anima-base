@@ -8,6 +8,9 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [founder-mode, product-management, leadership, airbnb]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=4ef0juAMqoE
+  apple_podcasts: https://podcasts.apple.com/us/podcast/lennys-podcast-product-career-growth/id1627920305
 ---
 
 # Lenny's Podcast: Brian Chesky's New Playbook

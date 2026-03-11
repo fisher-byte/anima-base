@@ -11,6 +11,9 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [product-management, frameworks, lno, pre-mortem, high-agency]
+original_urls:
+  youtube: https://www.youtube.com/watch?v=YP_QghPLG-8
+  spotify: https://open.spotify.com/episode/43UxwPmUx5FXQnbp52R5rC
 ---
 
 # The Art of Product Management | Shreyas Doshi

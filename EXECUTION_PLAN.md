@@ -93,14 +93,23 @@
 2. 读取 EXECUTION_PLAN.md 查看待处理任务队列
 3. 执行队列中下一个待完成任务：
    - 通过网络搜索收集该人物的所有公开资源
-   - **重要：下载并保存原文文件到 media/ 或 files/ 目录**
+   - **强制要求：下载并保存原文文件到 media/ 或 files/ 目录**
    - 创建对应类型的内容文件（frameworks/podcasts/articles/books）
    - 每个文件包含：YAML frontmatter + 核心内容 + 原文链接
+   - **必须验证：原文文件存在且大小合理（>10KB）**
 4. 更新 COLLECTION_STATUS.md 对应人物的数字
 5. 记录本次执行到 TASK_LOG.md
 6. 提交到GitHub，格式：feat(collection): add {人物名} {内容类型}
 
 执行顺序：严格按照 EXECUTION_PLAN 中的 Phase 1 → 2 → 3 → 4
+
+## 质量检查清单（必须通过）
+- [ ] 原文文件已下载到正确目录
+- [ ] 原文文件大小合理（>10KB，非空）
+- [ ] 索引文件包含 original_file 或 original_urls 字段
+- [ ] 来源链接有效且可访问
+- [ ] 关键信息有来源标注
+- [ ] verification_status 已设置
 """
 ```
 

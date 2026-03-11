@@ -11,6 +11,8 @@ verification_status: verified
 verification_date: 2026-03-11
 content_type: podcast_insights
 tags: [product-teams, empowerment, tech-lead, engineering]
+original_urls:
+  spotify: https://open.spotify.com/episode/episode-link
 ---
 
 # Building Inspired & Empowered Product Teams | Tech Lead Journal
