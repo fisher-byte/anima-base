@@ -1,19 +1,20 @@
 ---
 verification_status: verified
-verification_date: 2026-03-11
+verification_date: 2026-03-12
 content_type: curated_summary
 content_quality: comprehensive
 type: profile
 person: John Cutler
 title: John Cutler - Product Practice & Education Expert
-current_role: Senior Director of Product Education at Amplitude
-company: Amplitude (产品分析平台)
+current_role: Head of Product at Dotwork
+previous_role: Senior Director of Product Education at Amplitude
+company: Dotwork
 location: San Francisco, CA
-website: https://cutlerfish.substack.com
+website: https://cutlefish.substack.com
 linkedin: https://www.linkedin.com/in/johnpcutler
 twitter: https://twitter.com/johnpcutler
-date: 2026-03-11
-tags: [product-practice, product-education, the-beautiful-mess, amplitude, habit-business]
+date: 2026-03-12
+tags: [product-practice, product-education, the-beautiful-mess, north-star-framework, feature-factory]
 ---
 
 # John Cutler
@@ -24,11 +25,17 @@ tags: [product-practice, product-education, the-beautiful-mess, amplitude, habit
 
 ## 职业经历
 
-### Amplitude (2021-至今/近期）
+### Dotwork (2025-至今)
+- **产品负责人** (Head of Product)
+- 教授产品领导者变革管理
+- 将变革管理知识融入产品实践
+- 继续通过 The Beautiful Mess 分享产品洞察
+
+### Amplitude (2021-2023)
 - **产品教育高级总监** (Senior Director of Product Education)
 - 为全球产品团队提供培训和咨询
-- 开发产品教育和能力建设框架
-- 产品社区的顾问和教练
+- 开发并推广 North Star Framework
+- 主导数百次产品团队 workshop
 
 ### Toast (2020-2021)
 - **产品管理总监** (Senior Director of Product Management)
@@ -210,5 +217,22 @@ tags: [product-practice, product-education, the-beautiful-mess, amplitude, habit
 
 ---
 
+## 内容索引
+
+本目录包含 John Cutler 的以下内容：
+
+- **[frameworks/](./frameworks/)** - 4个核心框架文档
+  - 12 Signs Feature Factory
+  - North Star Framework
+  - Trees, Journeys, and Loops
+  - Persistent Models
+- **[podcasts/](./podcasts/)** - 4个播客洞察
+  - Lenny's Podcast: 高绩效产品团队
+  - Mind the Product: 产品运营模型
+  - Talking Roadmaps: 路线图管理
+  - AgileData: 数据团队的产品思维
+
+---
+
 *Profile compiled from public sources, newsletters, and career materials*
-*Last updated: 2026-03-11*
+*Last updated: 2026-03-12*

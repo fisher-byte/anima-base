@@ -46,7 +46,7 @@
 | Julie Zhuo | ✅ | ✅ | 12 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 播客(12)+框架(5) 完成 |
 | Teresa Torres | ✅ | ✅ | 11 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 框架完成 (OST/Interview Snapshot/Assumption Testing/CDH/Experience Map) |
 | Jackie Bavaro | ✅ | ✅ | 5 | 0 | 3 | 0 | 0 | 0 | P1 | ✅ profile完整 + 5播客 + 3框架 (Strategy/PEARL/Seniority) |
-| John Cutler | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录，待启动 |
+| John Cutler | ✅ | ✅ | 4 | 0 | 4 | 0 | 0 | 0 | P2 | ✅ Phase 2 完成：完整profile+4框架+4播客 |
 | Brandon Chu | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录，待启动 |
 
 ### Growth（增长）
@@ -124,7 +124,7 @@
 | 人物 | 分类 | 建议第一步 |
 |------|------|-----------|
 | Jackie Bavaro | product | 建 profile.md |
-| John Cutler | product | 建 profile.md |
+| ~~John Cutler~~ | ~~product~~ | ✅ 已完成 |
 | Brandon Chu | product | 建 profile.md |
 | Elena Verna | growth | 建 profile.md |
 | Chamath Palihapitiya | growth | 建 profile.md |
