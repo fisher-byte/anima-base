@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+|| 2026-03-13 01:00 | andrew-chen | frameworks + podcasts | ✅ | 2 | - | P1 优先级启动：1核心框架(Cold Start Problem 五阶段) + 1播客(Lenny访谈) + 更新Chamath/Andy Grove状态 |
 || 2026-03-12 23:00 | sean-ellis | books | ✅ | 2 | - | P1 优先级完成：Hacking Growth 完整书籍摘要(Part I 方法论 + Part II 战术 + 案例分析) + README索引 |
 || 2026-03-12 22:30 | amanda-natividad | profile + frameworks + podcasts | ✅ | 11 | - | Phase 4 新增人物：完整profile + 5框架(Zero-Click Marketing/Webinar-to-Blog/Content Repurposing/Algorithmic Capital/Audience-First) + 4播客 + README索引 |
 || 2026-03-12 00:00 | naval-ravikant | profile + frameworks + podcasts | ✅ | 12 | - | Phase 4 新增人物：完整profile + 5框架(Specific Knowledge+Leverage/Happiness as Skill/Compound Interest/Long-Term Thinking/First Principles) + 3播客(JRE #1309/TF #473/TF #136) + 3 READMEs |

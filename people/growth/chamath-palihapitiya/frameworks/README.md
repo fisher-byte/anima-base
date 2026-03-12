@@ -1,65 +1,95 @@
----
-type: index
-person: chamath-palihapitiya
-title: Chamath Palihapitiya Frameworks Index
-date: 2026-03-12
----
+# Chamath Palihapitiya - Frameworks
 
-# Chamath Palihapitiya — Frameworks
+## 概览
 
-Chamath Palihapitiya 的核心框架合集，涵盖增长策略和投资哲学两大领域。
+Chamath Palihapitiya 在 Facebook 担任增长副总裁期间，创立了硅谷第一个真正意义上的"增长团队"，将 Facebook 从 5000 万用户推向 10 亿用户。他的增长框架和投资理念对现代互联网公司产生了深远影响。
 
 ---
 
-## 增长框架 (Growth)
+## 核心框架
 
-| 框架 | 核心内容 | 适用场景 |
-|------|---------|---------|
-| [Facebook Growth Equation](./facebook-growth-equation.md) | 增长 = 漏斗 × Magic Moment × 核心价值 | 消费产品增长策略 |
-| [Three Growth Problems](./three-growth-problems.md) | 获取、参与、复活三大核心问题 | 增长团队优先级 |
-| [Product-Market Fit Signals](./product-market-fit-signals.md) | PMF 定量与定性判断信号 | 早期产品验证 |
+### 1. [7 Friends in 10 Days - Facebook 的增长北极星指标](./7-friends-in-10-days.md)
 
-## 投资框架 (Investing)
+**核心理念**: 用户在注册后 10 天内添加 7 个好友，长期留存率显著提升
 
-| 框架 | 核心内容 | 适用场景 |
-|------|---------|---------|
-| [Social Capital Investment Philosophy](./social-capital-investment-philosophy.md) | 长期资本 + 问题优先 + 透明度 | 资本配置策略 |
-| [Long-Term Investing Principles](./long-term-investing-principles.md) | 时间优势、理解深度、逆向思维 | 投资决策 |
+**关键价值**:
+- 明确的激活指标，避免虚荣指标
+- 可操作性强，产品团队可以直接优化
+- 预测性高，早期行为预测长期留存
+
+**适用场景**:
+- 社交产品的激活优化
+- 寻找产品的"Aha Moment"
+- 定义北极星指标
+
+**相关概念**: 北极星指标、用户激活、增长黑客
 
 ---
 
-## 关键概念速查
+### 2. [Growth Hacking at Facebook - 无边界增长策略](./growth-hacking-at-facebook.md)
 
-### 7 Friends in 10 Days
-Facebook 发现的核心激活指标，新用户在 10 天内添加 7 个好友，长期留存率达 90%+。
+**核心理念**: 打破职能边界，激活一切可能的增长杠杆，建立强大的实验文化
 
-### Earn like Berkshire, Spend like the Red Cross
-Social Capital 的使命宣言，追求商业回报与社会影响的结合。
+**关键价值**:
+- 跨职能团队协作（产品、工程、数据、营销）
+- 不设边界地尝试各种增长策略
+- 数据驱动的快速实验
 
-### Three Growth Problems
-任何消费产品都需要解决的三大问题：获取新用户、提升活跃度、召回流失用户。
+**适用场景**:
+- 建立增长团队
+- 设计增长实验流程
+- 优化用户获取和激活
+
+**相关概念**: 增长团队、A/B 测试、增长循环
+
+---
+
+## 框架对比
+
+| 框架 | 关注点 | 适用阶段 | 难度 |
+|------|--------|----------|------|
+| 7 Friends in 10 Days | 用户激活指标 | 产品-市场契合后 | ⭐⭐ |
+| Growth Hacking at Facebook | 增长团队和流程 | 规模化增长阶段 | ⭐⭐⭐⭐ |
 
 ---
 
 ## 学习路径
 
-**初学者:**
-1. [Three Growth Problems](./three-growth-problems.md) - 理解增长优先级
-2. [Facebook Growth Equation](./facebook-growth-equation.md) - 学习增长公式
+### 初学者
+1. 先理解 [[7-friends-in-10-days|7/10 指标]] 的发现过程
+2. 学习如何找到你自己产品的"魔法数字"
+3. 了解北极星指标的重要性
 
-**进阶:**
-1. [Product-Market Fit Signals](./product-market-fit-signals.md) - 判断 PMF
-2. [Social Capital Philosophy](./social-capital-investment-philosophy.md) - 投资视角
+### 进阶
+1. 深入学习 [[growth-hacking-at-facebook|增长黑客框架]]
+2. 研究如何建立跨职能增长团队
+3. 掌握 A/B 测试和实验流程
 
----
-
-## 外部资源
-
-- **年度投资者信**: [socialcapital.com/annual-letters](https://www.socialcapital.com/annual-letters)
-- **Substack**: [chamath.substack.com](https://chamath.substack.com)
-- **Chamath Archive**: [chamatharchive.com](https://chamatharchive.com)
-- **All-In Podcast**: [YouTube](https://www.youtube.com/@allin)
+### 高级
+1. 应用这些框架到实际产品中
+2. 建立自己的增长实验体系
+3. 培养数据驱动的增长文化
 
 ---
 
-*Index last updated: 2026-03-12*
+## 延伸阅读
+
+### Chamath 的其他内容
+- [[../podcasts/|Chamath Podcasts]] - 播客访谈
+- [[../profile.md|Chamath Profile]] - 人物简介
+
+### 相关人物
+- [[../../product/brian-balfour/|Brian Balfour]] - 增长循环、四维契合度
+- [[../../product/sean-ellis/|Sean Ellis]] - Hacking Growth、增长黑客
+- [[../../product/andrew-chen/|Andrew Chen]] - 冷启动问题、网络效应
+
+### 推荐资源
+- [Chamath - How we put Facebook on the path to 1 billion users](https://www.youtube.com/watch?v=raIUQP71SBU)
+- [The Ultimate Story of Growth Hacking](https://thegrowthmind.substack.com/p/story-of-growth-hacking-part-1)
+- [How The Growth Team Helped Facebook Reach 500 Million Users](https://www.forbes.com/sites/quora/2014/09/15/how-the-growth-team-helped-facebook-reach-500-million-users/)
+
+---
+
+**最后更新**: 2026-03-13
+**框架数量**: 2
+**难度范围**: ⭐⭐ - ⭐⭐⭐⭐
