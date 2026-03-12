@@ -2,7 +2,7 @@
 
 > **Agent 执行入口**：每次开始新一轮收集任务前，先读取本文件了解当前状态；任务完成后更新对应字段。
 >
-> 最后更新：2026-03-12 | 版本：1.0
+> 最后更新：2026-03-13 | 版本：1.0
 
 ---
 
@@ -77,7 +77,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Ben Horowitz | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P1 | 需补 Hard Thing 书籍摘要 |
+| Ben Horowitz | ✅ | ✅ | 1 | 0 | 0 | 0 | 2 | 0 | P1 | ✅ 书籍摘要完成 (The Hard Thing + What You Do) |
 | Ray Dalio | ✅ | ✅ | 0 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架完成 (5篇) |
 | Satya Nadella | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次16完成：5框架 + 4播客 |
 | Reed Hastings | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次17完成：5框架 + 4播客 |
@@ -179,7 +179,7 @@ P1 - 有 profile 但内容稀薄的人物：
   [ ] teresa-torres: 补充 podcasts + frameworks
   [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
   [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
-  [ ] ben-horowitz: 补充 books/ (The Hard Thing)
+  [x] ben-horowitz: ✅ 已完成 2本书籍摘要 (2026-03-13)
   [ ] ray-dalio: 补充 frameworks (Principles)
 
 P2 - 空目录人物（建立 profile）：
