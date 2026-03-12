@@ -176,7 +176,7 @@ P1 - 有 profile 但内容稀薄的人物：
   [ ] julie-zhuo: 补充 podcasts + frameworks
   [ ] teresa-torres: 补充 podcasts + frameworks
   [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
-  [ ] april-dunford: 补充 frameworks (Obviously Awesome)
+  [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
   [ ] ben-horowitz: 补充 books/ (The Hard Thing)
   [ ] ray-dalio: 补充 frameworks (Principles)
 

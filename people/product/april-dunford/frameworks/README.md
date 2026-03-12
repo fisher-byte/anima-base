@@ -21,6 +21,15 @@ April Dunford 是产品定位领域的权威专家，其 "Obviously Awesome" 方
 | **市场类别策略** | 三种市场类别选择策略 | [market-category-strategies.md](market-category-strategies.md) |
 | **Positioning Canvas** | 定位画布模板与工作表 | [positioning-canvas.md](positioning-canvas.md) |
 
+### 定位基础概念框架
+
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **竞争替代方案框架** | 重新定义竞争:现状、活跃竞争对手、幻影竞争对手 | [competitive-alternatives-framework.md](competitive-alternatives-framework.md) |
+| **最佳客户练习** | 通过分析最佳客户揭示真实差异化和目标市场 | [best-customers-exercise.md](best-customers-exercise.md) |
+| **市场类别的工作** | 理解市场类别的真正作用与选择策略 | [market-category-job.md](market-category-job.md) |
+| **特性列表陷阱** | 避免用特性列表代替真正定位的常见错误 | [feature-list-trap.md](feature-list-trap.md) |
+
 ### 销售赋能框架
 
 | 框架 | 描述 | 文件 |
