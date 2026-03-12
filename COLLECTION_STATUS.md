@@ -68,7 +68,7 @@
 | April Dunford | ✅ | ✅ | 0 | 1 | 5 | 0 | 0 | 0 | P1 | ✅ Obviously Awesome 框架已完成 (5篇) |
 | Ann Handley | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
-| Dave Gerhardt | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录 |
+| Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
 | Rand Fishkin | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录 |
 
 ### Leadership（领导力）
@@ -128,7 +128,7 @@
 | ~~Brandon Chu~~ | ~~product~~ | ✅ 已完成 |
 | ~~Elena Verna~~ | ~~growth~~ | ✅ 已完成 |
 | ~~Chamath Palihapitiya~~ | ~~growth~~ | ✅ 已完成 |
-| Dave Gerhardt | marketing | 建 profile.md |
+| ~~Dave Gerhardt~~ | ~~marketing~~ | ✅ 已完成 |
 | Rand Fishkin | marketing | 建 profile.md |
 | Satya Nadella | leadership | 建 profile.md |
 | Reed Hastings | leadership | 建 profile.md |
