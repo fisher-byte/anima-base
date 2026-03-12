@@ -69,7 +69,7 @@
 | Ann Handley | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
 | Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
-| Rand Fishkin | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录 |
+| Rand Fishkin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次15完成：5框架 + 4播客 |
 
 ### Leadership（领导力）
 
