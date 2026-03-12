@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+|| 2026-03-12 20:00 | lenny-rachitsky | frameworks | ✅ | 6 | - | P0 深度扩充：新增5个核心框架（GAIN Feedback/Strategy Blocks/RICE/A/B Testing/User Onboarding）+ 更新README索引，总计13个框架 |
 || 2026-03-12 18:30 | brian-balfour | frameworks + podcasts | ✅ | 10 | - | P1 优先级完成：6框架(Four Fits/Retention First/Growth Loops/Growth System/Experimentation/PLG) + 2播客(Lenny Career/ChatGPT) + 2 READMEs |
 || 2026-03-12 17:30 | gustaf-alstromer | profile + frameworks + podcasts | ✅ | 12 | - | Phase 4 新增人物：完整profile + 5框架(How to Get Users/Growth Metrics/Growth Teams/PMF Validation/Marketplace) + 2播客(Lenny/YC) + 3 READMEs |
 | 2026-03-12 16:30 | april-dunford | frameworks | ✅ | 4 | - | Phase 1 轮次2完成：4个补充框架(Competitive Alternatives/Best Customers Exercise/Market Category Job/Feature List Trap) + 更新README |
