@@ -60,6 +60,7 @@
 | Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
 | Chamath Palihapitiya | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次13完成：5框架 + 4播客 |
 | Gustaf Alströmer | ✅ | ✅ | 2 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 4 完成：profile + 5框架 + 2播客 + 3 READMEs |
+|| Naval Ravikant | ✅ | ✅ | 3 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ Phase 4 完成：完整profile + 5框架(Specific Knowledge/Happiness/Compound Interest/Long-Term/First Principles) + 3播客(JRE/TF #473/#136) + 3 READMEs |
 
 ### Marketing（营销）
 

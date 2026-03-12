@@ -11,6 +11,7 @@
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
 || 2026-03-12 22:30 | amanda-natividad | profile + frameworks + podcasts | ✅ | 11 | - | Phase 4 新增人物：完整profile + 5框架(Zero-Click Marketing/Webinar-to-Blog/Content Repurposing/Algorithmic Capital/Audience-First) + 4播客 + README索引 |
+|| 2026-03-12 00:00 | naval-ravikant | profile + frameworks + podcasts | ✅ | 12 | - | Phase 4 新增人物：完整profile + 5框架(Specific Knowledge+Leverage/Happiness as Skill/Compound Interest/Long-Term Thinking/First Principles) + 3播客(JRE #1309/TF #473/TF #136) + 3 READMEs |
 || 2026-03-12 20:00 | lenny-rachitsky | frameworks | ✅ | 6 | - | P0 深度扩充：新增5个核心框架（GAIN Feedback/Strategy Blocks/RICE/A/B Testing/User Onboarding）+ 更新README索引，总计13个框架 |
 || 2026-03-12 18:30 | brian-balfour | frameworks + podcasts | ✅ | 10 | - | P1 优先级完成：6框架(Four Fits/Retention First/Growth Loops/Growth System/Experimentation/PLG) + 2播客(Lenny Career/ChatGPT) + 2 READMEs |
 || 2026-03-12 17:30 | gustaf-alstromer | profile + frameworks + podcasts | ✅ | 12 | - | Phase 4 新增人物：完整profile + 5框架(How to Get Users/Growth Metrics/Growth Teams/PMF Validation/Marketplace) + 2播客(Lenny/YC) + 3 READMEs |
@@ -47,6 +48,6 @@
 
 ## 统计信息
 
-- **总执行次数**：23
-- **成功次数**：23
+- **总执行次数**：24
+- **成功次数**：24
 - **跳过次数**：0
