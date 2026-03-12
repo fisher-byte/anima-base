@@ -38,7 +38,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 1 | 1 | 0 | 0 | P0 | 290集转录已导入（ChatPRD来源）；需从中提炼框架文档至20+篇 |
+| Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 8 | 1 | 0 | 0 | P0 | ✅ 290集转录已导入（ChatPRD来源）；✅ 8个核心框架完成（Racecar/NSM/PMF/Retention/Loops/Kickstart/Decision/B2B GTM） |
 | Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 0 | 0 | 0 | P0 | 框架最丰富，需补 quotes |
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 0 | 0 | P0 | 需补充 Inspired/Empowered 书籍摘要 |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 0 | P0 | Twitter精华(100+条)需API设置(待处理) |
