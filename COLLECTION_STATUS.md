@@ -196,7 +196,7 @@ P2 - 空目录人物（建立 profile）：
 P3 - 新增人物：
   [x] naval-ravikant: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
   [x] gustaf-alstromer: ✅ 已完成 profile + 5 frameworks + 2 podcasts + 3 READMEs (2026-03-12)
-  [ ] amanda-natividad（待建目录）
+  [x] amanda-natividad: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-12)
 ```
 
 ### 内容类型说明
