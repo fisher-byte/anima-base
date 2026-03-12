@@ -53,7 +53,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Sean Ellis | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P1 | 需补 Hacking Growth 书籍摘要 |
+| Sean Ellis | ✅ | ✅ | 1 | 0 | 0 | 0 | 1 | 0 | P1 | ✅ 完成：Hacking Growth 书籍摘要 + README |
 | Brian Balfour | ✅ | ✅ | 2 | 0 | 6 | 0 | 0 | 0 | P1 | ✅ 完成：6框架(Four Fits/Retention/Loops/System/Experimentation/PLG) + 2播客 + 2 READMEs |
 | Andrew Chen | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile，需补 a16z 文章 |
 | Casey Winters | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P2 | |
