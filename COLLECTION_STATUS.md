@@ -66,7 +66,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Seth Godin | ✅ | ✅ | 0 | 3 | 0 | 0 | 0 | 0 | P1 | 有文章，需补框架和播客 |
+| Seth Godin | ✅ | ✅ | 0 | 3 | 5 | 0 | 0 | 0 | P1 | ✅ 核心框架完成 (Purple Cow/Permission Marketing/This Is Marketing/MVA/The Dip)，需补播客 |
 | April Dunford | ✅ | ✅ | 0 | 1 | 5 | 0 | 0 | 0 | P1 | ✅ Obviously Awesome 框架已完成 (5篇) |
 | Ann Handley | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
