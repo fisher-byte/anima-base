@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+|| 2026-03-12 17:30 | gustaf-alstromer | profile + frameworks + podcasts | ✅ | 12 | - | Phase 4 新增人物：完整profile + 5框架(How to Get Users/Growth Metrics/Growth Teams/PMF Validation/Marketplace) + 2播客(Lenny/YC) + 3 READMEs |
 | 2026-03-12 16:30 | april-dunford | frameworks | ✅ | 4 | - | Phase 1 轮次2完成：4个补充框架(Competitive Alternatives/Best Customers Exercise/Market Category Job/Feature List Trap) + 更新README |
 | 2026-03-12 15:20 | lenny-rachitsky | frameworks | ✅ | 9 | - | Phase 3 P0任务完成：8核心框架(Racecar Growth/North Star Metric/PMF Evaluation/Retention Analysis/Growth Loops/Consumer Kickstart/Decision Making/B2B GTM) + README索引 |
 | 2026-03-12 14:10 | andy-grove | frameworks + podcasts | ✅ | 11 | - | Phase 2 轮次18完成：5框架(Managerial Output/Strategic Inflection Point/One-on-One Meetings/Breakfast Factory/Leverage Activities) + 3播客(Ben Horowitz/John Doerr/Marc Andreessen) + 3 README |
