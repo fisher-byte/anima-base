@@ -78,7 +78,7 @@
 | Ben Horowitz | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P1 | 需补 Hard Thing 书籍摘要 |
 | Ray Dalio | ✅ | ✅ | 0 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架完成 (5篇) |
 | Satya Nadella | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次16完成：5框架 + 4播客 |
-| Reed Hastings | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 有 profile，需补充内容 |
+| Reed Hastings | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次17完成：5框架 + 4播客 |
 | Andy Grove | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P3 | 有 profile，需补充内容 |
 
 ### Startup（创业）

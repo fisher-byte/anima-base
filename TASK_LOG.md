@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-12 13:07 | reed-hastings | frameworks + podcasts | ✅ | 11 | - | Phase 2 轮次17完成：5框架(Freedom&Responsibility/Keeper Test/Talent Density/Farming for Dissent/Radical Candor) + 4播客 + 2 README |
 | 2026-03-12 12:08 | satya-nadella | frameworks + podcasts | ✅ | 11 | - | Phase 2 轮次16完成：5框架(Growth Mindset/Model-Coach-Care/Three Cs/Empathy-Driven Innovation/Hit Refresh) + 4播客 + 2 README |
 | 2026-03-12 10:05 | rand-fishkin | frameworks + podcasts | ✅ | 11 | - | Phase 2 轮次15完成：5框架(Zero-Click/TAGFEE/Audience Research/Whiteboard Friday/Chill Work) + 4播客 + 2 README |
 | 2026-03-12 20:30 | dave-gerhardt | frameworks + podcasts | ✅ | 11 | - | Phase 2 轮次14完成：5框架(10 Commandments/Founder Brand/Conversational Marketing/B2B Brand/Timeless Principles) + 4播客 + 2 README |
@@ -39,6 +40,6 @@
 
 ## 统计信息
 
-- **总执行次数**：19
-- **成功次数**：19
+- **总执行次数**：20
+- **成功次数**：20
 - **跳过次数**：0
