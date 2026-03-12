@@ -2,7 +2,7 @@
 type: index
 person: julie-zhuo
 title: Julie Zhuo Podcast Insights Collection
-date: 2026-03-11
+date: 2026-03-13
 verification_status: reviewed
 content_type: curated_summary
 ---
@@ -27,6 +27,10 @@ content_type: curated_summary
 | 10 | [Design Better](./design-better-managing-like-leader.md) | InVision | 2019 | 像领导者一样管理 |
 | 11 | [BookPal - Making of Manager](./bookpal-making-of-manager.md) | BookPal | 2019 | 书籍核心洞察 |
 | 12 | [Indeed Lead](./indeed-good-manager.md) | Indeed | 2019-11 | 好管理者的特质 |
+| 13 | [Punk Rock HR](./punk-rock-hr-making-of-manager.md) | Laurie Ruettimann | 2019-09 | 新管理者的转型挑战 |
+| 14 | [Pivot with Jenny Blake](./pivot-making-of-manager.md) | Jenny Blake | 2019-09 | 柠檬水摊位类比、三个P、用户手册 |
+| 15 | [Hurry Slowly](./hurry-slowly-visualizing-your-day.md) | Jocelyn K. Glei | 2018-02 | 可视化一天、能量管理、思考时间 |
+| 16 | [Accidental Creative](./accidental-creative-making-of-manager.md) | Todd Henry | 2019-03 | 管理角色的根本转变 |
 
 ## 核心洞察摘要
 
@@ -68,4 +72,4 @@ content_type: curated_summary
 3. Greymatter
 
 ---
-*索引编制于 2026-03-11 | 共 12 个播客洞察*
+*索引编制于 2026-03-13 | 共 16 个播客洞察*

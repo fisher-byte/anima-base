@@ -175,7 +175,7 @@ P0 - 核心人物深度扩充：
   [ ] shreyas-doshi: 补充 twitter/ 精华
 
 P1 - 有 profile 但内容稀薄的人物：
-  [ ] julie-zhuo: 补充 podcasts + frameworks
+  [x] julie-zhuo: ✅ 已完成 4个新播客 (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative
   [ ] teresa-torres: 补充 podcasts + frameworks
   [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
   [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
