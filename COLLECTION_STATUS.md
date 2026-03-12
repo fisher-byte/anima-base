@@ -180,7 +180,7 @@ P1 - 有 profile 但内容稀薄的人物：
   [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
   [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
   [x] ben-horowitz: ✅ 已完成 2本书籍摘要 (2026-03-13)
-  [ ] ray-dalio: 补充 frameworks (Principles)
+  [x] ray-dalio: ✅ 已完成 7个frameworks (2026-03-13) — Pain+Reflection, 5-Step, Idea Meritocracy, Radical Transparency, Economic Machine, Believability-Weighted, Meaningful Work & Relationships
 
 P2 - 空目录人物（建立 profile）：
   [x] jackie-bavaro: ✅ 已完成 profile + 3 frameworks + 4 podcasts (2026-03-12)
