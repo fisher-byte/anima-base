@@ -47,7 +47,7 @@
 | Teresa Torres | ✅ | ✅ | 11 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 框架完成 (OST/Interview Snapshot/Assumption Testing/CDH/Experience Map) |
 | Jackie Bavaro | ✅ | ✅ | 5 | 0 | 3 | 0 | 0 | 0 | P1 | ✅ profile完整 + 5播客 + 3框架 (Strategy/PEARL/Seniority) |
 | John Cutler | ✅ | ✅ | 4 | 0 | 4 | 0 | 0 | 0 | P2 | ✅ Phase 2 完成：完整profile+4框架+4播客 |
-| Brandon Chu | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 空目录，待启动 |
+| Brandon Chu | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次11完成：完整profile + 6框架 + 4播客 |
 
 ### Growth（增长）
 
@@ -56,7 +56,7 @@
 | Sean Ellis | ✅ | ✅ | 1 | 0 | 0 | 0 | 1 | 0 | P1 | ✅ 完成：Hacking Growth 书籍摘要 + README |
 | Brian Balfour | ✅ | ✅ | 2 | 0 | 6 | 0 | 0 | 0 | P1 | ✅ 完成：6框架(Four Fits/Retention/Loops/System/Experimentation/PLG) + 2播客 + 2 READMEs |
 | Andrew Chen | ✅ | ✅ | 1 | 0 | 1 | 0 | 0 | 0 | P1 | ✅ Phase 1 启动：1框架(Cold Start Problem) + 1播客 |
-| Casey Winters | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P2 | |
+| Casey Winters | ✅ | ✅ | 3 | 0 | 4 | 0 | 0 | 0 | P2 | ✅ 完成：4框架(PMF Guide/Growth Loops/S-Curves/Acquisition Layering) + 3播客(Lenny系列) + 2 READMEs |
 | Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
 | Chamath Palihapitiya | ✅ | ✅ | 5 | 0 | 7 | 0 | 0 | 0 | P2 | ✅ Phase 2 扩充完成：7框架 + 5播客 + 2 READMEs |
 | Gustaf Alströmer | ✅ | ✅ | 2 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 4 完成：profile + 5框架 + 2播客 + 3 READMEs |
@@ -81,7 +81,7 @@
 | Ray Dalio | ✅ | ✅ | 0 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架完成 (5篇) |
 | Satya Nadella | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次16完成：5框架 + 4播客 |
 | Reed Hastings | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次17完成：5框架 + 4播客 |
-| Andy Grove | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P3 | 有 profile，需补充内容 |
+| Andy Grove | ✅ | ✅ | 3 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 2 轮次18完成：5框架 + 3播客 |
 
 ### Startup（创业）
 
