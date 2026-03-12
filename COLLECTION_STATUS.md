@@ -39,10 +39,10 @@
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 13 | 1 | 0 | 0 | P0 | ✅ 290集转录已导入（ChatPRD来源）；✅ 13个核心框架完成（Racecar/NSM/PMF/Retention/Loops/Kickstart/Decision/B2B GTM/GAIN/Strategy Blocks/RICE/A/B Testing/Onboarding） |
-| Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 0 | 0 | 0 | P0 | 框架最丰富，需补 quotes |
-| Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 0 | 0 | P0 | 需补充 Inspired/Empowered 书籍摘要 |
+| Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 1 | 0 | 0 | P0 | ✅ 语录集完成(50+条)；框架最丰富 |
+| Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 3 | 0 | P0 | ✅ 三本书摘要完成(Inspired/Empowered/Transformed) |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 0 | P0 | Twitter精华(100+条)需API设置(待处理) |
-| Gokul Rajaram | ✅ | ✅ | 4 | 1 | 9 | 0 | 0 | 0 | P1 | 框架已较全，需补播客 |
+| Gokul Rajaram | ✅ | ✅ | 10 | 1 | 9 | 0 | 0 | 0 | P1 | ✅ 播客扩充完成(10集)；框架已较全 |
 | Julie Zhuo | ✅ | ✅ | 12 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 播客(12)+框架(5) 完成 |
 | Teresa Torres | ✅ | ✅ | 11 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 框架完成 (OST/Interview Snapshot/Assumption Testing/CDH/Experience Map) |
 | Jackie Bavaro | ✅ | ✅ | 5 | 0 | 3 | 0 | 0 | 0 | P1 | ✅ profile完整 + 5播客 + 3框架 (Strategy/PEARL/Seniority) |
