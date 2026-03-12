@@ -20,6 +20,7 @@
 | 2026-03-12 03:04 | teresa-torres | frameworks | ✅ | 6 | - | Phase 1 轮次8完成：5框架(OST/Interview Snapshot/Assumption Testing/CDH/Experience Map) + README |
 | 2026-03-12 15:30 | julie-zhuo | frameworks | ✅ | 6 | - | Phase 1 轮次7完成：5框架(Three Ps/Diagnose/Feedback/User Guide/Managing Up) + README |
 | 2026-03-12 01:05 | teresa-torres | podcasts | ✅ | 12 | - | Phase 1 轮次6完成：11个播客洞察 + README索引（含自主播客系列）|
+| 2026-03-12 01:30 | paul-graham | essays | ✅ | 16 | - | Phase 1 轮次1续：再增16篇essays（含What I Worked On/Fierce Nerds/18 Mistakes/Earnestness等）|
 | 2026-03-12 10:30 | paul-graham | essays | ✅ | 10 | - | Phase 1 轮次1完成：新增10篇经典essays（含Cities/Top Idea/Bus Ticket等）|
 | 2026-03-11 23:15 | julie-zhuo | podcasts | ✅ | 13 | - | Phase 1 轮次5完成：12个播客洞察 + README索引 |
 | 2026-03-11 22:35 | ray-dalio | frameworks | ✅ | 5 | - | 补充4框架：Pain+Reflection/Idea Meritocracy/Radical Trans/Economic Machine + README |
@@ -37,6 +38,6 @@
 
 ## 统计信息
 
-- **总执行次数**：17
-- **成功次数**：17
+- **总执行次数**：18
+- **成功次数**：18
 - **跳过次数**：0
