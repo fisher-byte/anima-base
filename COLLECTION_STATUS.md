@@ -58,7 +58,7 @@
 | Andrew Chen | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P1 | 仅有 profile，需补 a16z 文章 |
 | Casey Winters | ✅ | ✅ | 1 | 0 | 0 | 0 | 0 | 0 | P2 | |
 | Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
-| Chamath Palihapitiya | ✅ | — | 0 | 0 | 0 | 0 | 0 | 0 | P3 | 空目录 |
+| Chamath Palihapitiya | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次13完成：5框架 + 4播客 |
 
 ### Marketing（营销）
 
@@ -127,7 +127,7 @@
 | ~~John Cutler~~ | ~~product~~ | ✅ 已完成 |
 | ~~Brandon Chu~~ | ~~product~~ | ✅ 已完成 |
 | ~~Elena Verna~~ | ~~growth~~ | ✅ 已完成 |
-| Chamath Palihapitiya | growth | 建 profile.md |
+| ~~Chamath Palihapitiya~~ | ~~growth~~ | ✅ 已完成 |
 | Dave Gerhardt | marketing | 建 profile.md |
 | Rand Fishkin | marketing | 建 profile.md |
 | Satya Nadella | leadership | 建 profile.md |
