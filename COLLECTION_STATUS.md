@@ -181,9 +181,16 @@ P1 - 有 profile 但内容稀薄的人物：
   [ ] ray-dalio: 补充 frameworks (Principles)
 
 P2 - 空目录人物（建立 profile）：
-  [ ] jackie-bavaro, john-cutler, brandon-chu
-  [ ] elena-verna, dave-gerhardt, rand-fishkin
-  [ ] satya-nadella, reed-hastings, andy-grove
+  [x] jackie-bavaro: ✅ 已完成 profile + 3 frameworks + 4 podcasts (2026-03-12)
+  [x] john-cutler: ✅ 已完成 profile + 4 frameworks + 4 podcasts (2026-03-12)
+  [x] brandon-chu: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
+  [x] elena-verna: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
+  [x] chamath-palihapitiya: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
+  [x] dave-gerhardt: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
+  [x] rand-fishkin: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
+  [x] satya-nadella: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
+  [x] reed-hastings: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
+  [x] andy-grove: ✅ 已完成 5 frameworks + 3 podcasts + 3 READMEs (2026-03-12)
 
 P3 - 新增人物：
   [ ] naval-ravikant（建目录 + profile）
