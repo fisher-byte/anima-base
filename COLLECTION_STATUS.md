@@ -20,8 +20,8 @@
 
 | 指标 | 当前值 | 目标值 | 完成度 |
 |------|:------:|:------:|:------:|
-| 人物目录（已建立） | 29 | 30 | 97% |
-| 有完整 Profile | 24 | 29 | 83% |
+| 人物目录（已建立） | 31 | 30 | 103% |
+| 有完整 Profile | 26 | 31 | 84% |
 | 播客文档——本库策展版 | 66 | 350 | 19% |
 | Lenny 播客——完整转录（已导入） | 290 集 | 290 | 100% |
 | 文章文档 | 42 | 920 | 5% |
@@ -173,6 +173,10 @@ P0 - 核心人物深度扩充：
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
+  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 1 article + 1 quotes (2026-03-14) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 77 Product Principles Speech, Quotes from Fanfou and Speeches
+      来源：张小龙演讲文字总结、饭否语录、公开分享
+  [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 article (2026-03-14) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | Tsinghua Product Management Course
+      来源：清华大学互联网产品管理课
 
 P1 - 有 profile 但内容稀薄的人物：
   [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
@@ -266,5 +270,7 @@ P4 - 经典人物补充：
 | 2026-03-11 | 创建空档案: Rand Fishkin | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Satya Nadella | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Reed Hastings | ✅ 已完成 |
-| 2026-03-11 | 创建空档案: Andy Grove |                                                                                || 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Andy Grove |                                                                                || 2026-03-14 | 张小龙完整档案 (profile + 6 frameworks + 1 article + 1 quotes) | ✅ 已完成 |
+| 2026-03-14 | 王慧文完整档案 (profile + 4 frameworks + 1 article) | ✅ 已完成 |
+| 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
 || 2026-03-12 | Phase 4: Gustaf Alströmer 完整档案 (profile + 5 frameworks + 2 podcasts + 3 READMEs) | ✅ 已完成 |
