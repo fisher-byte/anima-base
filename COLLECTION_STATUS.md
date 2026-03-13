@@ -188,7 +188,7 @@ P2 - 空目录人物（建立 profile）：
   [x] jackie-bavaro: ✅ 已完成 profile + 3 frameworks + 4 podcasts (2026-03-12)
   [x] john-cutler: ✅ 已完成 profile + 4 frameworks + 4 podcasts (2026-03-12)
   [x] brandon-chu: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
-  [x] elena-verna: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
+  [x] elena-verna: ✅ 已完成 profile + 10 frameworks + 5 podcasts (2026-03-15) — Motions x Levers Model, Freemium vs Trial, Reverse Trial, Growth Squad Sequencing, 10 Growth Tactics That Never Work
   [x] chamath-palihapitiya: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
   [x] dave-gerhardt: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)
   [x] rand-fishkin: ✅ 已完成 profile + 5 frameworks + 4 podcasts (2026-03-12)

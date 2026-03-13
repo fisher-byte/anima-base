@@ -1,82 +1,176 @@
-# Elena Verna - Frameworks
+---
+type: index
+person: elena-verna
+title: Elena Verna 框架索引
+date: 2026-03-15
+status: published
+---
 
-Elena Verna 的增长框架集合。Elena 是 PLG (Product-Led Growth) 领域的权威专家，前 Dropbox、Miro、Amplitude 增长负责人，现为 Lovable Head of Growth。
+# Elena Verna 框架索引
+
+Elena Verna 是Product-Led Growth（PLG）和增长策略领域的权威专家，前Dropbox、Miro、Amplitude增长负责人，Reforge合作伙伴。她的框架体系涵盖PLG战略、增长组织设计、定价策略和增长反模式。
 
 ---
 
-## 框架列表
+## 核心框架
 
-### PLG 策略框架
+### PLG战略框架
 
-| 框架 | 核心问题 | 文档 |
-|------|----------|------|
-| **PLG Decision Framework** | 是否应该采用 PLG？ | [plg-decision-framework.md](./plg-decision-framework.md) |
-| **Product-Led Sales** | 何时及如何叠加销售？ | [product-led-sales.md](./product-led-sales.md) |
-| **Paid vs Free Features** | 新功能应该免费还是付费？ | [paid-vs-free-features.md](./paid-vs-free-features.md) |
-
-### 增长运营框架
-
-| 框架 | 核心问题 | 文档 |
-|------|----------|------|
-| **B2B Activation** | 如何正确衡量激活？ | [b2b-activation.md](./b2b-activation.md) |
-| **Growth Loops** | 如何设计自我强化的增长循环？ | [growth-loops.md](./growth-loops.md) |
-| **Growth Hiring Rules** | 如何招聘增长人才？ | [growth-hiring-rules.md](./growth-hiring-rules.md) |
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **PLG Decision Framework** | 是否采用PLG的决策框架 | [plg-decision-framework.md](plg-decision-framework.md) |
+| **Product-Led Sales** | 何时叠加销售动作（PLS） | [product-led-sales.md](product-led-sales.md) |
+| **Motions x Levers Model** | 增长动作×杠杆3×3矩阵 | [motions-x-levers-model.md](motions-x-levers-model.md) |
 
 ---
 
-## 学习路径
+### 定价与变现框架
 
-### 入门者
-1. [PLG Decision Framework](./plg-decision-framework.md) - 理解 PLG 基础
-2. [Growth Loops](./growth-loops.md) - 学习增长循环思维
-
-### 实践者
-3. [B2B Activation](./b2b-activation.md) - 正确衡量激活
-4. [Paid vs Free Features](./paid-vs-free-features.md) - 功能定价决策
-
-### 规模化
-5. [Product-Led Sales](./product-led-sales.md) - 叠加销售能力
-6. [Growth Hiring Rules](./growth-hiring-rules.md) - 搭建增长团队
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **Freemium vs Trial** | 免费策略选择指南 | [freemium-vs-trial-framework.md](freemium-vs-trial-framework.md) |
+| **Paid vs Free Features** | 功能定价决策框架 | [paid-vs-free-features.md](paid-vs-free-features.md) |
 
 ---
 
-## 核心概念速查
+### 增长组织设计
 
-### PLG 四大能力
-- **Acquisition** - 产品驱动获客
-- **Activation** - 自助激活
-- **Engagement** - 产品内参与
-- **Monetization** - 自助变现
-
-### 增长角色三分类
-- **Growth Marketer** - 获客渠道专家
-- **Growth PM** - 产品实验专家
-- **Growth Engineer** - 增长技术专家
-
-### 激活三要素
-- 核心价值行为
-- 习惯建立频率
-- 时间窗口限制
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **Growth Hiring Rules** | 增长团队招聘6大原则 | [growth-hiring-rules.md](growth-hiring-rules.md) |
+| **Growth Squad Sequencing** | 增长团队组建顺序 | [growth-squad-sequencing.md](growth-squad-sequencing.md) |
 
 ---
 
-## 代表语录
+### 增长执行框架
 
-> "PLG is not about having no sales. It's about making your product the best salesperson."
-
-> "Growth is not about acquiring more users. It's about acquiring the right users and making them stay."
-
-> "Most companies fail because they treat growth as a person, not a system."
-
----
-
-## 相关资源
-
-- **个人网站**: [elenaverna.com](https://www.elenaverna.com)
-- **Reforge 课程**: [Product-Led Growth](https://www.reforge.com/courses/product-led-growth)
-- **LinkedIn**: [@elenaverna](https://www.linkedin.com/in/elenaverna)
-- **Twitter/X**: [@elenaverna](https://twitter.com/elenaverna)
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **Growth Loops** | 增长循环设计方法 | [growth-loops.md](growth-loops.md) |
+| **B2B Activation** | B2B激活正确衡量方法 | [b2b-activation.md](b2b-activation.md) |
 
 ---
 
-*Last updated: 2026-03-12*
+### 增长反模式
+
+| 框架 | 描述 | 文件 |
+|------|------|------|
+| **10 Growth Tactics That Never Work** | 10个常见但无效的增长策略 | [10-growth-tactics-that-never-work.md](10-growth-tactics-that-never-work.md) |
+
+---
+
+## 快速参考
+
+### Motions x Levers 矩阵速查
+
+```
+               Acquisition    Retention    Monetization
+Product-Led    病毒循环       习惯循环     使用量计费
+Sales-Led      外呼销售       客户成功     合同谈判
+Marketing-Led  内容SEO        社区活动     Webinar转化
+```
+
+---
+
+### PLG vs PLS 决策树
+
+```
+有自然传播场景? 
+  ├─ Yes → PLG优先
+  │   └─ 企业客户出现? 
+  │       └─ Yes → 叠加PLS
+  │
+  └─ No → 产品复杂度高? 
+      ├─ Yes → Sales-Led
+      └─ No → Marketing-Led + PLG
+```
+
+---
+
+### Freemium vs Trial 选择
+
+```
+价值即时可见 + 网络效应 → Freemium ⭐⭐⭐
+价值延迟 + 企业客户 → Trial ⭐⭐⭐
+两者都有 → Reverse Trial ⭐⭐⭐
+```
+
+---
+
+### Growth Squad 启动顺序
+
+```
+1. Activation Squad（第一个）
+2. Retention Squad（第二个）
+3. Acquisition Squad（第三个）
+4. Monetization Squad（第四个）
+5. Expansion Squad（最后）
+```
+
+---
+
+## 推荐学习路径
+
+### 路径1: PLG入门
+1. **理解PLG**: [PLG Decision Framework](plg-decision-framework.md)
+2. **了解混合增长**: [Motions x Levers Model](motions-x-levers-model.md)
+3. **何时加销售**: [Product-Led Sales](product-led-sales.md)
+
+---
+
+### 路径2: 定价策略
+1. **免费策略**: [Freemium vs Trial Framework](freemium-vs-trial-framework.md)
+2. **功能定价**: [Paid vs Free Features](paid-vs-free-features.md)
+3. **激活优化**: [B2B Activation](b2b-activation.md)
+
+---
+
+### 路径3: 组织建设
+1. **招聘原则**: [Growth Hiring Rules](growth-hiring-rules.md)
+2. **团队排序**: [Growth Squad Sequencing](growth-squad-sequencing.md)
+3. **执行方法**: [Growth Loops](growth-loops.md)
+
+---
+
+### 路径4: 避免陷阱
+1. **常见错误**: [10 Growth Tactics That Never Work](10-growth-tactics-that-never-work.md)
+2. **正确实践**: 重新阅读核心框架，对照检查
+
+---
+
+## 外部资源
+
+- **Elena's Substack**: [elenaverna.com](https://www.elenaverna.com/)
+- **Reforge PLG课程**: 产品导向增长标准课程
+- **Lenny's Podcast**: Elena多次深度访谈
+
+---
+
+## 框架应用场景
+
+### 创业公司（< 10K MAU）
+推荐框架:
+1. PLG Decision Framework（选择增长模式）
+2. B2B Activation（优化激活）
+3. 10 Growth Tactics That Never Work（避免陷阱）
+
+---
+
+### 成长公司（10K-100K MAU）
+推荐框架:
+1. Growth Squad Sequencing（组建团队）
+2. Freemium vs Trial（优化定价）
+3. Growth Loops（设计循环）
+
+---
+
+### 成熟公司（> 100K MAU）
+推荐框架:
+1. Product-Led Sales（叠加销售）
+2. Motions x Levers Model（多渠道增长）
+3. Growth Hiring Rules（扩大团队）
+
+---
+
+*所有框架基于Elena Verna在Amplitude、Miro、Dropbox的实战经验和Reforge课程内容*
+*Last updated: 2026-03-15*
