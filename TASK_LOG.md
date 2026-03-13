@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-13 10:12 | patrick-lencioni | profile + frameworks + podcasts | ✅ | 11 | - | P4领导力经典扩充：团队健康权威Patrick Lencioni完整档案 - profile.md(10KB)、5核心框架(Five Dysfunctions 12KB/Ideal Team Player 14KB/Working Genius 15KB/Organizational Health 9KB/Death by Meeting 8KB)、4播客访谈(Uncomfortable Safety/Long Before Headline/Jugglers Anonymous/Hard Times with Dave Ramsey)、README索引。覆盖组织健康、团队建设、生产力优化全体系 |
 | 2026-03-14 03:20 | david-ogilvy | frameworks + quotes + books | ✅ | 4 | - | P4营销经典扩充：广告之父David Ogilvy档案创建 - 1个核心框架(7 Principles of Marketing含38个实践要点)、60+经典语录集、2本书籍索引(Confessions + Ogilvy on Advertising)、2个README索引。涵盖Give Facts/Be Truthful/Big Idea/Headlines/Long Copy/Brand Image等核心理念 |
 | 2026-03-14 03:10 | - | 状态检查 | ✅ | - | - | 执行计划Phase 1-3全面完成：P0深度扩充(Lenny 17框架/Brian Chesky 50+语录/Marty Cagan 3书籍)✅，P1内容扩充(Julie Zhuo/Teresa Torres)✅，P2空档案完善(11人全部完成)✅。仅剩Shreyas Doshi Twitter任务需API配置。更新COLLECTION_STATUS.md标记完成状态 |
 || 2026-03-14 00:30 | seth-godin | podcasts | ✅ | 7 | - | P1营销大师播客扩充完成：6个高质量播客(Lenny/Tim Ferriss #792/#728/SPI/Guy Kawasaki/TED Radio Hour) + README索引。涵盖战略思维、Purple Cow、系统思维、克服抗拒、8500天写作实践、病毒式传播等核心主题 |

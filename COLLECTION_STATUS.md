@@ -82,6 +82,7 @@
 | Satya Nadella | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次16完成：5框架 + 4播客 |
 | Reed Hastings | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次17完成：5框架 + 4播客 |
 | Andy Grove | ✅ | ✅ | 3 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 2 轮次18完成：5框架 + 3播客 |
+| Patrick Lencioni | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ P4新增：profile + 5框架 + 4播客 + README |
 
 ### Startup（创业）
 
@@ -148,7 +149,6 @@
 
 | Amanda Natividad | marketing | ROADMAP Phase 2 |
 | Katelyn Bourgoin | marketing | ROADMAP Phase 2 |
-| Patrick Lencioni | leadership | ROADMAP Phase 2 |
 
 ---
 
@@ -198,9 +198,10 @@ P3 - 新增人物：
   [x] naval-ravikant: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
   [x] gustaf-alstromer: ✅ 已完成 profile + 5 frameworks + 2 podcasts + 3 READMEs (2026-03-12)
 
-P4 - 营销经典人物补充：
+P4 - 经典人物补充：
   [x] david-ogilvy: ✅ 已完成 1 framework (7 Principles) + 60+ quotes + 2 books index + 2 READMEs (2026-03-14)
   [x] amanda-natividad: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-12)
+  [x] patrick-lencioni: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-13)
 ```
 
 ### 内容类型说明
