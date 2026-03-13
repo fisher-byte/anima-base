@@ -22,10 +22,10 @@
 |------|:------:|:------:|:------:|
 | 人物目录（已建立） | 31 | 30 | 103% |
 | 有完整 Profile | 26 | 31 | 84% |
-| 播客文档——本库策展版 | 66 | 350 | 19% |
+| 播客文档——本库策展版 | 69 | 350 | 20% |
 | Lenny 播客——完整转录（已导入） | 290 集 | 290 | 100% |
 | 文章文档 | 42 | 920 | 5% |
-| 框架文档 | 56 | 350 | 16% |
+| 框架文档 | 60 | 350 | 17% |
 | 书籍摘要 | 0 | 23 | 0% |
 | 语录集 | 1 | 28 | 4% |
 | 中文翻译 | — | 全量 | — |
@@ -55,7 +55,7 @@
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Sean Ellis | ✅ | ✅ | 1 | 0 | 0 | 0 | 1 | 0 | P1 | ✅ 完成：Hacking Growth 书籍摘要 + README |
 | Brian Balfour | ✅ | ✅ | 2 | 0 | 6 | 0 | 0 | 0 | P1 | ✅ 完成：6框架(Four Fits/Retention/Loops/System/Experimentation/PLG) + 2播客 + 2 READMEs |
-| Andrew Chen | ✅ | ✅ | 1 | 0 | 1 | 0 | 0 | 0 | P1 | ✅ Phase 1 启动：1框架(Cold Start Problem) + 1播客 |
+| Andrew Chen | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 完成扩充：5框架(Cold Start/Atomic Network/3 Effects/Law Shitty CTR/Tipping) + 4播客(Lenny/Tim Ferriss/Intercom x2) + 2 READMEs |
 | Casey Winters | ✅ | ✅ | 3 | 0 | 4 | 0 | 0 | 0 | P2 | ✅ 完成：4框架(PMF Guide/Growth Loops/S-Curves/Acquisition Layering) + 3播客(Lenny系列) + 2 READMEs |
 | Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
 | Chamath Palihapitiya | ✅ | ✅ | 5 | 0 | 7 | 0 | 0 | 0 | P2 | ✅ Phase 2 扩充完成：7框架 + 5播客 + 2 READMEs |
