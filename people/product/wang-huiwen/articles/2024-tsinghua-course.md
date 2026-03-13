@@ -4,6 +4,7 @@ person: wang-huiwen
 title: 清华大学互联网产品管理课
 date: 2024-01-01
 source: "清华大学互联网产品管理课完整课件"
+source_raw: "../../files/articles/wang-huiwen/tsinghua-lesson-第一课.txt"
 status: reviewed
 verification_status: needs-review
 ---
@@ -191,11 +192,14 @@ verification_status: needs-review
 
 大部分人从职业产品经理开始, 少数人一开始做创业产品经理。
 
-## 参考框架
+## 原文资源
 
-本课程的详细内容已拆分为以下框架文档:
+本课程的完整7课原文已归档:
 
-1. [核心竞争力方法论](/people/product/wang-huiwen/frameworks/core-competencies.md)
-2. [发现并坚持遵循规律](/people/product/wang-huiwen/frameworks/following-rules.md)
-3. [成为π型人才](/people/product/wang-huiwen/frameworks/pi-talent.md)
-4. [后发优势方法论](/people/product/wang-huiwen/frameworks/latecomer-advantage.md)
+1. [第一课:产品管理基础](../../files/articles/wang-huiwen/tsinghua-lesson-第一课.txt) - 发现并坚持遵循规律、π型人才、核心竞争力
+2. [第二课:成功和失败的产品](../../files/articles/wang-huiwen/tsinghua-lesson-第二课.txt) - 失败案例分析、成功产品经理
+3. [第三课:后发优势](../../files/articles/wang-huiwen/tsinghua-lesson-第三课.txt) - 先发困境与后发策略
+4. [第四课:产品决策](../../files/articles/wang-huiwen/tsinghua-lesson-第四课.txt) - 决策框架与方法
+5. [第五课:商业模式](../../files/articles/wang-huiwen/tsinghua-lesson-第五课.txt) - 商业模式设计
+6. [第六课:组织建设](../../files/articles/wang-huiwen/tsinghua-lesson-第六课.txt) - 团队建设与人才培养
+7. [第七课:战略与执行](../../files/articles/wang-huiwen/tsinghua-lesson-第七课.txt) - 战略制定与执行

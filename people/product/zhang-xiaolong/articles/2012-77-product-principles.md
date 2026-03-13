@@ -4,6 +4,7 @@ person: zhang-xiaolong
 title: 张小龙77条产品原则
 date: 2012-01-01
 source: "内部演讲总结"
+source_raw: "../../files/articles/zhang-xiaolong/2012-internal-speech-raw.md"
 status: reviewed
 verification_status: needs-review
 ---

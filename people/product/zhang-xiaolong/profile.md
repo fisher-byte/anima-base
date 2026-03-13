@@ -69,8 +69,8 @@ verification_status: needs-review
 
 ### 演讲与分享
 
-- **2012年内部演讲**: 系统阐述77条产品原则, 涵盖产品设计、需求发现、用户体验等
-- **2018年微信公开课**: 分享小程序的产品理念
+- **2012年内部演讲**: 系统阐述77条产品原则, 涵盖产品设计、需求发现、用户体验等 ([原文](../../files/articles/zhang-xiaolong/2012-internal-speech-raw.md))
+- **2016年微信公开课**: 正式公布小程序,阐述"用完即走"和"商业化存在于无形"的产品哲学 ([原文](../../files/articles/zhang-xiaolong/2016-weixin-open-class-raw.md))
 - **饭否语录**: 分享对产品、人生、技术的思考
 
 ### 产品贡献
