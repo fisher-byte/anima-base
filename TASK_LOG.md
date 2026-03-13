@@ -2,7 +2,7 @@
 
 > 记录每次定时任务的执行情况。
 >
-> 最后更新：2026-03-13 22:30
+> 最后更新：2026-03-14 23:00
 
 ---
 
@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-14 23:00 | zhang-xiaolong | interviews | ✅ | 8 | - | Phase 0 轮次1：张小龙深度访谈文章扩充。新增4篇访谈文章：产品世界观(腾讯月刊)、腾讯内刊专访(产品观/国际化/团队管理)、新华社采访(化繁为简/竞争/开放)、微信十年产品方法论(三端一念)。保存4个HTML原文(2.5KB+2.9KB+5.5KB+5.3KB)、创建4个索引文档。覆盖产品哲学、人文价值、化繁为简、产品驱动、竞争观念、用户思维等核心思想 |
 | 2026-03-13 22:30 | zhang-xiaolong + wang-huiwen | 全量内容扩充 | ✅ | 4 | - | P0优先任务完成：张小龙+王慧文全量内容扩充。张小龙：2个播客文档(2017公开课12KB+2019演讲7.3KB)、1个书籍推荐文档(7.3KB)、2个原文HTML保存。王慧文：1个播客文档(连续创业传奇11.2KB)、1个原文HTML保存。覆盖产品哲学(用完即走/工具本质/合理决策)、小程序(无须安装/触手可及)、书籍推荐(10本好书)、创业历程(校内网/淘房网/美团/AI)完整体系 |
 | 2026-03-14 22:00 | sean-ellis | frameworks | ✅ | 6 | - | P1增长黑客之父扩充：Sean Ellis核心方法论体系 - 5个奠基性框架(PMF Survey 40% Test 4.3KB/North Star Metric 5.6KB/ICE Prioritization 6.7KB/Aha Moment & Activation 8.1KB/High Tempo Testing 10.4KB)、1个README索引(8.9KB)。覆盖产品市场契合度验证、增长度量、激活优化、实验优先级、高速测试完整闭环,构成现代增长黑客的理论基石 |
 | 2026-03-14 20:30 | andrew-chen | frameworks + podcasts | ✅ | 9 | - | P1增长专家深度扩充：a16z合伙人Andrew Chen完整增长框架体系 - 4核心框架(Law of Shitty Clickthroughs 10KB/Atomic Network Theory 12KB/Three Network Effects 13KB/Tipping Point Framework)、3新播客(Tim Ferriss Show #550完整增长秘密 5.5KB/Intercom Fresh Powder渠道策略 7KB/Intercom Network Effects Giants原子网络 9.5KB)、2 README索引(5KB+11KB)。覆盖网络效应、冷启动、增长渠道、病毒增长完整方法论 |

@@ -14,9 +14,10 @@
 - ✅ 11位专家空档案启动（Jackie Bavaro、John Cutler、Brandon Chu、Elena Verna、Chamath Palihapitiya、Dave Gerhardt、Rand Fishkin、Satya Nadella、Reed Hastings、Andy Grove、Paul Graham）
 
 **待处理优先级队列：**
-- P0: Shreyas Doshi Twitter精华（API配置待定）
-- P1: Julie Zhuo、Teresa Torres、Paul Graham、April Dunford、Ben Horowitz、Ray Dalio
-- P2: 上述11位已建目录但需完善profile的人物
+- P0: 张小龙、王慧文深度搜索（补充文章、访谈、演讲等内容）
+- P1: Shreyas Doshi Twitter精华（API配置待定）
+- P2: Julie Zhuo、Teresa Torres、Paul Graham、April Dunford、Ben Horowitz、Ray Dalio
+- P3: 上述11位已建目录但需完善profile的人物
 
 ---
 
@@ -30,20 +31,35 @@
 
 ### 任务队列（按执行顺序）
 
+#### Phase 0: P0 深度搜索张小龙和王慧文（饱和式收集）
+
+每轮专注于搜索并补充遗漏内容，直到内容饱和：
+
+| 轮次 | 人物 | 内容类型 | 目标量 | 策略 |
+|------|------|----------|--------|------|
+| 1 | zhang-xiaolong | articles | 搜索所有公开文章 | 深度搜索演讲、访谈、公开课等 |
+| 2 | wang-huiwen | articles | 搜索所有公开文章 | 深度搜索访谈、演讲、分享等 |
+| 3 | zhang-xiaolong | interviews | 搜索访谈内容 | 收集深度访谈和对话 |
+| 4 | wang-huiwen | interviews | 搜索访谈内容 | 收集深度访谈和对话 |
+| 5 | zhang-xiaolong | talks | 搜索演讲视频/文字 | 补充其他公开演讲 |
+| 6 | wang-huiwen | talks | 搜索演讲视频/文字 | 补充其他公开演讲 |
+| 7 | zhang-xiaolong | 综合查漏 | 确认无遗漏 | 搜索博客、微博、采访等 |
+| 8 | wang-huiwen | 综合查漏 | 确认无遗漏 | 搜索博客、采访、分享等 |
+
 #### Phase 1: P1 现有内容扩充（7人）
 
 每轮处理一个人物的指定内容类型：
 
 | 轮次 | 人物 | 内容类型 | 目标量 |
 |------|------|----------|--------|
-| 1 | paul-graham | essays | 补充15+篇精选文章 |
-| 2 | april-dunford | frameworks | Obviously Awesome完整框架 |
-| 3 | ben-horowitz | books | The Hard Thing About Hard Things摘要 |
-| 4 | ray-dalio | frameworks | Principles核心框架 |
-| 5 | julie-zhuo | podcasts | 整理10+个播客洞察 |
-| 6 | teresa-torres | podcasts | 整理10+个播客洞察 |
-| 7 | julie-zhuo | frameworks | 补充5+个框架文档 |
-| 8 | teresa-torres | frameworks | 补充5+个框架文档 |
+| 9 | paul-graham | essays | 补充15+篇精选文章 |
+| 10 | april-dunford | frameworks | Obviously Awesome完整框架 |
+| 11 | ben-horowitz | books | The Hard Thing About Hard Things摘要 |
+| 12 | ray-dalio | frameworks | Principles核心框架 |
+| 13 | julie-zhuo | podcasts | 整理10+个播客洞察 |
+| 14 | teresa-torres | podcasts | 整理10+个播客洞察 |
+| 15 | julie-zhuo | frameworks | 补充5+个框架文档 |
+| 16 | teresa-torres | frameworks | 补充5+个框架文档 |
 
 #### Phase 2: P2 空档案完善（11人）
 
@@ -101,7 +117,9 @@
 5. 记录本次执行到 TASK_LOG.md
 6. 提交到GitHub，格式：feat(collection): add {人物名} {内容类型}
 
-执行顺序：严格按照 EXECUTION_PLAN 中的 Phase 1 → 2 → 3 → 4
+执行顺序：严格按照 EXECUTION_PLAN 中的 Phase 0 → 1 → 2 → 3 → 4
+
+**当前优先级：先完成张小龙和王慧文的饱和式收集，再处理其他人物**
 
 ## 质量检查清单（必须通过）
 - [ ] 原文文件已下载到正确目录

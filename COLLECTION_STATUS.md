@@ -173,8 +173,7 @@ P0 - 核心人物深度扩充：
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
-  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 1 article + 1 quotes (2026-03-13 22:30) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017公开课演讲(用完即走+小程序)、2019演讲(每天有1亿人教我+微信8周年)、推荐10本好书(失控/人类简史/黑天鹅等)、语录集
-      来源：微信公开课演讲、饭否语录、书籍推荐文章
+  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 6 articles + 1 quotes (2026-03-14) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集 | 新增4篇深度访谈文章
   [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 1 article (2026-03-13 22:30) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程
       来源：清华大学互联网产品管理课、创业经历文章
 
