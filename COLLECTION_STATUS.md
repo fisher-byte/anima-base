@@ -206,6 +206,7 @@ P4 - 经典人物补充：
   [x] david-ogilvy: ✅ 已完成 1 framework (7 Principles) + 60+ quotes + 2 books index + 2 READMEs (2026-03-14)
   [x] amanda-natividad: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-12)
   [x] patrick-lencioni: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-13)
+  [x] ann-handley: ✅ 已完成 5 frameworks + 4 podcasts + 2 READMEs (2026-03-14)
 ```
 
 ### 内容类型说明
