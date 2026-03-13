@@ -68,7 +68,7 @@
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Seth Godin | ✅ | ✅ | 6 | 3 | 5 | 0 | 0 | 0 | P1 | ✅ 核心框架完成 + 6播客(Lenny/Tim Ferriss x2/SPI/Guy Kawasaki/TED Radio Hour) |
 | April Dunford | ✅ | ✅ | 0 | 1 | 5 | 0 | 0 | 0 | P1 | ✅ Obviously Awesome 框架已完成 (5篇) |
-| Ann Handley | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | |
+| Ann Handley | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ P4完成：5框架(Writing GPS/Everybody Writes/Content Rules/Post-Info Age/15min Marketing) + 4播客 + 2 READMEs |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
 | Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
 | Rand Fishkin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次15完成：5框架 + 4播客 |
