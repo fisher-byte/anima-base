@@ -2,7 +2,7 @@
 
 > 记录每次定时任务的执行情况。
 >
-> 最后更新：2026-03-14
+> 最后更新：2026-03-13 22:30
 
 ---
 
@@ -10,6 +10,7 @@
 
 | 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 |----------|------|----------|------|--------|--------|------|
+| 2026-03-13 22:30 | zhang-xiaolong + wang-huiwen | 全量内容扩充 | ✅ | 4 | - | P0优先任务完成：张小龙+王慧文全量内容扩充。张小龙：2个播客文档(2017公开课12KB+2019演讲7.3KB)、1个书籍推荐文档(7.3KB)、2个原文HTML保存。王慧文：1个播客文档(连续创业传奇11.2KB)、1个原文HTML保存。覆盖产品哲学(用完即走/工具本质/合理决策)、小程序(无须安装/触手可及)、书籍推荐(10本好书)、创业历程(校内网/淘房网/美团/AI)完整体系 |
 | 2026-03-14 22:00 | sean-ellis | frameworks | ✅ | 6 | - | P1增长黑客之父扩充：Sean Ellis核心方法论体系 - 5个奠基性框架(PMF Survey 40% Test 4.3KB/North Star Metric 5.6KB/ICE Prioritization 6.7KB/Aha Moment & Activation 8.1KB/High Tempo Testing 10.4KB)、1个README索引(8.9KB)。覆盖产品市场契合度验证、增长度量、激活优化、实验优先级、高速测试完整闭环,构成现代增长黑客的理论基石 |
 | 2026-03-14 20:30 | andrew-chen | frameworks + podcasts | ✅ | 9 | - | P1增长专家深度扩充：a16z合伙人Andrew Chen完整增长框架体系 - 4核心框架(Law of Shitty Clickthroughs 10KB/Atomic Network Theory 12KB/Three Network Effects 13KB/Tipping Point Framework)、3新播客(Tim Ferriss Show #550完整增长秘密 5.5KB/Intercom Fresh Powder渠道策略 7KB/Intercom Network Effects Giants原子网络 9.5KB)、2 README索引(5KB+11KB)。覆盖网络效应、冷启动、增长渠道、病毒增长完整方法论 |
 | 2026-03-14 19:30 | ann-handley | frameworks + podcasts | ✅ | 11 | - | P4内容营销权威扩充：首席内容官Ann Handley完整档案 - 5核心框架(Writing GPS 17步系统 6KB/Everybody Writes核心原则 8KB/Content Rules六大法则 10KB/Post-Information Age AI时代策略 8KB/15分钟内容营销 7KB)、4播客访谈(Marketing Over Coffee 2022/Social Media Examiner框架详解/Six Pixels AI策略/Think with Google写作秘密)、2 README索引(6KB+7KB)。覆盖商业写作、内容创作、AI时代策略、营销写作全体系 |
