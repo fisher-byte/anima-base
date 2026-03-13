@@ -2,7 +2,7 @@
 
 > **Agent 执行入口**：每次开始新一轮收集任务前，先读取本文件了解当前状态；任务完成后更新对应字段。
 >
-> 最后更新：2026-03-13 | 版本：1.0
+> 最后更新：2026-03-14 03:20 | 版本：1.0
 
 ---
 
@@ -168,15 +168,15 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [ ] lenny-rachitsky: 基于外部281集转录，提炼框架文档至20篇（当前1篇）
+  [x] lenny-rachitsky: ✅ 已完成 17个frameworks (2026-03-13) — Racecar Growth, North Star, PMF Evaluation, Retention, Growth Loops, Decision Making, B2B GTM, GAIN Feedback, Strategy Blocks, RICE, A/B Testing, User Onboarding, Product Sense, Willingness-to-Pay, Cross-Functional Alignment, Consumer Kickstart, PMF Assessment
       参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
-  [ ] brian-chesky: 补充 quotes.md (50+ 条)
-  [ ] marty-cagan: 补充 books/ (Inspired 摘要)
-  [ ] shreyas-doshi: 补充 twitter/ 精华
+  [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
+  [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
+  [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
 
 P1 - 有 profile 但内容稀薄的人物：
-  [x] julie-zhuo: ✅ 已完成 4个新播客 (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative
-  [ ] teresa-torres: 补充 podcasts + frameworks
+  [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
+  [x] teresa-torres: ✅ 已完成 12个podcasts + 5个frameworks (2026-03-12) — Lenny, Boundaryless, It Shipped, AgileData, Product People, Product Rising, UX Research, Brave UX, Aakash Gupta, ITX, All Things Product, Just Now Possible | CDH, OST, Interview Snapshot, Experience Map, Assumption Testing
   [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
   [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
   [x] ben-horowitz: ✅ 已完成 2本书籍摘要 (2026-03-13)
@@ -197,6 +197,9 @@ P2 - 空目录人物（建立 profile）：
 P3 - 新增人物：
   [x] naval-ravikant: ✅ 已完成 profile + 6 frameworks + 4 podcasts (2026-03-12)
   [x] gustaf-alstromer: ✅ 已完成 profile + 5 frameworks + 2 podcasts + 3 READMEs (2026-03-12)
+
+P4 - 营销经典人物补充：
+  [x] david-ogilvy: ✅ 已完成 1 framework (7 Principles) + 60+ quotes + 2 books index + 2 READMEs (2026-03-14)
   [x] amanda-natividad: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-12)
 ```
 
