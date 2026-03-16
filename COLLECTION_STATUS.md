@@ -38,7 +38,7 @@
 
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
-| Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 13 | 1 | 0 | 0 | P0 | ✅ 290集转录已导入（ChatPRD来源）；✅ 13个核心框架完成（Racecar/NSM/PMF/Retention/Loops/Kickstart/Decision/B2B GTM/GAIN/Strategy Blocks/RICE/A/B Testing/Onboarding） |
+| Lenny Rachitsky | ✅ | ✅ | 290 | 0 | 21 | 1 | 0 | 0 | P0 | ✅ 290集转录已导入（ChatPRD来源）；✅ Phase 3完成：21个核心框架（新增PM招聘面试/SaaS定价策略/客户访谈最佳实践/功能发布/高绩效团队建设） |
 | Brian Chesky | ✅ | ✅ | 10 | 1 | 15 | 1 | 0 | 0 | P0 | ✅ 语录集完成(50+条)；框架最丰富 |
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 3 | 0 | P0 | ✅ 三本书摘要完成(Inspired/Empowered/Transformed) |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 0 | P0 | Twitter精华(100+条)需API设置(待处理) |
@@ -168,7 +168,7 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [x] lenny-rachitsky: ✅ 已完成 17个frameworks (2026-03-13) — Racecar Growth, North Star, PMF Evaluation, Retention, Growth Loops, Decision Making, B2B GTM, GAIN Feedback, Strategy Blocks, RICE, A/B Testing, User Onboarding, Product Sense, Willingness-to-Pay, Cross-Functional Alignment, Consumer Kickstart, PMF Assessment
+  [x] lenny-rachitsky: ✅ Phase 3完成 21个frameworks (2026-03-16) — 原有17个 + 新增5个（PM Hiring & Interview/SaaS Pricing Strategy/Customer Interview Best Practices/Feature Launch/Building High-Performing Teams）
       参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
