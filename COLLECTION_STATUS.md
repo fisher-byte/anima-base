@@ -173,7 +173,7 @@ P0 - 核心人物深度扩充：
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
-  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 6 articles + 1 quotes + 5 talks (2026-03-15) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次5完成：补充2016年首次演讲+2017年小程序发布演讲
+  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 9 articles + 1 quotes + 5 talks (2026-03-16) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次1完成：新增3篇深度文章(2012年8小时内部演讲精华/用户体验自然设计/Foxmail到微信22年历程)
   [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 5 articles (2026-03-14) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | 新增4篇深度演讲和文章：π型人才、互联网AB面、AI时代崛起、决策方法
 
 P1 - 有 profile 但内容稀薄的人物：
