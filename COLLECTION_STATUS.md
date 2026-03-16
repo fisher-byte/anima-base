@@ -72,6 +72,7 @@
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
 | Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
 | Rand Fishkin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次15完成：5框架 + 4播客 |
+| Katelyn Bourgoin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ Phase 4 完成：完整profile + 5框架(Trigger Technique/Customer Whisperer System/5 F's/Switch Interview/JTBD Marketing) + 4播客 + 3 READMEs |
 
 ### Leadership（领导力）
 
@@ -148,7 +149,6 @@
 | Naval Ravikant | startup | ROADMAP Phase 2 |
 
 | Amanda Natividad | marketing | ROADMAP Phase 2 |
-| Katelyn Bourgoin | marketing | ROADMAP Phase 2 |
 
 ---
 
