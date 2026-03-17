@@ -3,8 +3,8 @@
 > Lenny Rachitsky 的核心方法论和框架合集。基于他在 Airbnb 的增长经验、对 40+ 成功公司的深度研究，以及 Lenny's Newsletter 和 Podcast 中的精华洞察。
 
 **最后更新：** 2026-03-17  
-**框架数量：** 24 个核心框架  
-**覆盖领域：** 增长战略、产品指标、用户留存、决策流程、产品战略、优先级排序、实验测试、反馈管理、产品直觉、定价策略、跨职能协作、招聘面试、SaaS定价、客户访谈、功能发布、团队建设、路线图规划、指标体系、产品运营
+**框架数量：** 28 个核心框架  
+**覆盖领域：** 增长战略、产品指标、用户留存、决策流程、产品战略、优先级排序、实验测试、反馈管理、产品直觉、定价策略、跨职能协作、招聘面试、SaaS定价、客户访谈、功能发布、团队建设、路线图规划、指标体系、产品运营、北极星指标、用户激活、用户引导、产品直觉培养
 
 ---
 
@@ -45,8 +45,100 @@
 
 ---
 
-#### 2. [North Star Metric Framework](./north-star-metric-framework.md) ⭐
-**产品增长的唯一真理指标** | 2022-09-15
+#### 3. [North Star Metric Framework](./north-star-metric-framework.md) ⭐
+**选择和实施北极星指标的完整指南** | 2021-06-15
+
+基于 Lenny 对 40+ 高增长公司的调研，帮助你选择和实施北极星指标。
+
+**核心概念：**
+- 你的北极星指标 = 你的战略
+- 5 大指标类型：收入型、消费型、交易型、增长型、参与度型
+- 输入指标树（Input Metrics Tree）
+- 北极星指标的演进
+
+**适用场景：** 战略规划、指标体系设计、团队对齐、OKR 制定
+
+---
+
+#### 4. [User Activation Framework](./user-activation-framework.md) 🚀
+**提升新用户激活率的系统方法** | 2022-10-25
+
+基于 100+ 公司的全球基准调研，提供激活率优化的完整框架。
+
+**核心数据：**
+- 平均激活率：34%，中位数：25%
+- Top 25% 公司：≥ 40%
+- 激活率 = [达到激活里程碑的用户数] / [完成注册的用户数]
+
+**优化策略（FASTER）：**
+- Friction Reduction（减少摩擦）
+- Activation Milestone Visibility（里程碑可见）
+- Speed to Value（价值速达）
+- Trigger Motivation（触发动机）
+- Email & Push Notifications（邮件与推送）
+- Remove Dead Ends（移除死胡同）
+
+**适用场景：** 新用户引导、激活优化、产品改进、增长策略
+
+---
+
+#### 5. [Product Intuition Development Framework](./product-intuition-development-framework.md) 🧠
+**系统化培养产品直觉的方法** | 2022-03-15
+
+Jules Walter（前 Slack 首位增长 PM）撰写，阐述如何将产品直觉从天赋转变为可培养的技能。
+
+**核心理念：**
+- 产品直觉不是魔法，而是可培养的技能
+- The Cooking Analogy：跟随食谱 → 理解原理 → 即兴创作
+
+**6 大组成部分：**
+1. 用户理解（User Understanding）
+2. 数据敏感度（Data Fluency）
+3. 技术认知（Technical Judgment）
+4. 设计品味（Design Taste）
+5. 商业思维（Business Acumen）
+6. 战略视野（Strategic Perspective）
+
+**10 个培养方法：**
+- 深度用户研究、培养数据直觉、拆解优秀产品、学习用户心理学
+- 写作与思考、向他人学习、实验与迭代、跨领域学习
+- 关注细节、反思与复盘
+
+**适用场景：** PM 成长、产品决策、团队培养、职业发展
+
+---
+
+#### 6. [User Onboarding Framework](./user-onboarding-framework.md) 🎓
+**设计高转化用户引导体验** | 2022-2024
+
+综合多位专家洞察，系统化设计首次体验，最大化新用户激活和留存。
+
+**核心理念：**
+- 优秀的用户引导不是教用户如何使用产品，而是帮助用户快速体验到核心价值
+
+**5 大设计原则：**
+1. 价值优先，而非功能优先
+2. 渐进式披露（Progressive Disclosure）
+3. 少即是多（Less is More）
+4. 提供即时价值
+5. 个性化引导
+
+**4 阶段模型：**
+- Stage 1: Awareness（认知）
+- Stage 2: Sign-up（注册）
+- Stage 3: First Experience（首次体验）
+- Stage 4: Ongoing Engagement（持续参与）
+
+**3 种引导模式：**
+- 教程式（Tutorial-based）- 复杂产品
+- 探索式（Exploratory）- 直观产品
+- 混合式（Hybrid）- 大多数 SaaS
+
+**适用场景：** 新用户引导、激活优化、产品体验设计、留存提升
+
+---
+
+#### 7. [Retention Framework](./retention-framework.md) 🔄
 
 帮助团队找到最能代表产品价值的核心指标，统一全公司的增长方向。
 
@@ -488,6 +580,42 @@ RICE Score = (Reach × Impact × Confidence) / Effort
 
 ---
 
-**版本：** v4.0  
+**版本：** v5.0  
+**维护者：** Anima Base Team  
+**最后更新：** 2026-03-17
+
+---
+
+## 📝 变更日志
+
+**2026-03-17（v5.0）：**
+- 新增 4 个核心框架（24→28）：
+  - North Star Metric Framework（北极星指标选择与实施）
+  - User Activation Framework（激活率优化系统方法）
+  - Product Intuition Development Framework（产品直觉培养）
+  - User Onboarding Framework（用户引导设计）
+- 覆盖增长指标、用户激活、产品技能培养完整体系
+
+**2026-03-17（v4.0）：**
+- 新增 3 个核心框架（21→24）：
+  - Product Roadmap Planning Framework
+  - SaaS Metrics & KPI Dashboard Framework
+  - Product Operations Framework
+
+**2026-03-16（v3.0）：**
+- 新增 5 个核心框架（17→21）：
+  - PM Hiring & Interview Framework
+  - SaaS Pricing Strategy Framework
+  - Customer Interview Best Practices
+  - Feature Launch Framework
+  - Building High-Performing Product Teams
+
+**2026-03-11（v1.0 初始版本）：**
+- 创建 11 个核心框架
+- 涵盖增长、产品管理、数据分析基础领域
+
+---
+
+**版本：** v5.0  
 **维护者：** Anima Base Team  
 **最后更新：** 2026-03-17

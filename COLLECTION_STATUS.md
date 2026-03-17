@@ -168,7 +168,7 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [x] lenny-rachitsky: ✅ Phase 4完成 24个frameworks (2026-03-17) — 原有21个 + 新增3个（Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations）
+  [x] lenny-rachitsky: ✅ Phase 3完成 28个frameworks (2026-03-17) — 原有24个 + 新增4个（North Star Metric/User Activation/Product Intuition Development/User Onboarding）
       参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
