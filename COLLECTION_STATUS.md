@@ -173,7 +173,7 @@ P0 - 核心人物深度扩充：
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
-  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 9 articles + 1 quotes + 5 talks + **3 decision cases** (2026-03-17) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | **NEW** 决策案例库3/10：视频号战略(A级)、公众号平台化(A级)、小程序战略(A级，90分钟演讲全文)，提炼10+决策启发式
+  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 15 articles + 1 quotes + 5 talks + 3 interviews + **3 decision cases** (2026-03-17) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次7完成：新增2篇关键文章(2014年微信事业群成立内部邮件7大价值观/2013年新华社"地球观察者"深度报道)，articles总数9→15篇 | **NEW** 决策案例库3/10：视频号战略(A级)、公众号平台化(A级)、小程序战略(A级，90分钟演讲全文)，提炼10+决策启发式
   [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 5 articles + 3 talks (2026-03-17) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | Phase 0轮次6完成：新增3个演讲(2020年清华"不设限的人生"/2020年混沌大学决策演讲/2019年战略与组织能力)，覆盖π型人才、快速学习、核心竞争力、战略决策、规模效应、马太效应、先发后发优势、组织能力建设完整体系
 
 P1 - 有 profile 但内容稀薄的人物：
