@@ -9,12 +9,12 @@
 | 案例编号 | 决策主题 | 人物 | 时间 | 领域 | 状态 | 证据等级 |
 |---------|---------|------|------|------|------|---------|
 | [Case-01](./case-01-superhuman-pmf-survey-decision.md) | Superhuman PMF Survey决策 | Rahul Vohra | 2017-2019 | PMF验证/产品优化 | ✅ 完成 | A级（Lenny播客原文） |
-| Case-02 | Shreyas LNO框架决策 | Shreyas Doshi | - | 优先级排序 | ⬜ 待创建 | - |
+| [Case-02](./case-02-shreyas-lno-framework-decision.md) | Shreyas LNO框架决策 | Shreyas Doshi | 2021前后 | 个人效能/优先级排序 | ✅ 完成 | A级（Twitter+整理稿） |
 | Case-03 | April Dunford定位决策 | April Dunford | - | 产品定位 | ⬜ 待创建 | - |
 | Case-04 | Casey Winters增长渠道决策 | Casey Winters | - | 增长渠道 | ⬜ 待创建 | - |
 | Case-05 | Annie Duke决策框架 | Annie Duke | - | 决策质量 | ⬜ 待创建 | - |
 
-**进度**：1/10 案例完成（10%）
+**进度**：2/10 案例完成（20%）
 
 ---
 
