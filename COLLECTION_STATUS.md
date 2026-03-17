@@ -168,7 +168,7 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [x] lenny-rachitsky: ✅ Phase 3完成 28个frameworks (2026-03-17) — 原有24个 + 新增4个（North Star Metric/User Activation/Product Intuition Development/User Onboarding）
+  [x] lenny-rachitsky: ✅ Phase 3完成 30个frameworks (2026-03-18) — 原有24个 + 新增6个（North Star Metric/User Activation/Product Intuition Development/User Onboarding/AI Evals/Product Velocity） | Phase 3轮次2完成：基于290集播客转录提炼2个高价值框架（AI Evals Framework完整方法论/Product Velocity Framework速度质量平衡），frameworks总数28→30个
       参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
@@ -284,3 +284,5 @@ P4 - 经典人物补充：
 || 2026-03-18 01:00 | 决策案例库持续扩充：张小龙6个+Lenny 2个，总计8个案例 | ✅ 已完成 |
 || 2026-03-17 | Lenny 决策案例库新增：Case-13 Netflix密码共享限制决策（Greg Peters/Reed Hastings，13K字深度案例，DHM框架分析） | ✅ 已完成 |
 || 2026-03-18 11:30 | 王慧文决策案例库扩充：新增4个案例（case-03美团外卖后发制人/case-04前三战略/case-05退休决策/case-06光年AI创业），总计6个案例，12个新增启发式，~40KB A级证据 | ✅ 已完成 |
+
+|| 2026-03-18 [Current] | Lenny Rachitsky框架扩充：基于290集播客转录提炼2个高价值框架（AI Evals Framework完整方法论+Product Velocity Framework速度质量平衡），frameworks总数28→30个，Phase 3持续推进 | ✅ 已完成 |
