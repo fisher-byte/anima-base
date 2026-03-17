@@ -12,9 +12,21 @@
 | [Case-02](./case-02-shreyas-lno-framework-decision.md) | Shreyas LNO框架决策 | Shreyas Doshi | 2021前后 | 个人效能/优先级排序 | ✅ 完成 | A级（Twitter+整理稿） |
 | Case-03 | April Dunford定位决策 | April Dunford | - | 产品定位 | ⬜ 待创建 | - |
 | Case-04 | Casey Winters增长渠道决策 | Casey Winters | - | 增长渠道 | ⬜ 待创建 | - |
-| Case-05 | Annie Duke决策框架 | Annie Duke | - | 决策质量 | ⬜ 待创建 | - |
+| [Case-05](./case-05-annie-duke-decision-quality.md) | Annie Duke决策质量框架 | Annie Duke | 1992-2020s | 决策方法论 | ✅ 完成 | A级（Lenny访谈+书籍） |
+| [Case-06](./case-06-shreyas-premortem.md) | Shreyas Pre-mortem框架 | Shreyas Doshi | 2010-2020s | 风险识别 | ✅ 完成 | A级（Twitter原创） |
+| [Case-07](./case-07-shreyas-product-work-levels.md) | Shreyas产品工作三层级 | Shreyas Doshi | 长期框架 | 职业发展 | ✅ 完成 | A级（Twitter原创） |
+| Case-08 | Rahul Solution Deepening vs Market Widening | Rahul Vohra | - | 产品策略 | ⬜ 待创建 | - |
 
-**进度**：2/10 案例完成（20%）
+**核心案例进度**：5/10 完成（50%）
+
+---
+
+### 扩展案例（待规划）
+
+| 案例编号 | 决策主题 | 状态 |
+|---------|---------|------|
+| Case-09 | Lenny Newsletter启动决策 | ⬜ 待创建 |
+| Case-10 | Reforge Activation框架 | ⬜ 待创建 |
 
 ---
 
