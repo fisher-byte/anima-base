@@ -955,3 +955,115 @@ git commit -m "feat(collection): add wang-huiwen decision cases (4)"
 - 可选：Phase 3延后任务（Shreyas Doshi Twitter / Lenny更多框架）
 
 ---
+## 2026-03-18 19:45 — Phase 1扩展：April Dunford播客补充（3个新增）
+
+### 任务目标
+- 补充April Dunford的podcasts（现有0个）
+- 目标：新增3个高质量播客访谈
+- 覆盖定位理论、咨询实践、商业策略
+
+### 执行内容
+
+#### 1. 播客搜索与筛选
+搜索到April Dunford的多个播客访谈：
+- Lenny's Podcast: Product Positioning & Segmentation
+- The Knowledge Project Ep. #201: Product Positioning
+- Everyone Hates Marketers: 7-Figure Solo Consulting Biz
+- Product Led Podcast、SaaStr等其他播客
+
+#### 2. 内容获取
+- Lenny's Podcast: 通过Lenny Newsletter获取summary
+- Knowledge Project: 获取episode页面和时间轴
+- Everyone Hates Marketers: 获取完整transcript
+
+#### 3. 播客文档创建
+创建3个高质量播客文档：
+
+**① 2024-08-lennys-podcast-positioning-segmentation.md** (7.6KB)
+- 主题：产品定位、市场细分、销售流程优化
+- 核心框架：5-Step Positioning Process, Segmentation Strategy, Sales Pitch Framework
+- 关键洞察：
+  * 定位的5大组成部分（竞争替代方案/独特属性/价值/目标市场/市场类别）
+  * 市场细分策略（谁最关心你的价值？）
+  * 销售流程优化（设定竞争框架→展示独特能力→量化价值→证明可信度）
+- 实践建议：对创始人、产品经理、营销人员的具体指导
+- 金句：10+ 条核心语录
+- 扩展资源：书籍/工具/延伸阅读
+
+**② 2024-08-knowledge-project-product-positioning.md** (16.5KB)
+- 主题：产品定位基础、B2B vs B2C差异、常见错误
+- 完整时间轴：12个主题标记(从定位解释到B2B决策秘密)
+- 核心洞察：
+  * 定位的本质（上下文设定）
+  * 为什么定位重要（销售周期/转化率/价格/增长）
+  * B2B与B2C定位的6大差异
+  * 重新定位失败案例分析
+  * 识别客户痛点的4步法
+  * 销售页面定位结构（headline/subheadline/value points/CTA）
+  * 定位评估的4个信号和4个陷阱
+  * 定位团队的理想结构
+  * Top 5 Positioning Mistakes
+  * B2B决策的隐藏复杂性
+- 实践启示：对初创公司、产品经理、营销人员、销售团队的具体建议
+- 金句：15+ 条深度语录
+- 相关资源：书籍/工具/在线资源完整列表
+
+**③ 2024-01-everyone-hates-marketers-7-figure-consulting.md** (10.1KB)
+- 主题：从公司高管到独立顾问的转型、7位数咨询业务建立
+- 核心洞察：
+  * 找到独特优势（重复需求测试/狭窄聚焦策略）
+  * 转型决策（明确"不做什么"/设定边界/维恩图方法）
+  * 咨询业务定位策略（目标市场/问题/解决方案/差异化）
+  * 咨询定价策略（按价值定价/设定最低门槛/价格心理学）
+  * 可持续咨询模式（时间管理/产品化服务/营销自动化）
+  * 建立权威和可信度（写作出版/演讲播客/客户案例/教学分享）
+  * 给aspiring consultant的建议（起步阶段/专业化路径/避免陷阱）
+- 实践指导：✅ Do This + ❌ Don't Do This 清单
+- 金句：10+ 条关于咨询业务的核心语录
+- 扩展资源：April作品/相关资源/工具
+
+### 文件结构
+```
+people/product/april-dunford/podcasts/
+├── 2024-08-lennys-podcast-positioning-segmentation.md
+├── 2024-08-knowledge-project-product-positioning.md
+└── 2024-01-everyone-hates-marketers-7-figure-consulting.md
+```
+
+### 内容质量标准
+- ✅ YAML frontmatter完整（title/date/podcast/host/topics/source）
+- ✅ 来源链接已标注（播客页面/转录/YouTube/Spotify）
+- ✅ verification_status设置为"A级-官方播客"
+- ✅ 核心洞察结构化整理（小标题/编号列表/表格）
+- ✅ 实践建议具体可操作
+- ✅ 金句摘录准确标注来源
+- ✅ 扩展资源链接有效
+
+### 更新统计
+- **Before**: april-dunford: 0 podcasts, 9 frameworks
+- **After**: april-dunford: 3 podcasts, 9 frameworks
+- **新增内容**: 34.1KB (3个播客文档)
+
+### 更新文件
+1. ✅ `COLLECTION_STATUS.md` - april-dunford状态更新
+   - 优先执行队列：podcasts 0→3
+   - 人物表：podcasts列更新
+2. ✅ `TASK_LOG.md` - 本次执行记录
+
+### 下次任务建议
+根据Phase 1执行计划，April Dunford的播客已补充完成。建议继续以下任务：
+- **选项1**: 补充其他人物的podcasts（如Brian Chesky、Marty Cagan等P0人物）
+- **选项2**: 补充articles类型（多个人物的articles数量还较少）
+- **选项3**: 继续Phase 2的空档案人物完善
+- **选项4**: 进入Phase 3的P0延后任务（Shreyas Doshi Twitter精华等需API配置的任务）
+
+### 任务完成度
+- ✅ 搜索到多个高质量播客
+- ✅ 获取播客内容/summary/transcript
+- ✅ 创建3个结构化播客文档
+- ✅ 更新COLLECTION_STATUS.md
+- ✅ 更新TASK_LOG.md
+- 🔄 待提交到GitHub
+
+---
+
