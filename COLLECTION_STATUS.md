@@ -179,7 +179,7 @@ P0 - 核心人物深度扩充：
 P1 - 有 profile 但内容稀薄的人物：
   [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
   [x] teresa-torres: ✅ 已完成 12个podcasts + 5个frameworks (2026-03-12) — Lenny, Boundaryless, It Shipped, AgileData, Product People, Product Rising, UX Research, Brave UX, Aakash Gupta, ITX, All Things Product, Just Now Possible | CDH, OST, Interview Snapshot, Experience Map, Assumption Testing
-  [x] paul-graham: ✅ 已完成 profile.md + 22篇essays (2026-03-11)
+  [x] paul-graham: ✅ 已完成 profile.md + 61篇essays (2026-03-17) | Phase 1轮次9完成：新增13篇精选文章 (Frighteningly Ambitious Startup Ideas/What We Look for in Founders/The Hardest Lessons for Startups to Learn/Write Simply/The Age of the Essay/A Student's Guide to Startups/Ideas for Startups/Organic Startup Ideas/What Startups Are Really Like/Five Founders/A Word to the Resourceful/Why It's Safe for Founders to Be Nice/Why There Aren't More Googles/The Best Essay)，覆盖创业想法、创始人素质、创业课程、写作思考完整体系，essays总数48→61篇
   [x] april-dunford: ✅ 已完成 4个补充frameworks (2026-03-12)
   [x] ben-horowitz: ✅ 已完成 2本书籍摘要 (2026-03-13)
   [x] ray-dalio: ✅ 已完成 7个frameworks (2026-03-13) — Pain+Reflection, 5-Step, Idea Meritocracy, Radical Transparency, Economic Machine, Believability-Weighted, Meaningful Work & Relationships

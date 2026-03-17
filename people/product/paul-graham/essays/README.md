@@ -8,6 +8,9 @@
 | 文章 | 日期 | 核心概念 |
 |------|------|----------|
 | [How to Start a Startup](how-to-start-a-startup.md) | 2005-03 | 创业三要素 |
+| [A Student's Guide to Startups](a-students-guide-to-startups.md) | 2006-10 | 学生创业的第三条路 |
+| [The Hardest Lessons for Startups to Learn](the-hardest-lessons-for-startups-to-learn.md) | 2006-04 | 7个最难学的课程 |
+| [What Startups Are Really Like](what-startups-are-really-like.md) | 2009-10 | 创业的真实惊讶 |
 | [Startup = Growth](startup-equals-growth.md) | 2012-09 | 增长是创业公司的本质 |
 | [Startups in 13 Sentences](startups-in-13-sentences.md) | 2009-02 | 13条核心箴言 |
 | [How Not to Die](how-not-to-die.md) | 2007-08 | 不要放弃 |
@@ -20,6 +23,9 @@
 |------|------|----------|
 | [How to Get Startup Ideas](how-to-get-startup-ideas.md) | 2012-11 | 找问题，不是找想法 |
 | [How to Get New Ideas](how-to-get-new-ideas.md) | 2023-01 | 注意异常，知识分形生长 |
+| [Ideas for Startups](ideas-for-startups.md) | 2005-10 | 注意生活中的问题 |
+| [Organic Startup Ideas](organic-startup-ideas.md) | 2010-04 | 有机想法 vs 构想的想法 |
+| [Frighteningly Ambitious Startup Ideas](frighteningly-ambitious-startup-ideas.md) | 2012-03 | 最大的想法令人恐惧 |
 | [Schlep Blindness](schlep-blindness.md) | 2012-01 | 苦差事盲区 |
 | [Do Things That Don't Scale](do-things-that-dont-scale.md) | 2013-07 | 早期要做不可规模化的事 |
 | [Crazy New Ideas](crazy-new-ideas.md) | 2021-05 | 不要轻易否定疯狂想法 |
@@ -29,12 +35,17 @@
 |------|------|----------|
 | [How to Convince Investors](how-to-convince-investors.md) | 2013-08 | 让公司本身说话 |
 | [Black Swan Farming](black-swan-farming.md) | 2012-09 | 最好的想法看起来像坏想法 |
+| [Why There Aren't More Googles](why-there-arent-more-googles.md) | 2008-04 | VCs 太保守 |
 
 ### 创始人素质
 | 文章 | 日期 | 核心概念 |
 |------|------|----------|
+| [What We Look for in Founders](what-we-look-for-in-founders.md) | 2010-10 | YC 寻找的5大品质 |
+| [Five Founders](five-founders.md) | 2009-04 | 最有影响力的5位创始人 |
 | [Relentlessly Resourceful](relentlessly-resourceful.md) | 2009-03 | 优秀创始人的核心特质 |
+| [A Word to the Resourceful](a-word-to-the-resourceful.md) | 2012-01 | 对话式资源力 |
 | [The Anatomy of Determination](the-anatomy-of-determination.md) | 2009-09 | 决心比智力更重要 |
+| [Why It's Safe for Founders to Be Nice](why-its-safe-for-founders-to-be-nice.md) | 2015-03 | 善良不影响成功 |
 | [Founder Mode](founder-mode.md) | 2024-09 | 创始人模式 vs 管理者模式 |
 | [Mean People Fail](mean-people-fail.md) | 2014-11 | 刻薄的人难以成功 |
 | [Earnestness](earnestness.md) | 2020-12 | 真诚是最高赞美 |
@@ -81,6 +92,9 @@
 ### 写作与思考
 | 文章 | 日期 | 核心概念 |
 |------|------|----------|
+| [The Age of the Essay](the-age-of-the-essay.md) | 2004-09 | 文章是思考工具 |
+| [The Best Essay](the-best-essay.md) | 2024-03 | 最重要且令人惊讶的主题 |
+| [Write Simply](write-simply.md) | 2021-03 | 简单写作的力量 |
 | [The Need to Read](the-need-to-read.md) | 2022-11 | 阅读→写作→思考 |
 | [Writes and Write-Nots](writes-and-write-nots.md) | 2024-10 | AI时代的写作分化 |
 | [Putting Ideas into Words](putting-ideas-into-words.md) | 2022-02 | 写作是思考的最严格测试 |
@@ -140,5 +154,5 @@
 所有文章原文可在 [paulgraham.com/articles.html](https://paulgraham.com/articles.html) 阅读。
 
 ---
-*Last updated: 2026-03-12*
-*Total essays: 48*
+*Last updated: 2026-03-17*
+*Total essays: 61*
