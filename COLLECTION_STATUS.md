@@ -273,3 +273,4 @@ P4 - 经典人物补充：
 | 2026-03-14 | 王慧文完整档案 (profile + 4 frameworks + 1 article) | ✅ 已完成 |
 | 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
 || 2026-03-12 | Phase 4: Gustaf Alströmer 完整档案 (profile + 5 frameworks + 2 podcasts + 3 READMEs) | ✅ 已完成 |
+| 2026-03-17 | Lenny 深度决策内容收集：7 篇决策框架文档 (PMF/定价/渠道选择/优先级/职业路径/不确定性/通用决策) | ✅ 已完成 |
