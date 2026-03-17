@@ -1,23 +1,49 @@
-# 执行计划 — Anima Base 内容扩充
+# 执行计划 — Anima Base 内容扩充（决策证据导向）
 
-> 本计划指导定时任务持续执行，分阶段完成全部人物的内容扩充。
+> 本计划指导定时任务持续执行，**战略转型：从"金句人格"到"决策证据库"**
 >
-> 最后更新：2026-03-11
+> 最后更新：2026-03-17
+
+---
+
+## ⚡ 战略转型（2026-03-17）
+
+### 核心转变
+从收集"金句和理念"转向收集"决策证据和情境"，为灵思（Anima）Persona建模奠定基础。
+
+### 新的优先级
+**P0（立即执行）：决策证据收集**
+1. **张小龙决策案例库**（目标：10个核心决策案例）
+   - ✅ 已完成：视频号战略决策、公众号平台化决策
+   - ⬜ 待完成：小程序/朋友圈/摇一摇/微信支付/订阅号折叠/看一看搜一搜/通讯录/微信立项
+2. **Lenny决策案例库**（目标：从290集播客提炼20个决策案例）
+   - ⬜ 待完成：PMF判断/定价策略/增长渠道/招聘决策/B2B vs B2C路线等
+
+**P1（本周）：观点演化时间线 + 反例材料**
+- 张小龙观点演化（2005-2021）
+- Lenny框架应用实例和反例
+
+**P2（本月）：其他人物继续按原计划**
+- 王慧文、Shreyas Doshi、Julie Zhuo等
 
 ---
 
 ## 当前进度回顾
 
-**已完成（2026-03-11）：**
+**已完成（2026-03-17）：**
+- ✅ 张小龙决策案例库启动（2个案例，8个启发式）
+- ✅ 决策证据收集计划（战略规划文档）
+- ✅ Lenny 深度决策内容（7篇决策框架文档，24个框架）
 - ✅ Brian Chesky 语录集（50+ 条）
 - ✅ Marty Cagan 书籍摘要（Inspired/Empowered/Transformed）
-- ✅ 11位专家空档案启动（Jackie Bavaro、John Cutler、Brandon Chu、Elena Verna、Chamath Palihapitiya、Dave Gerhardt、Rand Fishkin、Satya Nadella、Reed Hastings、Andy Grove、Paul Graham）
+- ✅ 11位专家空档案启动
 
-**待处理优先级队列：**
-- P0: 张小龙、王慧文深度搜索（补充文章、访谈、演讲等内容）
-- P1: Shreyas Doshi Twitter精华（API配置待定）
-- P2: Julie Zhuo、Teresa Torres、Paul Graham、April Dunford、Ben Horowitz、Ray Dalio
-- P3: 上述11位已建目录但需完善profile的人物
+**待处理优先级队列（已调整）：**
+- **P0: 张小龙决策证据补齐**（剩余8个核心案例 + 时间线 + 反例 + 边界）
+- **P0: Lenny决策案例提炼**（从290集播客提炼20个案例）
+- P1: 王慧文决策案例补充
+- P2: Shreyas Doshi Twitter精华（API配置待定）
+- P3: Julie Zhuo、Teresa Torres、Paul Graham、April Dunford、Ben Horowitz、Ray Dalio
 
 ---
 
