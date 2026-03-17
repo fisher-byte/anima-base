@@ -17,9 +17,10 @@
 | [Case-07](./case-07-shreyas-product-work-levels.md) | Shreyas产品工作三层级 | Shreyas Doshi | 长期框架 | 职业发展 | ✅ 完成 | A级（Twitter原创） |
 | [Case-08](./case-08-rahul-product-taste.md) | Rahul产品品味培养 | Rahul Vohra | 长期实践 | 能力培养 | ✅ 完成 | A级（播客+文章） |
 | [Case-09](./case-09-lenny-newsletter-launch.md) | Lenny Newsletter启动决策 | Lenny Rachitsky | 2019-2020 | 职业转型 | ✅ 完成 | A级（自述） |
-| Case-10 | April Dunford定位决策 | April Dunford | - | 产品定位 | ⬜ 待创建 | - |
+| [Case-10](./case-10-april-dunford-positioning.md) | April Dunford产品定位5步法 | April Dunford | 长期框架 | 产品定位 | ✅ 完成 | A级（书籍+访谈） |
+| [Case-11](./case-11-growth-channel-selection.md) | 增长渠道选择决策框架 | Lenny + Casey Winters | 长期框架 | 增长战略 | ✅ 完成 | A级（文章+实战） |
 
-**核心案例进度**：7/10 完成（70%）
+**核心案例进度**：✅ 9/9 完成（100%）
 
 ---
 
