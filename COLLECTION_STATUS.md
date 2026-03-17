@@ -79,7 +79,7 @@
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Ben Horowitz | ✅ | ✅ | 1 | 0 | 0 | 0 | 2 | 0 | P1 | ✅ 书籍摘要完成 (The Hard Thing + What You Do) |
-| Ray Dalio | ✅ | ✅ | 0 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架完成 (5篇) |
+| Ray Dalio | ✅ | ✅ | 2 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ Principles 核心框架完成 (5篇)；✅ 2026-03-17新增2个高质量播客(All-In 2025/Lex Fridman 2019) |
 | Satya Nadella | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次16完成：5框架 + 4播客 |
 | Reed Hastings | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次17完成：5框架 + 4播客 |
 | Andy Grove | ✅ | ✅ | 3 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 2 轮次18完成：5框架 + 3播客 |

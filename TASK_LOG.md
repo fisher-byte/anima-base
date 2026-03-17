@@ -2,7 +2,7 @@
 
 > 记录每次定时任务的执行情况。
 >
-> 最后更新：2026-03-17 18:30
+> 最后更新：2026-03-17 20:00
 
 ---
 
@@ -10,6 +10,7 @@
 
 || 日期时间 | 人物 | 内容类型 | 状态 | 文件数 | Commit | 备注 |
 ||----------|------|----------|------|--------|--------|------|
+|| 2026-03-17 20:00 | ray-dalio | podcasts | ✅ | 2 | feat(collection): add ray-dalio podcasts (2) | Phase 1: Ray Dalio播客扩充完成。新增2个高质量播客访谈：All-In Podcast 2025（9KB，US Debt Crisis详解/Big Debt Cycle五阶段/Portfolio Construction/AI Disruption/China-US关系），Lex Fridman Podcast 2019 #54（13KB，Principles深度解读/Economic Machine/Idea Meritocracy/Bitcoin讨论/Automation影响/Arc of Life哲学）。创建1个README索引（7.6KB，含主题分类/推荐听法/核心主题/关键引言）。覆盖债务危机、投资原则、组织建设、AI技术、人生哲学完整播客体系，podcasts总数0→2个 |
 || 2026-03-17 18:30 | paul-graham | essays | ✅ | 13 | - | Phase 1轮次9：Paul Graham精选文章扩充完成。新增13篇核心文章：Frighteningly Ambitious Startup Ideas (最大想法令人恐惧2.8KB)、What We Look for in Founders (YC寻找5大品质3.9KB)、The Hardest Lessons for Startups to Learn (7个最难课程3.4KB)、Write Simply (简单写作力量3.0KB)、The Age of the Essay (文章是思考工具3.0KB)、A Student's Guide to Startups (学生创业第三路3.6KB)、Ideas for Startups (注意生活问题2.6KB)、Organic Startup Ideas (有机想法vs构想3.1KB)、What Startups Are Really Like (创业真实惊讶2.7KB)、Five Founders (最有影响力创始人3.3KB)、A Word to the Resourceful (对话式资源力3.2KB)、Why It's Safe for Founders to Be Nice (善良不影响成功2.8KB)、Why There Aren't More Googles (VCs太保守4.2KB)、The Best Essay (最重要且令人惊讶主题2.8KB)。更新README索引v2.0。覆盖创业想法、创始人素质、创业课程、融资投资、写作思考完整体系，essays总数48→61篇，超额完成Phase 1轮次9任务（目标15+篇） |
 || 2026-03-17 18:00 | wang-huiwen | talks | ✅ | 7 | - | Phase 0轮次6：王慧文演讲扩充完成。新增3个演讲：2020年清华"不设限的人生"演讲（7.4KB，π型人才/快速学习/校内网故事/美团人才战略）、2020年混沌大学"顶尖高手如何做决策"演讲（8.5KB，战略决策/规模效应/马太效应/先发后发优势/存量市场机会）、2019年"战略与组织能力是乘积关系"演讲（7KB，企业成功方程式/杨三角理论/终身学习/团队战斗力）。保存3个HTML原文（404B+444B+407B）。创建1个README索引（5KB，含主题分类/思想体系/学习路径）。覆盖π型人才、快速学习、核心竞争力、战略决策、组织能力建设完整演讲体系，talks总数0→3个 |
 || 2026-03-17 14:30 | lenny-rachitsky | frameworks | ✅ | 3 | - | Phase 4框架扩充。新增3个核心框架：Product Roadmap Planning Framework (Mission-Vision-Strategy-Goals-Roadmap-Task六层金字塔6.6KB)、SaaS Metrics & KPI Dashboard Framework (Bottom-Up SaaS指标追踪体系Pre/Post-Revenue阶段10KB)、Product Operations Framework (四大支柱Insights/Process/Tools/Communication产品运营10.3KB)。更新README索引v4.0，框架总数21→24个。覆盖战略规划、指标体系、产品运营三大核心领域，完善产品运营和数据分析完整体系 |
