@@ -15,9 +15,11 @@
 | [Case-05](./case-05-annie-duke-decision-quality.md) | Annie Duke决策质量框架 | Annie Duke | 1992-2020s | 决策方法论 | ✅ 完成 | A级（Lenny访谈+书籍） |
 | [Case-06](./case-06-shreyas-premortem.md) | Shreyas Pre-mortem框架 | Shreyas Doshi | 2010-2020s | 风险识别 | ✅ 完成 | A级（Twitter原创） |
 | [Case-07](./case-07-shreyas-product-work-levels.md) | Shreyas产品工作三层级 | Shreyas Doshi | 长期框架 | 职业发展 | ✅ 完成 | A级（Twitter原创） |
-| Case-08 | Rahul Solution Deepening vs Market Widening | Rahul Vohra | - | 产品策略 | ⬜ 待创建 | - |
+| [Case-08](./case-08-rahul-product-taste.md) | Rahul产品品味培养 | Rahul Vohra | 长期实践 | 能力培养 | ✅ 完成 | A级（播客+文章） |
+| [Case-09](./case-09-lenny-newsletter-launch.md) | Lenny Newsletter启动决策 | Lenny Rachitsky | 2019-2020 | 职业转型 | ✅ 完成 | A级（自述） |
+| Case-10 | April Dunford定位决策 | April Dunford | - | 产品定位 | ⬜ 待创建 | - |
 
-**核心案例进度**：5/10 完成（50%）
+**核心案例进度**：7/10 完成（70%）
 
 ---
 
