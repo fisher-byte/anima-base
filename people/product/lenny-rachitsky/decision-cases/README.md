@@ -19,17 +19,10 @@
 | [Case-09](./case-09-lenny-newsletter-launch.md) | Lenny Newsletter启动决策 | Lenny Rachitsky | 2019-2020 | 职业转型 | ✅ 完成 | A级（自述） |
 | [Case-10](./case-10-april-dunford-positioning.md) | April Dunford产品定位5步法 | April Dunford | 长期框架 | 产品定位 | ✅ 完成 | A级（书籍+访谈） |
 | [Case-11](./case-11-growth-channel-selection.md) | 增长渠道选择决策框架 | Lenny + Casey Winters | 长期框架 | 增长战略 | ✅ 完成 | A级（文章+实战） |
+| [Case-12](./case-12-reforge-product-strategy.md) | Reforge产品策略决策 | Brian Balfour | 2016-2020 | 产品定位/社区 | ✅ 完成 | A级（播客访谈） |
+| [Case-13](./case-13-netflix-password-sharing.md) | Netflix密码共享限制决策 | Greg Peters + Reed Hastings | 2022-2023 | 商业模式/增长 | ✅ 完成 | A级（财报+Gibson分析） |
 
-**核心案例进度**：✅ 9/9 完成（100%）
-
----
-
-### 扩展案例（待规划）
-
-| 案例编号 | 决策主题 | 状态 |
-|---------|---------|------|
-| Case-09 | Lenny Newsletter启动决策 | ⬜ 待创建 |
-| Case-10 | Reforge Activation框架 | ⬜ 待创建 |
+**核心案例进度**：✅ 13/20 完成（65%，目标20个案例）
 
 ---
 
@@ -39,23 +32,26 @@
 
 #### PMF验证/产品优化
 - ✅ [Case-01](./case-01-superhuman-pmf-survey-decision.md): Superhuman PMF Survey决策 (Rahul Vohra)
-- ⬜ Case-06: 产品迭代优先级决策 (待收集)
 
 #### 优先级排序
-- ⬜ Case-02: Shreyas LNO框架决策
-- ⬜ Case-07: 功能优先级决策 (待收集)
+- ✅ [Case-02](./case-02-shreyas-lno-framework-decision.md): Shreyas LNO框架决策
 
 #### 产品定位
-- ⬜ Case-03: April Dunford定位决策
-- ⬜ Case-08: 市场切入点选择 (待收集)
+- ✅ [Case-10](./case-10-april-dunford-positioning.md): April Dunford产品定位5步法
 
-#### 增长渠道
-- ⬜ Case-04: Casey Winters增长渠道决策
-- ⬜ Case-09: 增长实验决策 (待收集)
+#### 增长渠道与策略
+- ✅ [Case-11](./case-11-growth-channel-selection.md): 增长渠道选择决策框架
+- ✅ [Case-12](./case-12-reforge-product-strategy.md): Reforge产品策略决策
+- ✅ [Case-13](./case-13-netflix-password-sharing.md): Netflix密码共享限制决策
 
-#### 决策质量
-- ⬜ Case-05: Annie Duke决策框架
-- ⬜ Case-10: 不确定性决策 (待收集)
+#### 决策质量与方法论
+- ✅ [Case-05](./case-05-annie-duke-decision-quality.md): Annie Duke决策质量框架
+- ✅ [Case-06](./case-06-shreyas-premortem.md): Shreyas Pre-mortem框架
+
+#### 职业发展与能力培养
+- ✅ [Case-07](./case-07-shreyas-product-work-levels.md): Shreyas产品工作三层级
+- ✅ [Case-08](./case-08-rahul-product-taste.md): Rahul产品品味培养
+- ✅ [Case-09](./case-09-lenny-newsletter-launch.md): Lenny Newsletter启动决策
 
 ---
 
@@ -80,6 +76,23 @@
 - **适用**：早期产品（< PMF），可以长期保持focus的场景
 - **案例**：Superhuman前几年只支持Gmail Web版，不做Outlook/移动端
 
+### Greg Peters & Reed Hastings (Netflix)
+
+#### 4. "Pay Today, Grow Tomorrow"启发式（短期代价换长期增长）
+- **原则**：重大战略转型必然带来短期阵痛，但如果长期价值清晰，就应该果断执行
+- **适用**：商业模式转型、定价策略调整、平台政策变更
+- **案例**：Netflix密码共享限制决策，短期负面PR换来百亿美元增长
+
+#### 5. "Stage Before Scale"启发式（分阶段推广降低风险）
+- **原则**：高风险决策应该先小范围测试，验证假设后再全面推广
+- **适用**：定价变更、功能下线、商业模式转型
+- **案例**：Netflix先在拉美试点，验证后再全球推广
+
+#### 6. "Cushion the Blow"启发式（提供缓冲选项）
+- **原则**：强制性政策变更时，提供替代方案降低用户流失
+- **适用**：提价、功能限制、政策收紧
+- **案例**：Netflix提供付费分享选项+广告套餐+Profile Transfer功能
+
 ---
 
 ## 使用说明
@@ -101,12 +114,18 @@
 
 ## 待办事项
 
-### 张小龙 10个决策案例
-- [ ] 完成Case-01: Superhuman PMF Survey决策
-- [ ] 完成Case-02: Shreyas LNO框架决策
-- [ ] 完成Case-03-05: 其他Lenny采访嘉宾决策案例
+### 继续扩充决策案例（目标20个）
+- [ ] Case-14: Gibson Biddle DHM产品策略框架应用
+- [ ] Case-15: Claire Hughes Johnson运营系统决策
+- [ ] Case-16: Marty Cagan授权团队决策
+- [ ] Case-17: Julie Zhuo设计评审决策
+- [ ] Case-18: 定价策略决策案例集
+- [ ] Case-19: B2B vs B2C路线选择决策
+- [ ] Case-20: 招聘标准设定决策
 
 ---
 
 ## 更新记录
 - 2026-03-17: 创建决策案例库结构，完成Case-01 Superhuman PMF Survey决策
+- 2026-03-17: 新增Case-12 Reforge产品策略决策（Brian Balfour）
+- 2026-03-17: 新增Case-13 Netflix密码共享限制决策（Greg Peters + Reed Hastings）
