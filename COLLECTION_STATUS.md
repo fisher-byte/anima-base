@@ -174,7 +174,7 @@ P0 - 核心人物深度扩充：
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
   [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 9 articles + 1 quotes + 5 talks (2026-03-16) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次1完成：新增3篇深度文章(2012年8小时内部演讲精华/用户体验自然设计/Foxmail到微信22年历程)
-  [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 5 articles (2026-03-14) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | 新增4篇深度演讲和文章：π型人才、互联网AB面、AI时代崛起、决策方法
+  [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 5 articles + 3 talks (2026-03-17) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | Phase 0轮次6完成：新增3个演讲(2020年清华"不设限的人生"/2020年混沌大学决策演讲/2019年战略与组织能力)，覆盖π型人才、快速学习、核心竞争力、战略决策、规模效应、马太效应、先发后发优势、组织能力建设完整体系
 
 P1 - 有 profile 但内容稀薄的人物：
   [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
