@@ -173,7 +173,7 @@ P0 - 核心人物深度扩充：
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
-  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 9 articles + 1 quotes + 5 talks (2026-03-16) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次1完成：新增3篇深度文章(2012年8小时内部演讲精华/用户体验自然设计/Foxmail到微信22年历程)
+  [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 9 articles + 1 quotes + 5 talks + **2 decision cases** (2026-03-17) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | **NEW** 决策案例库启动：视频号战略决策(2019-2020, A级证据)、公众号平台化决策(2012-2014, A级证据)，提炼8大决策启发式
   [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 5 articles + 3 talks (2026-03-17) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | Phase 0轮次6完成：新增3个演讲(2020年清华"不设限的人生"/2020年混沌大学决策演讲/2019年战略与组织能力)，覆盖π型人才、快速学习、核心竞争力、战略决策、规模效应、马太效应、先发后发优势、组织能力建设完整体系
 
 P1 - 有 profile 但内容稀薄的人物：
@@ -275,3 +275,6 @@ P4 - 经典人物补充：
 || 2026-03-12 | Phase 4: Gustaf Alströmer 完整档案 (profile + 5 frameworks + 2 podcasts + 3 READMEs) | ✅ 已完成 |
 | 2026-03-17 | Lenny 深度决策内容收集：7 篇决策框架文档 (PMF/定价/渠道选择/优先级/职业路径/不确定性/通用决策) | ✅ 已完成 |
 | 2026-03-17 | Lenny 框架扩充 Phase 4：3 个核心框架 (Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations) | ✅ 已完成 |
+|| 2026-03-17 | Lenny 深度决策内容收集：7 篇决策框架文档 (PMF/定价/渠道选择/优先级/职业路径/不确定性/通用决策) | ✅ 已完成 |
+|| 2026-03-17 | Lenny 框架扩充 Phase 4：3 个核心框架 (Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations) | ✅ 已完成 |
+|| 2026-03-17 | 张小龙决策案例库启动：2 个高质量决策案例 (视频号战略/公众号平台化)，含背景/选项/理由/结果/启发式，A级证据支撑 | ✅ 已完成 |
