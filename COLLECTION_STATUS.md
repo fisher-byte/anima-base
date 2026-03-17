@@ -174,7 +174,7 @@ P0 - 核心人物深度扩充：
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
   [ ] shreyas-doshi: 补充 twitter/ 精华 (需要Twitter API，暂时跳过)
   [x] zhang-xiaolong: ✅ 已完成 profile + 6 frameworks + 2 podcasts + 1 books + 18 articles + 1 quotes + 5 talks + 3 interviews + **22 decision cases** + **1 evolution timeline** (2026-03-18) — Core Principles, Discovering Needs, Product Design, Great Product, Product Temperament, Product Details | 2017/2019公开课演讲、推荐10本好书、产品世界观、腾讯内刊专访、新华社采访、产品方法论、语录集、2016/2017/2018/2020/2021微信公开课演讲 | Phase 0轮次1完成第二批：新增2篇关键文章(2015年微信公开课PRO版八大理念+2012年微信背后的产品观演讲)，articles总数16→18篇，补充公众平台理念(去中心化/生态系统/动态系统)和产品设计哲学(简单之美/人性洞察/摇一摇案例) | **P0完成** 决策案例库22个案例(新增小程序战略决策)：10核心+12扩展，~265KB证据+73启发式 | **P1完成** 观点演化时间线(2000-2021)：五阶段轨迹+5大观点演化(工具/用户/社交/平台/克制)+3转折点+高频词统计+不变量提炼，8000字A级分析
-  [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 7 articles + 3 talks (2026-03-18) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | Phase 0轮次6完成：新增3个演讲(2020年清华"不设限的人生"/2020年混沌大学决策演讲/2019年战略与组织能力)，覆盖π型人才、快速学习、核心竞争力、战略决策、规模效应、马太效应、先发后发优势、组织能力建设完整体系 | Phase 0轮次2完成：新增2篇深度文章(2023年AGI创业访谈/2020年退休全记录)，articles总数5→7篇，补充AI创业决策、退休决策、工作生活平衡、知止不殆、运气归因完整框架
+  [x] wang-huiwen: ✅ 已完成 profile + 4 frameworks + 1 podcasts + 7 articles + 3 talks + **6 decision cases** (2026-03-18) — Core Competencies, Following Rules, π-Talent, Latecomer Advantage | 连续创业传奇(校内网/淘房网/美团/AI)、清华课程、π型人才演讲、互联网AB面、AI时代崛起、决策方法论 | Phase 0轮次6完成：新增3个演讲(2020年清华"不设限的人生"/2020年混沌大学决策演讲/2019年战略与组织能力)，覆盖π型人才、快速学习、核心竞争力、战略决策、规模效应、马太效应、先发后发优势、组织能力建设完整体系 | Phase 0轮次2完成：新增2篇深度文章(2023年AGI创业访谈/2020年退休全记录)，articles总数5→7篇，补充AI创业决策、退休决策、工作生活平衡、知止不殆、运气归因完整框架 | **P1完成** 决策案例库扩充：新增4个案例(case-03美团外卖后发制人/case-04前三战略/case-05退休决策/case-06光年AI创业)，总计6个案例，涵盖战略时机选择、市场定位、职业规划、二次创业完整决策场景，12个新增启发式(后发思维盲区/三年试错/前三法则/知止不殆/技术周期窗口等)，~40KB A级证据
 
 P1 - 有 profile 但内容稀薄的人物：
   [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
@@ -283,3 +283,4 @@ P4 - 经典人物补充：
 || 2026-03-18 00:35 | 张小龙决策案例库扩充：5个案例完成（50%） | ✅ 已完成 |
 || 2026-03-18 01:00 | 决策案例库持续扩充：张小龙6个+Lenny 2个，总计8个案例 | ✅ 已完成 |
 || 2026-03-17 | Lenny 决策案例库新增：Case-13 Netflix密码共享限制决策（Greg Peters/Reed Hastings，13K字深度案例，DHM框架分析） | ✅ 已完成 |
+|| 2026-03-18 11:30 | 王慧文决策案例库扩充：新增4个案例（case-03美团外卖后发制人/case-04前三战略/case-05退休决策/case-06光年AI创业），总计6个案例，12个新增启发式，~40KB A级证据 | ✅ 已完成 |
