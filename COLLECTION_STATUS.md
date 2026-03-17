@@ -279,3 +279,4 @@ P4 - 经典人物补充：
 || 2026-03-17 | Lenny 框架扩充 Phase 4：3 个核心框架 (Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations) | ✅ 已完成 |
 || 2026-03-17 | 张小龙决策案例库启动：2 个高质量决策案例 (视频号战略/公众号平台化)，含背景/选项/理由/结果/启发式，A级证据支撑 | ✅ 已完成 |
 || 2026-03-17 | Phase 0 轮次3：张小龙 interviews 启动，收集3篇深度访谈 (2013商业价值&极客公园/2013腾讯月刊/2021极客公园) | ✅ 已完成 |
+|| 2026-03-17 | Lenny决策案例库启动：Superhuman PMF Survey决策 (Rahul Vohra, A级证据) | ✅ 已完成 |
