@@ -168,7 +168,7 @@
 
 ```
 P0 - 核心人物深度扩充：
-  [x] lenny-rachitsky: ✅ Phase 3完成 21个frameworks (2026-03-16) — 原有17个 + 新增5个（PM Hiring & Interview/SaaS Pricing Strategy/Customer Interview Best Practices/Feature Launch/Building High-Performing Teams）
+  [x] lenny-rachitsky: ✅ Phase 4完成 24个frameworks (2026-03-17) — 原有21个 + 新增3个（Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations）
       参考源：https://github.com/ChatPRD/lennys-podcast-transcripts
   [x] brian-chesky: ✅ 已完成 quotes.md (50+ 条) (2026-03-11)
   [x] marty-cagan: ✅ 已完成 3本书籍摘要 (Inspired, Empowered, Transformed) (2026-03-11)
@@ -274,3 +274,4 @@ P4 - 经典人物补充：
 | 2026-03-11 | 创建空档案: Andy Grove | ✅ 已完成 |
 || 2026-03-12 | Phase 4: Gustaf Alströmer 完整档案 (profile + 5 frameworks + 2 podcasts + 3 READMEs) | ✅ 已完成 |
 | 2026-03-17 | Lenny 深度决策内容收集：7 篇决策框架文档 (PMF/定价/渠道选择/优先级/职业路径/不确定性/通用决策) | ✅ 已完成 |
+| 2026-03-17 | Lenny 框架扩充 Phase 4：3 个核心框架 (Product Roadmap Planning/SaaS Metrics & KPI Dashboard/Product Operations) | ✅ 已完成 |
