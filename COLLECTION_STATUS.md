@@ -22,7 +22,7 @@
 |------|:------:|:------:|:------:|
 | 人物目录（已建立） | 31 | 30 | 103% |
 | 有完整 Profile | 26 | 31 | 84% |
-| 播客文档——本库策展版 | 69 | 350 | 20% |
+| 播客文档——本库策展版 | 74 | 350 | 21% |
 | Lenny 播客——完整转录（已导入） | 290 集 | 290 | 100% |
 | 文章文档 | 51 | 920 | 6% |
 | 框架文档 | 60 | 350 | 17% |
@@ -43,7 +43,7 @@
 | Marty Cagan | ✅ | ✅ | 6 | 1 | 12 | 0 | 3 | 0 | P0 | ✅ 三本书摘要完成(Inspired/Empowered/Transformed) |
 | Shreyas Doshi | ✅ | ✅ | 2 | 1 | 8 | 1 | 0 | 1 | P0 | ✅ 决策案例库启动（Case-01: Stripe Pre-mortem）；Twitter精华(100+条)需API设置(待处理) |
 | Gokul Rajaram | ✅ | ✅ | 10 | 1 | 9 | 0 | 0 | 0 | P1 | ✅ 播客扩充完成(10集)；框架已较全 |
-| Julie Zhuo | ✅ | ✅ | 12 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 播客(12)+框架(5) 完成 |
+| Julie Zhuo | ✅ | ✅ | 17 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 播客(17)+框架(5) 完成 |
 | Teresa Torres | ✅ | ✅ | 11 | 0 | 5 | 0 | 0 | 0 | P1 | ✅ 框架完成 (OST/Interview Snapshot/Assumption Testing/CDH/Experience Map) |
 | Jackie Bavaro | ✅ | ✅ | 5 | 0 | 3 | 0 | 0 | 0 | P1 | ✅ profile完整 + 5播客 + 3框架 (Strategy/PEARL/Seniority) |
 | John Cutler | ✅ | ✅ | 4 | 0 | 4 | 0 | 0 | 0 | P2 | ✅ Phase 2 完成：完整profile+4框架+4播客 |
