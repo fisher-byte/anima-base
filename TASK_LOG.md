@@ -1489,3 +1489,211 @@ people/product/shreyas-doshi/decision-cases/
 
 ---
 
+## 2026-03-19 00:00 — Brian Chesky 决策案例库启动（COVID-19生存决策）
+
+### 任务目标
+- 为 Brian Chesky 创建决策案例库
+- 完成第一个案例：COVID-19 危机生存决策
+- 目标：~8,000字A级案例 + 6个启发式规则
+
+### 执行内容
+
+#### 1. 深度网络搜索
+**搜索策略**：
+- Brian Chesky COVID-19 crisis layoffs 2020 decisions
+- Airbnb revenue drop 80% survival strategy
+- Brian Chesky layoff email 2020 transparency
+- Airbnb IPO December 2020 valuation recovery
+- Brian Chesky product cuts Hotels Luxe Transportation
+- Brian Chesky back to basics core business focus
+
+**关键资源发现**：
+1. **官方裁员公开信**（2020年5月5日）：
+   - Chesky 完整解释决策过程
+   - 离职补偿方案详细说明
+   - 透明沟通的完整范例
+   - 来源：news.airbnb.com 官方发布
+
+2. **Business Insider 深度访谈**（2020年9月）：
+   - Chesky 回顾危机决策关键点
+   - "最重要的决策是聚焦核心业务"
+   - 复苏速度超出预期的分析
+
+3. **IPO 报道**（2020年12月）：
+   - 首日市值突破 $100B
+   - 从4月谷底$18B到12月$100B（8个月5.5倍增长）
+   - Forbes、NYTimes、Reuters 等多源报道
+
+4. **财务数据验证**：
+   - 收入8周内下降80%（多源确认）
+   - 裁员1,900人（25%员工）
+   - 停止Hotels、Luxe、Transportation 3条产品线
+   - 4月融资$1B（估值$18B）
+   - 12月IPO定价$68/股，首日收盘$144.71
+
+#### 2. 决策案例文档创建
+
+**文档1：case-01-covid-survival-decision.md**
+- 路径：`people/product/brian-chesky/decision-cases/case-01-covid-survival-decision.md`
+- 字数：约 8,500 字
+- 验证状态：A级（多源验证）
+- 结构：
+  1. **决策背景**（~1,500字）
+     - 危机爆发时间线（2020年2-3月）
+     - 业务冲击数据（收入下降80%）
+     - 公司状况和外部环境
+     - 决策压力分析（5个维度）
+  
+  2. **决策选项**（~2,000字）
+     - Option A: 全面收缩 + 大规模裁员（40-50%）
+     - Option B: 温和收缩 + 寻求并购
+     - **Option C: 战略聚焦 + 适度裁员**（最终选择）
+       - 裁员25%（1,900人）
+       - 停止Hotels/Luxe/Transportation
+       - 聚焦Homes + 核心Experiences
+       - 融资$1B维持现金流
+     - Option D: 激进创新 + 最小裁员
+     - 每个选项包含：措施/优势/风险分析
+  
+  3. **决策理由**（~2,000字）
+     - Chesky 的4大核心思考框架：
+       1. 生存第一，但不牺牲长期
+       2. 回归使命和核心价值
+       3. 透明和同理心优先于效率
+       4. 数据驱动 + 情境判断
+     - 关键决策权衡矩阵
+     - 裁员信完整分析
+  
+  4. **决策结果**（~1,500字）
+     - 短期结果（2020年5-12月）：
+       - 组织调整透明落地
+       - 产品线聚焦清晰
+       - 业务快速复苏
+     - 中期结果（IPO奇迹）：
+       - $47B定价 → $100B首日市值
+       - 2020年美国最大IPO
+     - 长期影响：
+       - 文化转型（快速扩张→可持续增长）
+       - 战略清晰（多元化→核心聚焦）
+       - 行业地位巩固（市值超3大酒店集团总和）
+  
+  5. **启发式规则**（~1,500字）
+     - **6个核心启发式**：
+       1. 危机是战略聚焦的最佳时机
+       2. 裁员幅度 = 成本削减目标 ÷ (1 + 文化损伤容忍度)
+       3. 透明度是危机沟通的最佳策略
+       4. 最坏情况规划：假设复苏需要2年，而不是6个月
+       5. 回归初心：危机时重新审视使命和愿景
+       6. 危机后估值反弹 = 基本面韧性 × 战略执行力
+     - 每条规则包含：
+       - 规则描述
+       - 原理解释
+       - 应用场景
+       - Airbnb 具体案例
+       - 避免的陷阱
+
+- 来源标注：
+  - 一手资料：Airbnb 官方裁员信、S-1招股书
+  - 深度访谈：Business Insider、McKinsey
+  - 媒体分析：Forbes、Inc.、PRWeek、NYTimes
+  - 所有关键数据多源验证
+
+**文档2：README.md**
+- 路径：`people/product/brian-chesky/decision-cases/README.md`
+- 字数：约 2,100 字
+- 功能：
+  1. 案例索引（当前1个，规划5-7个）
+  2. 决策主题分类：
+     - Crisis Management（已有1个）
+     - Product Strategy（待补充）
+     - Organizational Design（待补充）
+     - Growth & Scaling（待补充）
+  3. Chesky 决策哲学总结
+  4. 使用指南和质量标准
+  5. 后续扩展计划（P0/P1/P2）
+
+#### 3. COLLECTION_STATUS.md 更新
+- 更新 Brian Chesky 行：
+  - `decision-cases` 字段：0 → 1
+  - 备注补充：
+    - ✅ 决策案例库启动
+    - Case-01: COVID-19生存决策
+    - ~8500字A级案例
+    - 6个核心启发式规则
+    - decision-cases总数 0→1
+
+### 成果总结
+
+**新增内容**：
+1. ✅ **decision-cases 目录**创建
+2. ✅ **Case-01: COVID-19生存决策**（~8,500字A级案例）
+   - 完整决策过程：背景 → 选项 → 理由 → 结果
+   - 6个可复用启发式规则
+   - 多源验证（官方 + 媒体 + 访谈）
+   - 包含关键数据、时间线、对比案例
+3. ✅ **README.md 索引**（案例导航 + 使用指南）
+4. ✅ **COLLECTION_STATUS.md 更新**
+
+**质量指标**：
+- 字数：~8,500字（超过6,000字A级标准）
+- 验证等级：A级（一手资料 + 多源交叉验证）
+- 启发式规则：6个（超过3-6个标准）
+- 结构完整性：100%（背景/选项/理由/结果/启发式）
+
+**核心价值**：
+1. **为灵思（Anima）AI 决策系统提供 Brian Chesky 风格的危机管理决策模板**
+2. **可复用的6个启发式规则适用于广泛的创业危机场景**
+3. **完整记录了史诗级复苏案例（$18B → $100B, 8个月）**
+4. **透明沟通和同理心裁员的最佳实践参考**
+
+### 统计数据
+
+**Brian Chesky 完整档案现状**：
+- ✅ profile.md
+- ✅ 10 podcasts
+- ✅ 1 article（精选文章索引）
+- ✅ 15 frameworks
+- ✅ 1 quotes.md（50+条）
+- ✅ **1 decision-cases**（本次新增）
+- ✅ 1 resources.md
+
+**决策案例对比**：
+- 张小龙：21个案例（微信完整决策历程）
+- Lenny Rachitsky：21个案例（综合多位专家）
+- Shreyas Doshi：2个案例（Pre-mortem + LNO）
+- **Brian Chesky：1个案例（本次启动）** ✅
+
+### 下一步建议
+
+**Phase 3 P0 决策案例扩充继续**：
+
+1. **Brian Chesky Case-02**: "Founder Mode"转型决策（2020-2023）
+   - 从委托管理回归创始人深度参与
+   - CEO产品评审流程设计
+   - 组织架构调整
+
+2. **Marty Cagan 决策案例库启动**：
+   - 作为P0人物，目前只有书籍摘要
+   - 可从 Inspired/Empowered/Transformed 中提炼决策案例
+   - 如：产品三要素决策/赋能团队设计/转型路径选择
+
+3. **Gokul Rajaram 决策案例库启动**：
+   - 作为P1人物，已有9个框架
+   - 可从职业经历提炼决策案例
+   - 如：Facebook广告平台决策/Square产品决策
+
+### 技术改进点
+
+**本次任务改进**：
+1. ✅ 决策案例格式标准化（YAML frontmatter + 结构化章节）
+2. ✅ 启发式规则提取框架完善（规则/原理/场景/陷阱）
+3. ✅ 多源验证标准建立（一手/二手/结果类资料分类）
+4. ✅ 案例库索引设计（README + 主题分类 + 扩展规划）
+
+**未来优化方向**：
+1. 建立决策案例模板（template.md）供其他人物复用
+2. 增加案例间交叉引用（如Airbnb vs Uber疫情决策对比）
+3. 提取通用决策模式（跨人物的共同启发式）
+
+---
+
