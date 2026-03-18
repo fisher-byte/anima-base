@@ -207,3 +207,144 @@ Phase 1轮次10：april-dunford frameworks扩充（Obviously Awesome完整框架
 
 ---
 
+
+
+## 2026-03-18 17:00 — Phase 1轮次10：April Dunford Frameworks扩充（Differentiated Value）
+
+### 任务目标
+- 执行Phase 1轮次10：april-dunford frameworks扩充
+- 目标：补充Obviously Awesome第二版(2026)新增核心内容
+- 重点：Differentiated Value Framework（第二版大幅扩展的章节）
+
+### 执行内容
+
+#### 1. 现状评估
+- 现有frameworks：9个（已相当完整）
+- Obviously Awesome第二版发布：2026年1月
+- 核心更新：Differentiated Value章节显著扩展
+
+#### 2. 深度网络搜索
+
+**新版本调研**：
+- Obviously Awesome Second Edition (2026年1-2月发布)
+- 关键更新：5步流程替代10步流程，Differentiated Value章节大幅扩展
+- 新增播客和Substack系列解读新版内容
+
+**Substack文章收集**（2024-2026）：
+- The "No Differentiation" Illusion - 破除"无差异化"幻觉
+- Value vs. Objection Handling - 区分价值和异议处理
+- A Buyer-Centric Approach to Competitive Positioning - 买家视角的竞争定位
+- Dolly, Beyoncé and Differentiated Value - 差异化价值的本质
+
+#### 3. 发现核心遗漏框架
+
+**Differentiated Value Framework**（差异化价值框架）：
+- Obviously Awesome第二版最重要的新增/扩展内容
+- 解决"Most teams told me they got stuck there"的痛点
+- 完整方法论体系
+
+#### 4. 框架文档创建
+
+**文件路径**: `frameworks/differentiated-value-framework.md`
+
+**核心内容结构**（~10KB）：
+
+1. **框架概述**
+   - 核心定义：为什么选择我们vs替代方案
+   - 差异化价值 ≠ 价值主张
+
+2. **框架结构**
+   - 三层价值识别模型（独特能力→客户能力→业务影响）
+   - 差异化价值公式（独特能力 × 客户关心程度 × 无替代性）
+
+3. **识别差异化价值的流程**
+   - Step 1: 列出独特能力（含反模式警告）
+   - Step 2: 映射到客户价值（示例映射）
+   - Step 3: 验证无替代性（关键测试问题）
+   - Step 4: 确认购买决策权重
+
+4. **常见陷阱："无差异化幻觉"**
+   - 陷阱1: 寻找"完全独特"的功能
+   - 陷阱2: 竞争基准错误（三层竞争替代方案）
+   - 陷阱3: 混淆价值与功能列表
+
+5. **差异化价值 vs 异议处理**
+   - 核心区别对比表
+   - 常见的"伪差异化价值"识别
+   - 例外情况处理（挑战传统CRM案例）
+
+6. **差异化价值的层次**
+   - Tier 1: 核心差异化价值
+   - Tier 2: 次要差异化价值
+   - Tier 3: 表面价值(Table Stakes)
+   - Tier 4: 异议处理
+
+7. **实战应用**
+   - 定位声明中使用
+   - 销售话术中使用
+   - 营销信息中使用
+
+8. **持续优化**
+   - 数据来源（Win/Loss分析、客户访谈、销售反馈）
+   - 迭代信号识别
+
+9. **检查清单**
+   - 必需属性、质量标准、避免陷阱
+
+**文档质量**：
+- A级框架（基于Obviously Awesome第二版官方内容）
+- 完整YAML frontmatter
+- 丰富的示例和反模式
+- 实战应用指南
+- 延伸阅读链接
+
+#### 5. 状态更新
+
+**COLLECTION_STATUS.md**：
+- April Dunford行：frameworks 9 → 10
+- 更新备注：新增Differentiated Value框架(Obviously Awesome 2nd Ed核心)
+- 详细进度更新
+- 版本号：1.2 → 1.3
+- 更新时间：2026-03-18 17:00
+
+### 完成情况
+✅ **Phase 1轮次10完成**
+- 新增1个核心框架：Differentiated Value Framework
+- 文档规模：~10KB
+- 内容来源：Obviously Awesome Second Edition (2026) + Substack文章（2024-2026）
+- 证据等级：A级（官方书籍+作者本人文章）
+- 覆盖主题：差异化价值定义、识别流程、价值vs异议处理、无差异化幻觉破除、四层价值体系、持续优化、实战应用
+
+### Phase 1进度总结
+
+**已完成轮次**：
+- 轮次9: paul-graham essays补充（17→30篇，新增13篇）
+- **轮次10: april-dunford frameworks扩充（9→10个，新增Differentiated Value）** ✅
+
+**下一步**：
+根据EXECUTION_PLAN.md Phase 1任务列表：
+- 轮次11: ben-horowitz books（The Hard Thing About Hard Things摘要）
+
+### 技术说明
+
+**Obviously Awesome第二版关键更新**：
+1. 流程简化：10步→5步（与5组件对齐）
+2. 前置工作扩展（团队决策）
+3. **Differentiated Value步骤显著扩展**（解决最常见卡点）
+4. 多产品公司场景补充
+5. 后续执行部分扩展（Sales Pitch构建）
+
+**为什么选择Differentiated Value**：
+- 第二版中扩展最显著的章节
+- 解决实践中最常见的卡点("Most teams told me they got stuck there")
+- April在2024-2026年Substack持续深化这个主题
+- 与现有9个框架形成完整体系（补足核心缺失环节）
+
+### 下一步任务
+
+Phase 1轮次11：ben-horowitz books扩充
+- 目标：The Hard Thing About Hard Things书籍摘要
+- 预期产出：核心章节总结+关键框架提炼
+
+---
+

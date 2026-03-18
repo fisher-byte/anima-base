@@ -2,7 +2,7 @@
 
 > **Agent 执行入口**：每次开始新一轮收集任务前，先读取本文件了解当前状态；任务完成后更新对应字段。
 >
-> 最后更新：2026-03-18 12:00 | 版本：1.2
+> 最后更新：2026-03-18 17:00 | 版本：1.3
 
 ---
 
@@ -67,7 +67,7 @@
 | 人物 | 目录 | profile | podcasts | articles | frameworks | quotes | books | talks | 优先级 | 备注 |
 |------|:----:|:-------:|:--------:|:--------:|:----------:|:------:|:-----:|:-----:|:------:|------|
 | Seth Godin | ✅ | ✅ | 6 | 3 | 5 | 0 | 0 | 0 | P1 | ✅ 核心框架完成 + 6播客(Lenny/Tim Ferriss x2/SPI/Guy Kawasaki/TED Radio Hour) |
-| April Dunford | ✅ | ✅ | 3 | 1 | 9 | 0 | 0 | 0 | P1 | ✅ 9个frameworks + 3播客完成(Lenny/Knowledge Project/Everyone Hates Marketers) |
+| April Dunford | ✅ | ✅ | 3 | 1 | 10 | 0 | 0 | 0 | P1 | ✅ 10个frameworks + 3播客完成(Lenny/Knowledge Project/Everyone Hates Marketers)；新增Differentiated Value框架(Obviously Awesome 2nd Ed核心) |
 | Ann Handley | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ P4完成：5框架(Writing GPS/Everybody Writes/Content Rules/Post-Info Age/15min Marketing) + 4播客 + 2 READMEs |
 | David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
 | Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
@@ -180,7 +180,7 @@ P1 - 有 profile 但内容稀薄的人物：
   [x] julie-zhuo: ✅ 已完成 4个新播客 + 5个frameworks (2026-03-13) — Punk Rock HR, Pivot, Hurry Slowly, Accidental Creative | Three Ps, Diagnose/Treat, Feedback, User Guide, Managing Up
   [x] teresa-torres: ✅ 已完成 12个podcasts + 5个frameworks (2026-03-12) — Lenny, Boundaryless, It Shipped, AgileData, Product People, Product Rising, UX Research, Brave UX, Aakash Gupta, ITX, All Things Product, Just Now Possible | CDH, OST, Interview Snapshot, Experience Map, Assumption Testing
   [x] paul-graham: ✅ 已完成 profile.md + 74篇essays (2026-03-18) | **Phase 1轮次9完成**：新增13篇高质量精选文章(Superlinear Returns/How to Get New Ideas/Schlep Blindness/Black Swan Farming/Keep Your Identity Small/Maker's Schedule Manager's Schedule/Life is Short/Write Like You Talk/Frighteningly Ambitious Startup Ideas/How People Get Rich Now/Cities and Ambition/The Refragmentation/Having Kids)，覆盖超线性回报、创意产生、schlep盲区、黑天鹅投资、身份认同、时间管理、人生哲学、写作技巧、野心想法、财富创造、城市文化、社会分化、育儿反思完整体系，essays总数17→30篇(实际增加13篇，之前记录有误)
-  [x] april-dunford: ✅ 已完成 9个frameworks + 3 podcasts (2026-03-18) — Positioning Canvas, 10-Step Process, 5 Components, Sales Pitch Framework, Market Category, Competitive Alternatives, Feature List Trap, Best Customers Exercise, Market Category Strategies | 新增3个高质量播客(Lenny's Podcast定位细分/Knowledge Project定位基础/Everyone Hates Marketers咨询业务)，覆盖产品定位、市场细分、销售流程优化、B2B决策、咨询业务建立完整体系
+  [x] april-dunford: ✅ 已完成 10个frameworks + 3 podcasts (2026-03-18) — Positioning Canvas, 10-Step Process, 5 Components, Sales Pitch Framework, Market Category, Competitive Alternatives, Feature List Trap, Best Customers Exercise, Market Category Strategies, Differentiated Value | 新增Differentiated Value框架(Obviously Awesome第二版2026核心扩展章节)，涵盖差异化价值定义、识别流程、价值vs异议处理区分、无差异化幻觉破除、实战应用等完整方法论
   [x] ben-horowitz: ✅ 已完成 2本书籍摘要 (2026-03-13)
   [x] ray-dalio: ✅ 已完成 7个frameworks (2026-03-13) — Pain+Reflection, 5-Step, Idea Meritocracy, Radical Transparency, Economic Machine, Believability-Weighted, Meaningful Work & Relationships
 
@@ -294,3 +294,5 @@ P4 - 经典人物补充：
 || 2026-03-18 12:00 | Phase 0轮次10完成：王慧文综合查漏新增1篇关键一手材料(2023年AI英雄榜招募帖原文，即刻平台发布)，articles实际统计16篇(之前未准确统计)，补充王慧文AI创业最重要的启动文档：75%股份给研发团队/个人肉身不占股/打造中国OpenAI/5千万美元投资/业界顶级人才标准/狂热信念筛选/造福人类价值观/杂事打理承诺完整一手证据，A级原始材料(~10KB)，标志性创业招募案例，Phase 0王慧文阶段全部完成 | ✅ 已完成 |
 
 || 2026-03-18 | Phase 0轮次7完成：张小龙综合查漏新增1篇内部分享（2016年WXG领导力大会：KPI是副产品/警惕复杂流程/敏捷团队/轮岗机制），talks总数5→6篇，补充管理哲学、组织效能、QQ邮箱敏捷转型完整经验，A级证据14000字 | ✅ 已完成 |
+
+|| 2026-03-18 17:00 | Phase 1轮次10完成：April Dunford frameworks扩充，新增Differentiated Value Framework(Obviously Awesome第二版2026核心扩展章节)，frameworks总数9→10个，补充差异化价值完整方法论：价值定义/识别流程(三层模型)/价值vs异议处理区分/无差异化幻觉破除/四层价值体系/持续优化机制/实战应用指南，基于第二版新增章节和2024-2026年Substack文章，~10KB A级框架文档 | ✅ 已完成 |
