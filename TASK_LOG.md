@@ -1360,3 +1360,132 @@ people/product/shreyas-doshi/decision-cases/
 
 ---
 
+## 2026-03-18 23:00 — Phase 1轮次13：Julie Zhuo Podcasts扩充（目标达成）
+
+### 任务目标
+- 执行 Phase 1轮次13：julie-zhuo podcasts 扩充
+- 目标：整理10+个播客洞察
+- 从已有4个播客扩充到10个以上
+
+### 执行内容
+
+#### 1. 深度网络搜索
+**搜索策略**：
+- Julie Zhuo podcast interview design leadership product
+- Julie Zhuo Lenny Masters of Scale transcript
+- Julie Zhuo Making of a Manager podcast 2024
+- Julie Zhuo Design Better InVision
+- Julie Zhuo HBR Harvard Business Review
+- Julie Zhuo Let's Fix Work Laurie Ruettimann
+- Julie Zhuo FranklinCovey leadership
+- Julie Zhuo Product Hunt Intercom This Week in Startups
+
+**关键资源发现**：
+1. **Design Better (InVision)**：
+   - 2024年7月重播2019年经典访谈
+   - 覆盖leadership vs management区分
+   - Facebook成长历程完整回顾
+   
+2. **The Growth Podcast (Aakash Gupta)**：
+   - 2025年9月AI产品领导力专访
+   - 讨论AI时代角色跨界
+   - 产品/设计/工程边界模糊化
+
+3. **Founder Things (Helena Price)**：
+   - 移民经历与职业成长
+   - 拥抱不确定性作为学习燃料
+   - Facebook早期文化建设洞察
+
+4. **HBR On Leadership**：
+   - 2024年1月管理基础课
+   - 实际管理场景Q&A
+   - 三大管理桶详细阐述
+
+5. **Let's Fix Work (Laurie Ruettimann)**：
+   - 2019年9月书籍发布访谈
+   - Management vs Leadership核心区分
+   - 反馈文化深度探讨
+
+6. **FranklinCovey On Leadership**：
+   - 2026年1月最新访谈
+   - 高标准与同理心平衡
+   - Caring Without Lowering the Bar核心理念
+
+#### 2. 内容创建
+
+**新增6个播客文档**：
+
+1. **2024-07-design-better-rewind.md** (~4KB)
+   - 主题：leadership vs management, 早期管理挑战
+   - 核心洞察：管理是角色可授予，领导力是品质需赢得
+   - 来源验证：InVision Design Better官方播客
+
+2. **2025-09-growth-podcast-ai-leadership.md** (~4.4KB)
+   - 主题：AI时代产品领导力，角色边界模糊化
+   - 核心洞察：AI赋能跨职能工作，传统边界正在消失
+   - 来源验证：Aakash Gupta官方播客
+
+3. **2023-08-founder-things-interview.md** (~5.3KB)
+   - 主题：拥抱不确定性，持续学习，文化建设
+   - 核心洞察：移民经历塑造learning mindset，不确定性是燃料
+   - 来源验证：Helena Price Founder Things访谈
+
+4. **2024-01-hbr-better-manager.md** (~6.1KB)
+   - 主题：管理基础，三大管理桶，实战Q&A
+   - 核心洞察：人员/流程/目标三桶日常检查，伟大反馈改变你
+   - 来源验证：Harvard Business Review官方播客
+
+5. **2019-09-lets-fix-work.md** (~10.3KB)
+   - 主题：management vs leadership核心区分，反馈文化
+   - 核心洞察：管理是工作，领导力是品质；美国文化不懂反馈
+   - 来源验证：Laurie Ruettimann Let's Fix Work播客
+
+6. **2026-01-franklincovey-caring-standards.md** (~7.9KB)
+   - 主题：高标准与同理心平衡，善良vs友善
+   - 核心洞察：善良≠友善，真正关心=高标准+诚实反馈
+   - 来源验证：FranklinCovey On Leadership S51
+
+**总计新增内容**：~38KB高质量文档
+
+#### 3. 质量标准
+
+**所有文档符合以下标准**：
+- ✅ YAML frontmatter完整（title/date/host/show/topics/key_insights/verification_status）
+- ✅ 内容结构化（Overview/Background/Key Topics/Quotes/Takeaways/Source）
+- ✅ 核心洞察提炼清晰
+- ✅ 来源链接有效可访问
+- ✅ verification_status = A（顶级来源验证）
+- ✅ 多角度覆盖（管理基础/AI时代/文化建设/高标准/反馈/领导力）
+
+### 执行结果
+
+**数量达成**：
+- 起始状态：4个podcasts
+- 新增数量：6个podcasts
+- 最终状态：10个podcasts ✅
+- **目标达成**：10+播客洞察目标完成
+
+**内容覆盖**：
+1. **管理基础**：三大管理桶(人员/流程/目标)，management vs leadership区分
+2. **职业成长**：Facebook IC到VP完整历程，移民背景塑造学习心态
+3. **团队建设**：早期Facebook文化建设，拥抱不确定性，高标准与同理心
+4. **反馈文化**：美国文化问题，伟大反馈定义，善良vs友善
+5. **AI时代**：产品领导力转型，角色边界模糊化，跨职能赋能
+6. **实战应用**：处理问题员工，管理underperformer，团队动态处理
+
+**验证质量**：
+- A级来源：InVision, Aakash Gupta, Helena Price, HBR, Laurie Ruettimann, FranklinCovey
+- 时间跨度：2019-2026（7年持续输出）
+- 主题深度：从管理基础到AI时代前沿，从个人成长到组织文化
+- 实用性：理论+实战案例+具体建议
+
+### 下一步任务
+
+根据EXECUTION_PLAN.md，下一个任务是：
+- **Phase 1轮次14**：teresa-torres podcasts扩充（整理10+个播客洞察）
+- 目标：补充Teresa Torres的播客访谈
+- 重点：持续发现、机会解决树、产品三人组框架
+- 预计执行时间：2026-03-19 00:00
+
+---
+
