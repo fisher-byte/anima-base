@@ -1783,3 +1783,241 @@ people/product/shreyas-doshi/decision-cases/
 
 ---
 
+
+
+---
+
+## 2026-03-19 01:30 — Phase 3轮次3：Brian Chesky 决策案例扩充（Founder Mode转型）
+
+### 任务目标
+- 执行 Phase 3轮次3：Brian Chesky 决策案例库扩充
+- 创建 Case-02：Founder Mode 转型决策（2020-2024）
+- 完善决策案例库索引和分类
+
+### 执行过程
+
+#### 1. 任务规划与资料收集
+**背景分析**：
+- 根据 TASK_LOG.md "下一步建议"，有三个选项：
+  1. Brian Chesky Case-02: "Founder Mode"转型决策
+  2. Marty Cagan 决策案例库启动
+  3. Gokul Rajaram 决策案例库启动
+- 选择 Brian Chesky Case-02（延续性好，资料丰富）
+
+**资料搜索**：
+- ✅ Paul Graham "Founder Mode" 原文（2024年9月）
+- ✅ Brian Chesky Fortune播客访谈（2023年9月）
+- ✅ Brian Chesky Decoder播客访谈（2024年10月）
+- ✅ 2020-2021年组织重组相关报道
+- ✅ Airbnb 2021-2022财报数据
+
+#### 2. 决策案例创建
+**文件路径**：`people/product/brian-chesky/decision-cases/case-02-founder-mode-transformation.md`
+
+**文档结构**：
+```markdown
+1. 决策背景 (Context)
+   - 管理困境的形成（2017-2019）
+   - 疫情成为转折点（2020年3-5月）
+   - Steve Jobs的启发
+
+2. 决策选项 (Options)
+   - Option A: 维持现状（继续Manager Mode）
+   - Option B: 折中改良（轻度调整）
+   - Option C: 激进重组（Founder Mode全面实施）✅
+
+3. 决策过程 (Decision Process)
+   - 决策时间线（2020年5-6月）
+   - 决策考量因素（内部反对/硅谷传统/Steve Jobs验证/"Being Gaslit"感受）
+   - 最终决策逻辑
+
+4. 执行细节 (Implementation)
+   - Phase 1: 组织重组（关闭部门/职能型组织）
+   - Phase 2: 产品流程重构（单一路线图/CEO评审/Skip-Level）
+   - Phase 3: 文化与理念宣导
+   - Phase 4: 持续优化
+
+5. 决策结果 (Outcome)
+   - 业务成果（2021年收入+77%，自由现金流率硅谷顶级）
+   - 组织效能提升
+   - 行业影响（引发Founder Mode全球讨论）
+
+6. 启发式规则 (Heuristics) — 10个核心规则
+   1. "Manager Mode"陷阱识别
+   2. 组织结构决定战略执行
+   3. 单一路线图原则
+   4. Leadership = Presence, Not Absence
+   5. Skip-Level是常态
+   6. 学习Steve Jobs，但不盲目模仿
+   7. 疫情/危机是组织变革的窗口期
+   8. "Fiefdom"识别与拆除
+   9. 职能型组织的边界条件
+   10. 对抗"Professional Fakers"
+
+7. 反向启发（What NOT to Do）— 3个反向规则
+   1. 不要盲目追随"硅谷标准建议"
+   2. 不要用"Founder Mode"为微观管理找借口
+   3. 不要在不了解边界的情况下实施
+
+8. 关键启示 (Key Takeaways) — 8个核心洞察
+   1. 创始人有独特能力，不应轻易放弃
+   2. 组织结构不是中性的，它决定行为模式
+   3. "Empowerment"需要重新定义
+   4. Steve Jobs提供了另一种可能性
+   5. 危机是组织变革的催化剂
+   6. 规模化 ≠ 分权化
+   7. 业绩是最好的辩护
+   8. Founder Mode仍在探索中
+
+9. 相关决策案例 + 延伸阅读
+```
+
+**关键数据**：
+- 字数：~36,000字符（12,000字完整决策分析）
+- 启发式规则：10个核心规则 + 3个反向规则
+- 关键启示：8个核心洞察
+- 验证等级：A级（多源验证：Paul Graham原文/Fortune播客/Decoder访谈/Airbnb财报）
+
+#### 3. README.md 更新
+**更新内容**：
+- ✅ `case_count: 1 → 2`
+- ✅ `last_updated: 2026-03-18 → 2026-03-19`
+- ✅ 添加 Case-02 到案例索引（Organizational Design类别）
+- ✅ 更新"决策主题分类"部分（标记 Case-02 完成）
+- ✅ 更新"后续扩展计划"（标记 P0任务完成）
+
+**Case-02 索引条目**：
+```markdown
+#### Case-02: Founder Mode 转型决策（2020-2024）✨ 新增
+- 文件: case-02-founder-mode-transformation.md
+- 决策点: 2020年5月-6月
+- 情境: 疫情后重组契机,反思硅谷"标准管理模式"失效
+- 决策: 关闭独立部门 + 转为职能型组织 + CEO深度参与 + 单一路线图
+- 结果: 2021年收入增长77%,自由现金流率跻身硅谷顶级,引发"Founder Mode"全球讨论
+- 关键启发式: 10个核心规则（详见文档）
+```
+
+#### 4. COLLECTION_STATUS.md 更新
+**更新Brian Chesky行**：
+```markdown
+[x] brian-chesky: ✅ 已完成 profile + 10 podcasts + 1 articles + 15 frameworks + 1 quotes + **2 decision-cases** (2026-03-19)
+```
+
+**详细进度部分新增**：
+- Phase 3轮次3完成（2026-03-19 01:30）
+- 决策案例扩充：新增 Case-02 Founder Mode 转型决策
+- ~36KB A级文档，12000字完整决策分析
+- 10个核心启发式规则 + 3个反向启发式
+- 多来源A级验证（Paul Graham/Fortune/Decoder/Airbnb财报）
+- decision-cases总数 1→2
+
+### 成果总结
+
+#### 新增文件
+1. ✅ **case-02-founder-mode-transformation.md**
+   - 路径：`people/product/brian-chesky/decision-cases/`
+   - 字数：~12,000字（36KB）
+   - 质量：A级（多源验证）
+
+#### 更新文件
+1. ✅ **README.md** — 更新案例索引和计数
+2. ✅ **COLLECTION_STATUS.md** — 更新Brian Chesky进度
+3. ✅ **TASK_LOG.md** — 本次执行记录
+
+#### 核心价值
+
+**决策案例亮点**：
+1. **理论突破**：
+   - 挑战硅谷"标准管理模式"
+   - 提出"Founder Mode vs Manager Mode"框架
+   - 重新定义"Empowerment"和"Leadership"
+
+2. **实践验证**：
+   - 2021年收入增长77%
+   - 自由现金流率跻身硅谷顶级
+   - 引发2024年全球讨论
+
+3. **可复用性**：
+   - 10个核心启发式规则
+   - 3个反向启发式（避坑指南）
+   - 8个关键洞察
+
+4. **多维度分析**：
+   - 战术层：具体做法（职能型组织/单一路线图/CEO评审）
+   - 战略层：管理哲学（Founder Mode vs Manager Mode）
+   - 元认知层：思维模式（质疑标准建议/相信创始人直觉）
+
+**与其他案例的对比**：
+| 案例 | 人物 | 数量 | 特点 |
+|------|------|------|------|
+| **Brian Chesky** | Airbnb创始人 | **2个案例** | 危机管理 + 组织设计 |
+| 张小龙 | 微信创始人 | 22个案例 | 产品决策为主 |
+| Lenny Rachitsky | 产品专家 | 21个案例 | 综合多位专家 |
+| Shreyas Doshi | 产品领导 | 2个案例 | 框架方法论 |
+
+**Brian Chesky案例库特色**：
+- ✅ **危机管理 + 组织设计**双维度
+- ✅ 挑战传统管理智慧
+- ✅ Steve Jobs管理哲学的现代实践
+- ✅ 创始人深度参与的系统方法论
+
+### 下一步建议
+
+#### Phase 3 P0 决策案例继续扩充
+
+**优先级排序**：
+
+1. **Marty Cagan 决策案例库启动**（推荐下一步）
+   - 作为P0人物，目前只有书籍摘要
+   - 可从 Inspired/Empowered/Transformed 中提炼决策案例
+   - 潜在案例：
+     - 产品三要素决策（Product/People/Process）
+     - 赋能团队设计（Empowered Teams）
+     - 转型路径选择（Transformation）
+     - Product Manager vs Product Owner
+   - 预期产出：3-5个案例，建立产品管理方法论决策库
+
+2. **Gokul Rajaram 决策案例库启动**
+   - 作为P1人物，已有9个框架
+   - 可从职业经历提炼决策案例
+   - 潜在案例：
+     - Facebook广告平台决策
+     - Square产品决策
+     - Caviar并购决策
+     - 投资组合决策（a16z/Coinbase/Flexport等）
+
+3. **Brian Chesky 产品战略案例扩充**
+   - 已有2个案例（危机管理 + 组织设计）
+   - 可补充产品战略维度：
+     - "I'm Flexible"搜索功能决策
+     - Experiences业务推出决策
+     - 与Jony Ive合作重新设计决策
+     - AI功能整合决策
+
+#### Phase 3 其他方向
+
+**张小龙/王慧文决策案例优化**：
+- 两人已有丰富案例（22个 + 6个）
+- 可考虑：
+  - 案例间交叉引用
+  - 提取通用决策模式
+  - 编写"决策模式对比"分析
+
+**Lenny Rachitsky案例库扩充**：
+- 当前21个案例（综合多位专家）
+- 可从290集播客继续提炼
+
+### 技术改进点
+
+**本次任务改进**：
+1. ✅ 决策案例格式持续优化（更详细的执行细节章节）
+2. ✅ 启发式规则分类（核心规则 + 反向规则）
+3. ✅ 多层次洞察（战术/战略/元认知）
+4. ✅ 相关案例交叉引用
+
+**未来优化方向**：
+1. 建立"决策模式库"（跨人物的通用模式）
+2. 增加可视化图表（如组织架构对比图）
+3. 开发决策案例检索工具（按主题/情境/启发式规则搜索）
+
+---

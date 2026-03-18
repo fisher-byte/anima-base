@@ -3,8 +3,8 @@ title: "Brian Chesky Decision Cases — 决策案例库"
 person: "Brian Chesky"
 role: "Co-founder & CEO, Airbnb"
 focus: "Crisis Management, Product Strategy, Organizational Design"
-case_count: 1
-last_updated: "2026-03-18"
+case_count: 2
+last_updated: "2026-03-19"
 ---
 
 # Brian Chesky 决策案例库
@@ -31,6 +31,26 @@ last_updated: "2026-03-18"
   5. 回归初心：危机时重新审视使命和愿景
   6. 危机后估值反弹 = 基本面韧性 × 战略执行力
 
+### Organizational Design（组织设计）
+
+#### Case-02: Founder Mode 转型决策（2020-2024）✨ 新增
+- **文件**: `case-02-founder-mode-transformation.md`
+- **决策点**: 2020年5月-6月
+- **情境**: 疫情后重组契机,反思硅谷"标准管理模式"失效
+- **决策**: 关闭独立部门 + 转为职能型组织 + CEO深度参与 + 单一路线图
+- **结果**: 2021年收入增长77%,自由现金流率跻身硅谷顶级,引发"Founder Mode"全球讨论
+- **关键启发式**:
+  1. "Manager Mode"陷阱识别：感觉"被两面欺骗"时是危险信号
+  2. 组织结构决定战略执行：事业部制→各自为政,职能型→统一协同
+  3. 单一路线图原则：不在路线图上=不启动
+  4. Leadership = Presence, Not Absence：领导力是在场而非缺席
+  5. Skip-Level是常态：CEO定期跨层级沟通
+  6. 学习Steve Jobs，但不盲目模仿
+  7. 疫情/危机是组织变革的窗口期
+  8. "Fiefdom"识别与拆除：警惕部门通过扩大人头提升权力
+  9. 职能型组织的边界条件：需要产品线高度关联+CEO持续投入
+  10. 对抗"Professional Fakers"：深度参与产品评审防止蒙混过关
+
 ---
 
 ## 决策主题分类
@@ -39,14 +59,13 @@ last_updated: "2026-03-18"
 - [x] **Case-01**: COVID-19 生存决策（2020）
 
 ### 📦 Product Strategy（产品战略）
-- [ ] **待补充**: "Founder Mode"转型（2020-2023）
 - [ ] **待补充**: 产品重新设计（2021-2022）
 - [ ] **待补充**: Experiences 业务决策
 - [ ] **待补充**: "I'm Flexible"搜索功能推出
 
 ### 👥 Organizational Design（组织设计）
-- [ ] **待补充**: 从分布式决策到创始人深度参与
-- [ ] **待补充**: CEO产品评审流程设计
+- [x] **Case-02**: "Founder Mode"转型（2020-2024）✨ 新增
+- [ ] **待补充**: CEO产品评审流程设计细节
 - [ ] **待补充**: 招聘标准和流程重构
 
 ### 🚀 Growth & Scaling（增长与规模化）
@@ -117,7 +136,7 @@ last_updated: "2026-03-18"
 ## 后续扩展计划
 
 ### 高优先级案例（P0）
-1. **"Founder Mode"转型**（2020-2023）
+1. ~~**"Founder Mode"转型**（2020-2023）~~ ✅ **已完成 Case-02**
    - 从委托管理回归创始人深度参与
    - CEO产品评审流程
    - 组织架构扁平化
