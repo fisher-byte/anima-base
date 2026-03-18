@@ -700,3 +700,163 @@ Phase 1轮次11：ben-horowitz books扩充
 
 ---
 
+
+
+## 2026-03-18 22:00 — Phase 3：Shreyas Doshi 决策案例库启动（Pre-mortem决策）
+
+### 任务目标
+- 执行 Phase 3 决策案例扩充任务
+- 目标：为 Shreyas Doshi 创建首个决策案例
+- 战略定位：补充产品管理专家的决策证据，为 Persona 建模提供高质量案例
+
+### 执行内容
+
+#### 1. 任务分析
+**当前状态**：
+- Phase 0-2 已全部完成（张小龙/王慧文/Lenny/Paul Graham/Ben Horowitz 等）
+- 决策案例库已有 4 个人物：张小龙（22个）、王慧文（6个）、Lenny（21个）、Paul Graham
+- Shreyas Doshi 是产品管理领域重要专家，有丰富的决策框架和方法论
+
+**选择理由**：
+- Shreyas 是 Stripe 首位产品负责人，有实际决策经验
+- Pre-mortem 框架已经有完整的文档和案例（Coda/Medium/Lenny's Podcast）
+- 多来源 A 级验证，可以创建高质量决策案例
+
+#### 2. 深度网络搜索
+**搜索策略**：
+- Shreyas Doshi 产品决策案例和实例
+- Pre-mortem 框架详细应用
+- Stripe 产品发布流程和方法
+- Tigers-Paper Tigers-Elephants 隐喻系统
+
+**关键资源发现**：
+1. **Coda Pre-mortem 模板**（https://coda.io/@shreyas/pre-mortems）：
+   - 完整的 Pre-mortem 会议流程
+   - Tigers/Paper Tigers/Elephants 三分类方法
+   - 1小时结构化会议设计
+   - Action plan 输出格式
+
+2. **Medium 深度文章**（https://medium.com/@shreyashere/how-to-use-pre-mortems-to-prevent-problems-blunders-and-disasters-6ecc6df6e22a）：
+   - 为什么改进标准 pre-mortem
+   - 心理安全词汇的重要性
+   - 持续使用机制的设计
+   - 实际应用经验总结
+
+3. **Lenny's Podcast 访谈**（https://www.lennysnewsletter.com/p/episode-3-shreyas-doshi）：
+   - Shreyas 亲述在 Stripe 的实践
+   - Pre-mortem 如何实现"平静的产品发布"
+   - 团队士气和生产力的提升
+
+4. **The Product Builder's True Journey**（Shreyas Substack）：
+   - 产品决策的真实旅程
+   - 100s of micro-decisions 的累积效应
+   - 决策依附性和路径依赖
+
+#### 3. 决策案例创建
+
+**文件结构**：
+```
+people/product/shreyas-doshi/decision-cases/
+├── README.md                        # 决策案例库索引
+└── case-01-stripe-premortem.md     # Pre-mortem 决策案例
+```
+
+**README.md 内容**（2.5KB）：
+- 案例索引表（案例编号/名称/场景/框架/文件）
+- 决策框架应用分类（Pre-mortem/LNO/Three Levels）
+- 6个启发式规则提炼
+- 多来源资源链接
+
+**Case-01 详细内容**（~11KB）：
+- **📋 决策背景**：
+  - 情境设定：Stripe 产品发布前的风险管理
+  - 4个核心挑战：事后补救困境/问题可见性低/救火文化/预警机制缺失
+  - 关键约束：时间压力/心理安全/流程成本/执行一致性
+
+- **🤔 决策选项**：
+  - 选项 A：继续现状（仅 Post-mortem）❌
+  - 选项 B：标准 Pre-mortem（Gary Klein版本）⚠️
+  - 选项 C：改进版 Pre-mortem + Tigers/Paper Tigers/Elephants ✅
+
+- **💡 决策理由**（4个核心洞察）：
+  1. 预防成本远低于救火成本
+  2. 心理安全词汇是关键突破
+  3. 持续性是成败关键
+  4. 结构化流程确保执行质量
+
+- **📊 决策结果**：
+  - 短期：平静的产品发布、团队士气提升、问题提前识别
+  - 中期：成为 Stripe 产品文化、团队能力提升
+  - 长期：方法论传播、工具化、教育普及
+
+- **🎯 启发式规则**（5条）：
+  1. 预防优于治疗（判断标准+反例）
+  2. 心理安全词汇降低沟通成本（应用场景）
+  3. 系统化预警需要持续机制（关键要素）
+  4. 结构化流程确保执行质量（1小时设计）
+  5. 权衡流程成本和预防价值（判断标准）
+
+- **📚 延伸阅读**：
+  - Shreyas 相关资源（Coda/Medium/Podcast/YouTube）
+  - 相关决策框架（LNO/Three Levels/Execution vs Strategy）
+  - 原始理论来源（Gary Klein/Daniel Kahneman）
+
+**质量特征**：
+- ✅ A 级证据（作者亲述，多来源验证）
+- ✅ 完整决策结构（背景/选项/理由/结果/启发式）
+- ✅ 可操作框架（1小时会议流程、Tigers分类法）
+- ✅ 多维度视角（心理学/流程设计/组织文化）
+
+#### 4. 文档更新
+
+**COLLECTION_STATUS.md 更新**：
+- Shreyas Doshi 行：decision-cases 从 0 更新为 1
+- 详细进度部分：添加 Phase 3 完成记录
+- 历史记录部分：添加 2026-03-18 22:00 执行记录
+
+**质量指标**：
+- 决策案例文档大小：~11KB
+- 启发式规则数量：5 条
+- 验证来源：3 个（Coda/Medium/Lenny's Podcast）
+- 案例级别：A 级（作者亲述）
+
+### 关键洞察
+
+1. **决策案例的价值**：
+   - 提供"如何做决策"的具体范例
+   - 展示决策过程的完整思考链条
+   - 提炼可复用的启发式规则
+
+2. **Pre-mortem 的独特性**：
+   - 从"事后复盘"转向"事前预防"
+   - 心理安全词汇是关键创新点
+   - 持续机制设计决定长期成败
+
+3. **Shreyas 的方法论特点**：
+   - 结合心理学和流程设计
+   - 注重团队心理安全
+   - 强调持续实践而非一次性活动
+
+### 下一步任务
+
+根据执行计划，可以继续：
+
+**Phase 3 决策案例扩充**：
+- Shreyas Doshi：补充 LNO 框架应用案例、Three Levels of Product Work 决策案例
+- Julie Zhuo：Facebook 设计决策案例
+- Marty Cagan：产品管理方法论应用案例
+- Teresa Torres：持续发现决策案例
+
+**Phase 4 新人物扩充**：
+- 探索其他产品/设计/增长领域专家
+- 补充更多决策场景和方法论
+
+**或继续 Lenny 决策案例提炼**：
+- 从 290 集播客中提炼更多高质量决策案例
+- 重点：PMF判断、定价策略、增长渠道、招聘决策等
+
+---
+
+**执行时间**：2026-03-18 22:00  
+**执行人**：BoxAI 定时任务  
+**下次执行预计**：2026-03-18 23:00
