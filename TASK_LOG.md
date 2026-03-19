@@ -2974,3 +2974,103 @@ people/product/naval-ravikant/
 - **更新**: 
   - `COLLECTION_STATUS.md`: articles 52→54
   - `TASK_LOG.md`: 本次执行记录
+
+
+---
+
+## 2026-03-19 20:00 — Phase 4轮次2：Marty Cagan决策案例库启动
+
+### 任务目标
+- 执行 Phase 4轮次2：为Marty Cagan创建决策案例库
+- 补充产品管理领域核心人物的决策证据
+- 继续推进"从金句人格到决策证据库"战略转型
+
+### 执行内容
+
+#### 1. 决策案例库启动
+**选择人物**：Marty Cagan（产品管理领域顶级专家，SVPG创始人）
+**理由**：
+- 已有12个frameworks和3本书摘要，但缺少决策案例
+- 在Netscape、eBay等公司有丰富决策经验
+- SVPG辅导过众多企业转型，有大量真实案例
+- 产品愿景、团队转型、组织变革是其核心主题
+
+#### 2. 案例选择：BBC Mobile产品愿景决策
+**决策者**：Alex Pressland (BBC Product Manager)
+**时间**：2003-2007
+**来源**：Marty Cagan文章 "Behind Every Great Product" (SVPG官方)
+**验证状态**：A级（Marty Cagan亲自撰写的案例研究）
+
+**为什么选择这个案例**：
+1. **完整的决策结构**：有明确的背景、选项、理由、结果
+2. **真实性强**：具体人物、时间、公司、数据
+3. **影响深远**：改变BBC从广播到分发的战略方向，5000万+周活用户
+4. **可推广性**：适用于产品愿景、平台转型、大型组织创新等场景
+5. **启发式丰富**：可提炼7个核心启发式规则
+
+#### 3. 案例内容（~11KB）
+
+**案例结构**：
+- **背景**：2003年Alex Pressland完成内容联合分发项目，开始思考"Out Of Home"用户需求
+- **3个选项对比**：
+  1. 维持现状（传统广播模式）
+  2. 小规模试点（实验性项目）
+  3. ✅ 提出完整产品愿景——"BBC Out Of Home"
+- **决策理由**：
+  - 技术洞察+用户需求的交集
+  - 与BBC使命（扩大触达）对齐
+  - 早期实验建立信心
+  - 看到战略窗口期（iPhone 2007年发布前）
+  - 愿意承担风险（force of will）
+- **执行过程**：
+  - 说服编辑部（文化转变）
+  - 解决法律障碍（内容授权）
+  - 向高层提出完整愿景
+  - 推动组织转型
+- **结果**：
+  - 短期：BBC Out Of Home战略被采纳，成为BBC Mobile战略基础
+  - 长期：5000万+周活用户，组织从广播转向分发，培养大量产品人才
+
+**7个核心启发式**：
+1. 产品愿景来自"技术洞察 × 用户需求"交集
+2. 用"组织使命"而非"技术先进"说服高层
+3. 早期实验建立信心，完整愿景争取资源
+4. 在战略窗口期到来前行动
+5. 挑战组织文化时，用"证据+长期价值"而非"说教"
+6. 产品经理需要"force of will"（意志力）
+7. 伟大产品背后通常有一个强大的产品经理（Product Manager as Mini-CEO）
+
+**3个反向启发式**：
+- ❌ 不要等技术完美再推动愿景
+- ❌ 不要因为组织阻力大就放弃
+- ❌ 不要用"技术术语"说服非技术人员
+
+#### 4. 创建文件
+- ✅ `people/product/marty-cagan/decision-cases/case-01-bbc-mobile-product-vision.md` (11KB)
+- ✅ `people/product/marty-cagan/decision-cases/README.md` (4.7KB)
+
+### 更新统计
+- **Marty Cagan**：
+  - decision-cases: 0 → 1
+  - 总内容类型：profile + 12 frameworks + 3 books + 8 podcasts + 1 decision-case
+- **全局统计**：
+  - 决策案例总数：+1（Marty Cagan决策案例库启动）
+
+### 下一步建议
+1. **继续Marty Cagan决策案例**：
+   - Case-02: eBay产品管理转型（基于Marty的VP of Product经历）
+   - Case-03: Feature Team到Product Team转型（基于Transformed书中案例）
+   - Case-04: CarMax产品运营模式转型（Transformed完整案例）
+2. **其他产品专家决策案例**：
+   - April Dunford定位决策案例
+   - Teresa Torres持续发现决策案例
+   - Julie Zhuo管理决策案例
+3. **继续Phase 4任务队列**
+
+### 执行时间
+- 开始：2026-03-19 19:30
+- 完成：2026-03-19 20:00
+- 耗时：30分钟
+
+### 状态
+✅ 已完成：Phase 4轮次2完成，Marty Cagan决策案例库成功启动，为产品愿景和组织转型决策建立参考模板
