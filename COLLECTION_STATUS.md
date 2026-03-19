@@ -25,7 +25,7 @@
 | 播客文档——本库策展版 | 74 | 350 | 21% |
 | Lenny 播客——完整转录（已导入） | 290 集 | 290 | 100% |
 | 文章文档 | 52 | 920 | 6% |
-| 框架文档 | 60 | 350 | 17% |
+| 框架文档 | 65 | 350 | 19% |
 | 书籍摘要 | 0 | 23 | 0% |
 | 语录集 | 1 | 28 | 4% |
 | 中文翻译 | — | 全量 | — |
@@ -69,7 +69,7 @@
 | Seth Godin | ✅ | ✅ | 6 | 3 | 5 | 0 | 0 | 0 | P1 | ✅ 核心框架完成 + 6播客(Lenny/Tim Ferriss x2/SPI/Guy Kawasaki/TED Radio Hour) |
 | April Dunford | ✅ | ✅ | 3 | 1 | 10 | 0 | 0 | 0 | P1 | ✅ 10个frameworks + 3播客完成(Lenny/Knowledge Project/Everyone Hates Marketers)；新增Differentiated Value框架(Obviously Awesome 2nd Ed核心) |
 | Ann Handley | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ P4完成：5框架(Writing GPS/Everybody Writes/Content Rules/Post-Info Age/15min Marketing) + 4播客 + 2 READMEs |
-| David Ogilvy | ✅ | ✅ | 0 | 0 | 0 | 0 | 0 | 0 | P2 | 经典人物，需补书籍摘要 |
+| David Ogilvy | ✅ | ✅ | 0 | 0 | 6 | 0 | 1 | 0 | P2 | ✅ Phase 2轮次19完成：6个核心框架(Brand Image Theory/10 Commandments/Research-Based/Headline/Long Copy/7 Principles) + Confessions完整摘要 |
 | Dave Gerhardt | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次14完成：5框架 + 4播客 |
 | Rand Fishkin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次15完成：5框架 + 4播客 |
 | Katelyn Bourgoin | ✅ | ✅ | 4 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ Phase 4 完成：完整profile + 5框架(Trigger Technique/Customer Whisperer System/5 F's/Switch Interview/JTBD Marketing) + 4播客 + 3 READMEs |
@@ -201,7 +201,7 @@ P3 - 新增人物：
   [x] gustaf-alstromer: ✅ 已完成 profile + 5 frameworks + 2 podcasts + 3 READMEs (2026-03-12)
 
 P4 - 经典人物补充：
-  [x] david-ogilvy: ✅ 已完成 1 framework (7 Principles) + 60+ quotes + 2 books index + 2 READMEs (2026-03-14)
+  [x] david-ogilvy: ✅ 已完成 6 frameworks + 1 book + 60+ quotes + 3 READMEs (2026-03-19) — Brand Image Theory, 10 Commandments, Research-Based Advertising, Headline Writing Formula, Long Copy Principles, 7 Principles | Confessions of an Advertising Man完整摘要(~12700字) | **Phase 2轮次19完成**（2026-03-19 10:30）：新增5个核心框架(Brand Image Theory/10 Commandments/Research-Based Advertising/Headline Writing Formula/Long Copy Principles)，frameworks总数1→6；新增Confessions of an Advertising Man完整书籍摘要(~12700字A级文档)，books总数0→1；更新框架README整合6个框架体系，建立David Ogilvy广告方法论完整知识库：品牌建设/创作原则/研究方法/标题写作/长文案技巧/管理智慧，~50KB A级内容，多来源验证，为营销分类其他人物建立对标体系
   [x] amanda-natividad: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-12)
   [x] patrick-lencioni: ✅ 已完成 profile + 5 frameworks + 4 podcasts + README (2026-03-13)
   [x] ann-handley: ✅ 已完成 5 frameworks + 4 podcasts + 2 READMEs (2026-03-14)

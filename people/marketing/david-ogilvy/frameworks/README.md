@@ -1,291 +1,211 @@
----
-title: David Ogilvy — Frameworks
-type: index
-person: david-ogilvy
-last_updated: 2026-03-14
-total_frameworks: 1
----
+# David Ogilvy — Frameworks
 
-# David Ogilvy — 核心框架合集
+David Ogilvy（1911-1999）被誉为"广告教父"（Father of Advertising），他将科学研究方法引入创意广告行业，建立了现代广告的专业标准。
 
-> 广告之父的系统化方法论 — 经过实战验证的广告与营销原则
+## 核心框架
 
----
+### 1. **Brand Image Theory** (1955)
+品牌形象理论 — 品牌不只是产品，是消费者心智中的形象和个性。
 
-## 框架概览
+**核心概念：**
+- 每个广告都应强化品牌形象
+- 一致性是品牌生命
+- 长期主义胜过短期促销
 
-| 框架 | 核心思想 | 适用场景 | 来源 |
-|------|----------|----------|------|
-| [7 Principles of Marketing](./seven-principles-of-marketing.md) | Give Facts, Be Truthful, Be Helpful, Big Idea, Don't Be Boring, Know Customer, Stay True to Brand | 广告创作、品牌建设、文案写作 | Confessions of an Advertising Man (1963) |
+**经典案例：** Dove（31年）、Hathaway（21年）、Rolls-Royce
+
+[查看详情](./brand-image-theory.md)
 
 ---
 
-## 核心哲学
+### 2. **10 Commandments of Advertising** (1963)
+广告十诫 — 经过验证的广告创作原则，来自《Confessions of an Advertising Man》。
 
-### Ogilvy 的广告观
+**核心诫律：**
+1. 尊重消费者智慧
+2. 产品是仆人，不是地位象征
+3. 真实是最强大的元素
+4. 娱乐但不忘记销售
+5. 标题是最重要元素
+6. 谨慎使用统计数据
+7. 信息越多，销售越多
+8. 最重要的词是"你"
+9. 强大创意基于大创意
+10. 说得越多，记住的越少
 
-> "I do not regard advertising as entertainment or an art form, but as a medium of information."
-
-David Ogilvy 将广告视为信息传递的媒介,而非娱乐或艺术。这一哲学贯穿了他所有的工作。
-
-### 三大支柱
-
-1. **Research-Driven (基于研究)**
-   - 深入了解产品
-   - 研究竞争对手
-   - 理解目标客户
-
-2. **Big Idea (大创意)**
-   - 能持续30年的概念
-   - 简单但强大
-   - 与品牌紧密相关
-
-3. **Consistency (一致性)**
-   - 每个广告都为品牌形象做贡献
-   - 长期坚持核心信息
-   - 视觉和语调统一
+[查看详情](./ten-commandments-of-advertising.md)
 
 ---
 
-## 🎯 主力框架
+### 3. **Research-Based Advertising** (1948)
+研究导向广告 — 广告应基于研究和数据，而非直觉和意见。
 
-### [7 Principles of Marketing](./seven-principles-of-marketing.md)
+**核心方法：**
+- 研究先于创意
+- 测试，而不是猜测
+- 使用经过验证的技术
+- 从数据中学习规律
 
-**核心价值**: Ogilvy 最经典的营销原则,总结了他在 *Confessions of an Advertising Man* 中的核心智慧。
+**关键金句：**
+> "Advertising people who ignore research are as dangerous as generals who ignore decodes of enemy signals."
 
-**7个原则**:
-1. **Give the Facts** — 提供详细的产品信息
-2. **Be Truthful** — 诚实建立长期信任
-3. **Be Helpful** — 帮助消费者做出明智决策
-4. **Have a Big Idea** — 创造持久的品牌概念
-5. **Don't Be Boring** — 吸引并保持注意力
-6. **Understand Your Customer** — 深入研究目标受众
-7. **Stay True to Your Brand** — 保持品牌一致性
-
-**最适合**:
-- ✅ 创作新的广告活动
-- ✅ 建立品牌策略
-- ✅ 培训营销团队
-- ✅ 评估现有广告
-
-**经典应用**:
-- Rolls-Royce: "At 60 miles an hour..." (Principle 1: Give Facts)
-- Hathaway: 眼罩男人 (Principle 4: Big Idea)
-- Dove: Real Beauty (Principle 7: Brand Consistency)
+[查看详情](./research-based-advertising.md)
 
 ---
 
-## 📚 相关概念
+### 4. **Headline Writing Formula** (1963)
+标题写作公式 — 80% 的人只读标题，标题决定广告成败。
 
-### Big Ideas (大创意)
+**核心公式：**
+```
+[数字/新闻/如何] + [核心利益] + [目标受众] + [产品名]
+```
 
-Ogilvy 对 "Big Idea" 的定义:
+**6种高效标题类型：**
+1. 利益承诺型
+2. 新闻宣告型
+3. 具体数字型
+4. 问句引发型
+5. 见证推荐型
+6. 指南教程型
 
-> "Unless your campaign is built on a Big Idea, it will pass like a ship in the night."
-
-**识别 Big Idea 的方法**:
-- 客户会感到害怕(因为太简单)
-- 可以持续使用数十年
-- 可应用于所有媒介
-- 令人难忘且独特
-
-**经典 Big Ideas**:
-- **Hathaway**: 戴眼罩的男人 (25+ 年)
-- **Schweppes**: Commander Whitehead (20+ 年)
-- **Dove**: Real Beauty (20+ 年,至今仍在使用)
-
----
-
-### Headlines (标题)
-
-> "On average, five times as many people read the headline as read the body copy."
-
-**Ogilvy 的标题原则**:
-1. 包含品牌名
-2. 包含新闻价值
-3. 避免"盲标题"(不看正文就不懂的标题)
-4. 使用具体数字
-5. 承诺利益
-
-**经典标题**:
-- "At 60 miles an hour, the loudest noise in this new Rolls-Royce comes from the electric clock"
-- "The man in the Hathaway shirt"
-- "Do you make these mistakes in English?"
+[查看详情](./headline-writing-formula.md)
 
 ---
 
-### Long Copy (长文案)
+### 5. **Long Copy Principles** (1963)
+长文案原则 — "The more you tell, the more you sell."
 
-> "The more you tell, the more you sell."
+**核心洞察：**
+- 长文案比短文案销售力平均高 19%
+- 对产品感兴趣的人会读完
+- 长文案是筛选器，吸引高质量潜在客户
 
-Ogilvy 是长文案的坚定支持者:
+**适用场景：**
+- 高价产品（>$100）
+- 复杂产品（需要解释）
+- 直接响应广告
+- 品牌建立初期
 
-**为什么长文案有效**:
-- 提供足够的信息帮助决策
-- 展示专业知识
-- 建立信任
-- 筛选真正感兴趣的客户
-
-**经典案例**:
-- Rolls-Royce 广告: 600+ 词
-- Ogilvy on Puerto Rico: 1,000+ 词
-- 都取得了巨大成功
-
----
-
-### Brand Image (品牌形象)
-
-> "Every advertisement should be thought of as a contribution to the complex symbol which is the brand image."
-
-**品牌形象的重要性**:
-- 是你最宝贵的资产
-- 需要数年甚至数十年建立
-- 一个糟糕的广告可能损害多年积累
-
-**建立品牌形象的方法**:
-1. 一致性 (视觉、语调、信息)
-2. 长期坚持
-3. 每个接触点都重要
-4. 不要为短期销售牺牲品牌
+[查看详情](./long-copy-principles.md)
 
 ---
 
-## 🛠️ 实用工具
+### 6. **Seven Principles of Marketing** 
+7条营销原则 — Ogilvy一生总结的营销智慧。
 
-### 广告创作检查清单
+**核心原则：**
+1. "Don't beat about the bush—go straight to the point."
+2. "Good products can be sold by honest advertising."
+3. "Include your telephone number in every advertisement."
+4. "The more informative your advertising, the more persuasive it will be."
+5. "Never use tricky or irrelevant headlines."
+6. "If you're trying to persuade people, you must entertain them."
+7. "What you say in advertising is more important than how you say it."
 
-基于 Ogilvy 的原则:
-
-**文案阶段**:
-- [ ] 标题是否清晰有力?
-- [ ] 是否提供了足够的事实?
-- [ ] 语言是否自然、易懂?
-- [ ] 是否诚实可信?
-- [ ] 是否真正帮助客户?
-
-**创意阶段**:
-- [ ] 是否有 Big Idea?
-- [ ] 创意是否与品牌相关?
-- [ ] 是否令人难忘?
-- [ ] 是否有趣(不无聊)?
-
-**研究阶段**:
-- [ ] 是否充分了解产品?
-- [ ] 是否研究了竞品?
-- [ ] 是否理解目标客户?
-- [ ] 是否参考了成功案例?
-
-**品牌阶段**:
-- [ ] 是否符合品牌形象?
-- [ ] 是否保持了一致性?
-- [ ] 是否考虑长期影响?
+[查看详情](./seven-principles-of-marketing.md)
 
 ---
 
-## 📖 学习路径
+## 框架间的关系
 
-### 入门级 (0-1年经验)
-
-1. **学习**: [7 Principles of Marketing](./seven-principles-of-marketing.md)
-   - 理解核心概念
-   - 研究经典案例
-   - 尝试应用到小项目
-
-2. **阅读**: *Ogilvy on Advertising*
-   - 掌握具体技巧
-   - 学习案例分析
-
-3. **实践**: 
-   - 重写现有广告
-   - 分析优秀广告
-   - 创作练习项目
-
-### 进阶级 (1-3年经验)
-
-1. **深入研究**: 经典案例
-   - Rolls-Royce
-   - Hathaway
-   - Schweppes
-   - 分析为什么有效
-
-2. **阅读**: *Confessions of an Advertising Man*
-   - 理解商业背景
-   - 学习战略思维
-
-3. **实践**:
-   - 创作 Big Idea
-   - 建立品牌策略
-   - 测试和优化
-
-### 高级级 (3+年经验)
-
-1. **融会贯通**: 
-   - 将原则应用到数字时代
-   - 创造自己的方法论
-   - 教导他人
-
-2. **持续学习**:
-   - 研究 Ogilvy 的所有作品
-   - 分析 O&M 的成功案例
-   - 关注广告行业发展
+```
+Brand Image Theory（长期战略）
+         ↓
+Research-Based Advertising（方法论基础）
+         ↓
+10 Commandments（创作原则）
+    ↙        ↘
+Headline Formula    Long Copy Principles
+（标题技巧）        （文案深度）
+```
 
 ---
 
-## 🎓 延伸阅读
+## 如何使用这些框架
 
-### Ogilvy 的其他著作
-- 📚 *Confessions of an Advertising Man* (1963)
-- 📚 *Ogilvy on Advertising* (1983)
-- 📚 *The Unpublished David Ogilvy* (2012)
+### **1. 品牌建设场景**
+- 使用 **Brand Image Theory** 定义品牌长期定位
+- 用 **Research-Based Advertising** 验证品牌策略
 
-### 相关资源
-- 📝 [Classic Quotes](../quotes/classic-quotes.md) — 60+经典语录
-- 📚 [Books](../books/README.md) — 书籍详细介绍
-- 🌐 [Ogilvy.com](https://www.ogilvy.com/) — 官方网站
+### **2. 广告创作场景**
+- 用 **10 Commandments** 作为创作检查清单
+- 用 **Headline Formula** 写标题
+- 根据产品类型选择 **Long Copy** 或短文案
 
-### 推荐播客/视频
-- 🎙️ [Founders Podcast: David Ogilvy](https://www.founderspodcast.com/)
-- 📺 [David Ogilvy on Good Advertising (YouTube)](https://www.youtube.com/results?search_query=david+ogilvy)
-
----
-
-## 💡 现代应用
-
-### 数字时代的 Ogilvy 原则
-
-虽然 Ogilvy 的书写于互联网之前,但他的原则在数字时代依然有效:
-
-**社交媒体**:
-- Principle 2 (Be Truthful) — 更重要了
-- Principle 5 (Don't Be Boring) — 竞争更激烈
-- Principle 6 (Know Customer) — 有更多数据
-
-**内容营销**:
-- Principle 1 (Give Facts) — 长篇内容的基础
-- Principle 3 (Be Helpful) — 内容营销的核心
-- Principle 7 (Brand Consistency) — 跨平台一致性
-
-**Performance Marketing**:
-- Ogilvy 是测试和优化的先驱
-- "Test everything" 的理念
-- 数据驱动的创意
+### **3. 效果优化场景**
+- 用 **Research-Based** 方法测试和优化
+- 对照 **10 Commandments** 找问题
 
 ---
 
-## 🔥 经典语录
+## Ogilvy 的广告哲学
 
-> "If it doesn't sell, it isn't creative."
+### **核心信念**
 
-> "The consumer is not a moron. She is your wife."
+1. **专业主义 > 艺术创作**
+   - 广告是科学 + 艺术
+   - 研究和测试而非直觉
+   - 结果导向而非创意奖
 
-> "Unless your campaign is built on a Big Idea, it will pass like a ship in the night."
+2. **长期主义 > 短期促销**
+   - 建立品牌资产
+   - 一致性胜过创新
+   - 成功的广告可以持续几十年
 
-> "Big ideas are usually simple ideas."
-
-> "Every advertisement should be thought of as a contribution to the complex symbol which is the brand image."
+3. **诚实 > 夸张**
+   - 真实是最强大的元素
+   - 尊重消费者智慧
+   - 长期声誉比短期利益重要
 
 ---
 
-*最后更新: 2026-03-14*  
-*维护者: Anima Base Team*  
-*版本: v1.0*
+## 现代应用
+
+### **仍然有效的原则**
+
+✅ **核心不变：**
+- 研究和数据驱动
+- 尊重受众智慧
+- 清晰的利益传达
+- 诚实和透明
+- 长期品牌建设
+
+### **需要适配的方面**
+
+⚠️ **时代变化：**
+- 媒介：从印刷到数字
+- 测试：从焦点小组到 A/B 测试
+- 速度：从年度活动到实时优化
+- 互动：从单向到双向对话
+
+---
+
+## 延伸学习
+
+**相关书籍：**
+- *Confessions of an Advertising Man* (1963)
+- *Ogilvy on Advertising* (1983)
+- *The Unpublished David Ogilvy* (2012)
+
+**其他资源：**
+- [../books/confessions-of-an-advertising-man.md](../books/confessions-of-an-advertising-man.md) — 完整书籍摘要
+- [../profile.md](../profile.md) — Ogilvy 生平和影响
+
+---
+
+## 核心金句
+
+1. "The consumer is not a moron; she is your wife."
+2. "The more you tell, the more you sell."
+3. "If it doesn't sell, it isn't creative."
+4. "Every advertisement should be thought of as a contribution to the brand image."
+5. "Don't bunt. Aim out of the ballpark."
+6. "Hire people who are better than you are."
+7. "Never write an advertisement which you wouldn't want your family to read."
+
+---
+
+**最后更新：** 2026-03-19
+**框架数量：** 6
+**验证状态：** 全部 A 级验证
