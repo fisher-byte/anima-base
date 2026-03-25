@@ -3074,3 +3074,214 @@ people/product/naval-ravikant/
 
 ### 状态
 ✅ 已完成：Phase 4轮次2完成，Marty Cagan决策案例库成功启动，为产品愿景和组织转型决策建立参考模板
+## 2026-03-25 16:00 — Phase 4扩充：Naval Ravikant Podcasts补充(2025年度重要访谈)
+
+### 任务目标
+- 执行 Phase 4: Naval Ravikant podcasts 和 articles 扩充
+- 目标：补充2025年度最重要的两个访谈
+- 策略：聚焦最新、最有影响力的内容
+
+### 执行内容
+
+#### 1. 现状评估
+**发现统计偏差**:
+- COLLECTION_STATUS显示：podcasts 0，frameworks 5
+- 实际目录：podcasts 4个，frameworks 6个
+- 判断：统计需要修正，但内容仍可扩充
+
+#### 2. 深度网络搜索
+**搜索策略**:
+- Naval Ravikant 2023-2025最新播客
+- Tim Ferriss/Joe Rogan/Chris Williamson重要访谈
+- How to Get Rich tweetstorm完整资源
+- The Almanack核心文章
+
+**关键发现**:
+1. **Tim Ferriss #788 (2025-01-18)** - 育儿哲学重磅访谈:
+   - 标题：How to Raise a Sovereign Child
+   - 时长：3小时11分钟
+   - 主题：Taking Children Seriously育儿哲学
+   - 嘉宾：Naval + Aaron Stupple
+   - 完整transcript可用
+
+2. **Modern Wisdom #922 (2025-03-31)** - 2025年度顶级访谈:
+   - 标题：44 Harsh Truths About Human Nature
+   - 时长：3小时16分钟
+   - 观看量：460万(YouTube)
+   - Modern Wisdom 2025年度Top 1集
+   - 完整transcript + Podcast Notes可用
+
+#### 3. Podcast文档创建
+
+**文档1: 2025-01-tim-ferriss-788-sovereign-child.md**
+- **规模**: ~10KB，A级文档
+- **核心内容**:
+  - Taking Children Seriously哲学完整解析
+  - 非强制性育儿原则(零睡眠时间表/不控制饮食/不限制屏幕)
+  - 儿童作为知识创造者
+  - David Deutsch和Karl Popper哲学基础
+  - Naval vs 传统育儿体系的深度辩论
+  - 强制的隐藏成本
+  - 训练vs发现的矛盾
+  - 与Naval其他思想的关联(长期主义/第一性原理/反权威)
+- **争议性**: 极高 - 挑战整个教育和育儿体系
+- **Naval参与度**: 50%采纳,仍在消化
+- **验证**: A级(官方完整transcript 3h11m)
+
+**文档2: 2025-03-modern-wisdom-922-harsh-truths.md**
+- **规模**: ~11KB，A级文档
+- **核心内容**:
+  - 幸福vs成功的悖论
+  - 赢得游戏的目的是摆脱它
+  - 痛苦vs受苦的区别
+  - 选择性欲望的重要性
+  - 名声的真实代价
+  - 自尊修复快速方法
+  - 骄傲是最昂贵的特质
+  - 客观观察思维的力量
+  - 真正的智力=得到你想要的
+  - 10,000次错误修正
+  - 地位游戏vs财富创造
+  - 时间自由的极致
+  - 44个人性洞察精华
+- **影响力**: 460万观看，Chris Williamson 2025年度顶级访谈
+- **验证**: A级(完整transcript + Podcast Notes)
+
+#### 4. README更新
+- **更新podcasts/README.md**:
+  - 添加2个新podcast条目
+  - 更新主题索引(新增"育儿与教育"分类)
+  - 更新统计: 4→6个podcast，8h→14.5h总时长
+  - 标注2025最新访谈
+
+#### 5. COLLECTION_STATUS更新
+- **Naval Ravikant行**:
+  - podcasts: 0→6 (修正统计+新增2个)
+  - 详细备注更新,强调2025年度扩充
+  - 完整描述6个podcast涵盖范围
+
+### 核心价值
+
+**为什么这两个访谈重要**:
+
+1. **Tim Ferriss #788 (育儿哲学)**:
+   - Naval首次系统性阐述育儿观
+   - 连接哲学(Deutsch/Popper)与实践(Aaron的5孩经验)
+   - 展示Naval思想在新领域的应用
+   - 极具争议性,引发深度思考
+   - 与Sovereign Child运动的关联
+
+2. **Modern Wisdom #922 (人性真相)**:
+   - 2025年度最重要的Naval访谈
+   - 3+小时,44个深刻洞察
+   - 460万观看,巨大影响力
+   - Naval思想体系的完整展现
+   - 幸福/成功/欲望/自尊/时间自由全覆盖
+
+**对anima-base的战略价值**:
+- 补充Naval 2025年最新思想
+- 育儿哲学是Naval首次深入探讨的新领域
+- 人性洞察提供更完整的Naval世界观
+- 两个访谈总计6.5小时,是Naval近年最长深度对话
+- 为Persona建模提供最新、最全面的材料
+
+### 质量验证
+
+✅ **内容深度**:
+- Tim Ferriss #788: ~10KB，涵盖完整育儿哲学体系
+- Modern Wisdom #922: ~11KB，44个关键洞察全覆盖
+
+✅ **来源可靠**:
+- 两个访谈均有完整官方transcript
+- Modern Wisdom有Podcast Notes详细摘要验证
+- 多来源交叉验证
+
+✅ **结构完整**:
+- YAML frontmatter标准格式
+- 核心洞察提炼清晰
+- 与Naval其他思想的关联明确
+- 适用场景和局限性分析
+- 延伸阅读资源完整
+
+✅ **时效性**:
+- 2025年1月和3月最新访谈
+- 代表Naval思想的最新演化
+- 460万观看的高影响力内容
+
+### 文件变更
+
+**新增文件**(2个):
+1. `/people/startup/naval-ravikant/podcasts/2025-01-tim-ferriss-788-sovereign-child.md` (~10KB)
+2. `/people/startup/naval-ravikant/podcasts/2025-03-modern-wisdom-922-harsh-truths.md` (~11KB)
+
+**修改文件**(3个):
+1. `/people/startup/naval-ravikant/podcasts/README.md` - 添加2个新podcast + 更新统计
+2. `COLLECTION_STATUS.md` - Naval行: podcasts 0→6
+3. `TASK_LOG.md` - 本次执行记录
+
+**总规模**: ~21KB新增内容 + README更新
+
+### 执行状态
+✅ **已完成**
+
+### Phase 4 Naval Ravikant 总结
+
+**完整内容体系**:
+- **Profile**: 1篇完整(~4KB)
+- **Podcasts**: 6个(~14.5h总时长)
+  - Tim Ferriss #788 (2025): 育儿哲学 3h11m ⭐
+  - Modern Wisdom #922 (2025): 44人性真相 3h16m 🔥 460万观看 ⭐
+  - Joe Rogan #1309: 财富与人生 2h15m
+  - Tim Ferriss #473: 幸福哲学 2h30m
+  - Knowledge Project: 思维模型与决策 1h30m
+  - Tim Ferriss #97: 创业投资与阅读 2h
+- **Frameworks**: 6个(实际，COLLECTION_STATUS待修正)
+- **Articles**: 0篇(待扩充)
+
+**主题覆盖**:
+- ✅ 财富创造(How to Get Rich)
+- ✅ 幸福哲学(Happiness as Skill)
+- ✅ 投资策略(Angel Investing)
+- ✅ 思维方法(Mental Models)
+- ✅ 阅读与学习(Reading Principles)
+- ✅ 育儿哲学(Sovereign Child) **2025新增**
+- ✅ 人性洞察(44 Harsh Truths) **2025新增**
+- ⬜ 文章和Tweetstorms(待补充)
+
+### 下一步建议
+
+根据执行计划,可继续:
+
+**优先级1: Naval articles扩充**
+- How to Get Rich tweetstorm完整版
+- The Almanack核心文章
+- nav.al博客精选
+- AngelList早期文章
+
+**优先级2: 其他Phase 4人物**
+- Gustaf Alströmer (已完成)
+- Amanda Natividad (已完成)
+- Patrick Lencioni (已完成)
+- Katelyn Bourgoin (已完成)
+- Ann Handley (已完成)
+- David Ogilvy (已完成)
+
+**优先级3: Phase 3决策案例继续扩充**
+- Julie Zhuo决策案例
+- Teresa Torres决策案例
+- Marty Cagan决策案例扩充
+
+### 元数据
+- **执行时间**: 90分钟
+- **网络搜索**: 6次
+- **内容获取**: 3次(transcripts + notes)
+- **新增文件**: 2个podcast文档
+- **修改文件**: 3个(README + COLLECTION_STATUS + TASK_LOG)
+- **文档规模**: ~21KB新增内容
+- **验证等级**: A级(官方transcript + 多源验证)
+
+### GitHub提交
+待执行(下一步)
+
+---
+

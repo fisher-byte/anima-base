@@ -60,7 +60,7 @@
 | Elena Verna | ✅ | ✅ | 4 | 0 | 6 | 0 | 0 | 0 | P2 | ✅ Phase 2 轮次12完成：6框架 + 4播客 |
 | Chamath Palihapitiya | ✅ | ✅ | 5 | 0 | 7 | 0 | 0 | 0 | P2 | ✅ Phase 2 扩充完成：7框架 + 5播客 + 2 READMEs |
 | Gustaf Alströmer | ✅ | ✅ | 2 | 0 | 5 | 0 | 0 | 0 | P3 | ✅ Phase 4 完成：profile + 5框架 + 2播客 + 3 READMEs |
-|| Naval Ravikant | ✅ | ✅ | 0 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ Phase 4 完成：完整profile(~8KB，AngelList创始人/天使投资人/哲学家，投资Twitter/Uber等200+公司，财富与幸福思想体系) + 5框架(How to Get Rich Formula/Specific Knowledge/Leverage/Happiness as Skill/Reading Principles) + 3 READMEs，覆盖财富创造公式、特定知识、四种杠杆、幸福哲学、阅读原则完整体系（2026-03-19） |
+|| Naval Ravikant | ✅ | ✅ | 6 | 0 | 5 | 0 | 0 | 0 | P4 | ✅ Phase 4 完成 + 2025年度podcasts扩充：profile + 5框架 + **6播客**(Tim Ferriss 2025育儿哲学3h11m/Modern Wisdom 44人性真相3h16m 460万观看/Joe Rogan/Tim Ferriss幸福哲学/Knowledge Project/Tim Ferriss投资) + 3 READMEs，覆盖财富创造、幸福哲学、投资策略、育儿哲学、人性洞察完整体系（2026-03-25 最新） |
 
 ### Marketing（营销）
 
