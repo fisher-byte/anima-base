@@ -3285,3 +3285,4 @@ people/product/naval-ravikant/
 
 ---
 
+|| 2026-03-30 | Lenny Rachitsky | frameworks | ✅ | 2 | Phase 3轮次4完成：新增2个核心框架（Subscription Value Loop + DRICE Prioritization），frameworks总数21→23 |
