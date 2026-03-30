@@ -3286,3 +3286,4 @@ people/product/naval-ravikant/
 ---
 
 || 2026-03-30 | Lenny Rachitsky | frameworks | ✅ | 2 | Phase 3轮次4完成：新增2个核心框架（Subscription Value Loop + DRICE Prioritization），frameworks总数21→23 |
+|| 2026-03-30 | Lenny Rachitsky | frameworks | ✅ | 2 | Phase 3轮次5完成：新增2个核心框架（PLG Five-Step Framework + Product-Led Sales Framework），frameworks总数23→25，覆盖PLG完整实施路径（确保PMF/自助流程/数据基础/漏斗优化/增长循环）和PLS混合模型（PQA/PQL/销售介入/组织架构），~23KB A级文档 |
